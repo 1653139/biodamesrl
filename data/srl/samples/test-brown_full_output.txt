@@ -1,0 +1,7585 @@
+Thirty-three		-
+
+Scotty		-
+did		-
+not		-
+go		-
+back		-
+to		-
+school		-
+.		-
+
+His		-		*		*		*		*		*		*		*		*		*		*
+parents		-		*		*		*		*		*		*		*		*		*		*
+talked		talk		(V*)		*		*		*		*		*		*		*		*		*
+seriously		-		*		*		*		*		*		*		*		*		*		*
+and		-		*		*		*		*		*		*		*		*		*		*
+lengthily		-		*		*		*		*		*		*		*		*		*		*
+to		-		*		*		*		*		*		*		*		*		*		*
+their		-		*		*		*		*		*		*		*		*		*		*
+own		-		*		*		*		*		*		*		*		*		*		*
+doctor		-		*		*		*		*		*		*		*		*		*		*
+and		-		*		*		*		*		*		*		*		*		*		*
+to		-		*		*		*		*		*		*		*		*		*		*
+a		-		*		*		*		*		*		*		*		*		*		*
+specialist		-		*		(A1*)		*		*		*		*		*		*		*		*
+at		-		*		*		*		*		*		*		*		*		*		*
+the		-		*		*		*		*		*		*		*		*		*		*
+University		-		*		*		*		*		*		*		*		*		*		*
+Hospital		-		*		*		*		*		*		*		*		*		*		*
+--		-		*		*		*		*		*		*		*		*		*		*
+Mr.		-		*		*		*		*		*		*		*		*		*		*
+McKinley		-		*		*		*		*		*		*		*		*		*		*
+was		-		*		*		*		*		*		*		*		*		*		*
+entitled		entitle		*		(V*)		*		*		*		*		*		*		*		*
+to		-		*		*		*		*		*		*		*		*		*		*
+a		-		*		*		*		*		*		*		*		(A1*)		*		*
+discount		-		*		*		*		*		*		*		*		*		*		*
+for		-		*		*		*		*		*		*		*		*		*		*
+members		-		*		*		*		*		*		*		*		*		*		*
+of		-		*		*		*		*		*		*		*		*		*		*
+his		-		*		*		*		*		*		*		*		*		*		*
+family		-		*		*		*		*		*		*		*		*		*		*
+--		-		*		*		*		*		*		*		*		*		*		*
+and		-		*		*		*		*		*		*		*		*		*		*
+it		-		(A1*)		*		*		*		*		*		*		*		*		*
+was		-		*		*		*		*		*		*		*		*		*		*
+decided		decide		*		*		(V*)		*		*		*		*		*		*		*
+it		-		(A1*)		*		*		*		*		*		*		*		*		*
+would		-		*		*		*		*		*		*		*		*		*		*
+be		-		*		*		*		*		*		*		*		*		*		*
+best		-		*		*		*		*		*		*		*		*		*		*
+for		-		*		*		*		*		*		*		*		*		*		*
+him		-		*		*		*		*		*		*		*		*		*		*
+to		-		*		*		*		*		*		*		*		*		*		*
+take		take		*		*		*		(V*)		*		*		*		*		*		*
+the		-		*		*		*		*		*		*		*		*		*		*
+remainder		-		*		*		*		*		*		*		*		*		*		*
+of		-		*		*		*		*		*		*		*		*		*		*
+the		-		*		*		*		*		*		*		*		*		*		*
+term		-		*		*		*		*		*		*		*		*		*		*
+off		-		*		*		*		*		*		*		*		*		*		*
+,		-		*		*		*		*		*		*		*		*		*		*
+spend		spend		*		*		*		*		(V*)		*		*		*		*		*
+a		-		*		*		*		*		*		*		*		(A1*)		*		*
+lot		-		*		*		*		*		*		*		*		*		*		*
+of		-		*		*		*		*		*		*		*		*		*		*
+time		-		*		*		*		*		*		*		*		*		*		*
+in		-		*		*		*		*		*		*		*		*		*		*
+bed		-		*		*		*		*		*		*		*		*		*		*
+and		-		*		*		*		*		*		*		*		*		*		*
+,		-		*		*		*		*		*		*		*		*		*		*
+for		-		*		*		*		*		*		*		*		*		*		*
+the		-		*		*		*		*		*		*		*		*		*		*
+rest		-		*		*		*		*		*		*		*		*		*		*
+,		-		*		*		*		*		*		*		*		*		*		*
+do		do		*		(V*)		*		(V*)		*		(V*)		*		*		*		(V*)
+pretty		-		*		*		*		*		*		*		*		*		*		*
+much		-		*		*		*		*		*		*		*		*		*		*
+as		-		*		*		*		*		*		*		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)
+chose		choose		*		*		*		*		*		*		(V*)		*		*		*
+--		-		*		*		*		*		*		*		*		*		*		*
+provided		provide		*		*		*		*		*		*		*		(V*)		*		*
+,		-		*		*		*		*		*		*		*		*		*		*
+of		-		*		*		*		*		*		*		*		*		*		*
+course		-		*		*		*		*		*		*		*		*		*		*
+,		-		*		*		*		*		*		*		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)
+chose		choose		*		*		*		*		*		*		*		*		(V*)		*
+to		-		*		*		*		*		*		*		*		*		*		*
+do		do		*		(V*)		*		(V*)		*		(V*)		*		*		*		(V*)
+nothing		-		*		*		*		*		*		*		*		*		*		*
+too		-		*		*		*		*		*		*		*		*		*		*
+exciting		-		*		*		*		*		*		*		*		*		*		*
+or		-		*		*		*		*		*		*		*		*		*		*
+too		-		*		*		*		*		*		*		*		*		*		*
+debilitating		-		*		*		*		*		*		*		*		*		*		*
+.		-		*		*		*		*		*		*		*		*		*		*
+
+His		-		*		*		*
+teacher		-		*		*		*
+and		-		*		*		*
+his		-		*		*		*
+school		-		*		*		*
+principal		-		*		*		*
+were		-		*		*		*
+conferred		-		*		(A1*)		*
+with		-		*		*		*
+and		-		*		*		*
+everyone		-		(A0*)		(A1*)		(A0*)
+agreed		agree		(V*)		*		*
+that		-		*		*		*
+,		-		*		*		*
+if		-		*		*		*
+he		-		(A0*)		(A1*)		(A0*)
+kept		keep		*		(V*)		*
+up		-		*		*		*
+with		-		*		*		*
+a		-		*		*		*
+certain		-		*		*		*
+amount		-		*		*		*
+of		-		*		*		*
+work		-		(V*)		*		*
+at		-		*		*		*
+home		-		*		*		*
+,		-		*		*		*
+there		-		*		*		*
+was		-		*		*		*
+little		-		*		*		*
+danger		-		*		(A1*)		*
+of		-		*		*		*
+his		-		*		*		*
+losing		lose		*		*		(V*)
+a		-		*		*		*
+term		-		*		*		*
+.		-		*		*		*
+
+Scotty		-		(A0*)		(A0*)
+accepted		accept		(V*)		(A1*)
+the		-		*		(A1*
+decision		-		*		*)
+with		-		*		*
+indifference		-		(A1*)		*
+and		-		*		*
+did		-		*		*
+not		-		(AM-NEG*)		(AM-NEG*)
+enter		enter		*		(V*)
+the		-		*		*
+arguments		-		(A1*)		*
+.		-		*		*
+
+He		-		(A1*)		*		(A1*)
+was		-		*		*		*
+discharged		discharge		(V*)		*		*
+from		-		(AM-LOC*		*		*
+the		-		*)		*		*
+hospital		-		*		*		*
+after		-		(AM-TMP*)		*		*
+a		-		*		*		*
+two-day		-		*		*		*
+checkup		-		*		*		*
+and		-		*		*		*
+he		-		(A1*)		*		(A1*)
+and		-		*		*		*
+his		-		*		*		*
+parents		-		*		*		*
+had		have		*		(V*)		*
+what		-		(R-A1*)		*		(R-A1*)
+Mr.		-		*		*		*
+McKinley		-		*		*		*
+described		describe		*		*		(V*)
+as		-		*		*		(A2*)
+a		-		*		*		*
+``		-		*		*		*
+celebration		-		*		*		*
+lunch		-		*		*		*
+''		-		*		*		*
+at		-		*		*		*
+the		-		*		*		*
+cafeteria		-		*		*		*
+on		-		*		*		(AM-TMP*)
+the		-		*		*		*
+campus		-		*		*		*
+.		-		*		*		*
+
+Rachel		-		*		*		*		*
+wore		wear		(V*		*		*		*
+a		-		*		*		*		*
+smart		-		*		(AM-ADV*)		*		*
+hat		-		*)		*		*		*
+and		-		*		*		*		*
+,		-		*		*		*		*
+because		-		(AM-CAU*)		*		*		*
+she		-		(A1*)		(A0*)		(A0*)		(A0*)
+had		-		*		*		*		*
+been		-		*		*		*		*
+warned		warn		*		(V*)		*		*
+recently		-		(AM-TMP*)		*		(AM-TMP*)		(AM-TMP*)
+about		-		*		(A1*)		*		*
+smoking		-		*		*		*		*
+,		-		*		*		*		*
+puffed		puff		*		*		(V*)		*
+at		-		*		*		*		*
+her		-		*		*		*		*
+cigarettes		-		*		*		(A1*)		*
+through		-		(AM-MNR*		*		*		*
+a		-		*)		*		*		*
+long		-		*		*		*		*
+ivory		-		*		*		*		*
+holder		-		*		*		*		*
+stained		stain		*		*		*		(V*)
+with		-		*		(A2*)		*		(A2*)
+lipstick		-		*		*		*		*
+.		-		*		*		*		*
+
+Scotty		-		*		*		*
+'s		-		*		*		*
+father		-		*		*		*
+sat		sit		(V*)		*		*
+sprawled		sprawl		(A2*)		(V*)		*
+in		-		(AM-LOC*)		*		*
+his		-		(A1*		*		*
+chair		-		*)		*		*
+,		-		*		*		*
+angular		-		*		*		*
+,		-		*		*		*
+alert		-		*		*		*
+as		-		(AM-PRD*		*		*
+a		-		*		*		(A1*)
+cricket		-		*)		*		*
+,		-		*		*		*
+looking		look		(AM-ADV*)		*		(V*)
+about		-		*		*		*
+at		-		(AM-LOC*		*		*
+the		-		*)		*		*
+huge		-		(A1*)		*		*
+stainless-steel		-		(AM-ADV*		*		*
+appointments		-		*)		*		*
+of		-		*		*		*
+the		-		*		*		*
+room		-		*		*		*
+with		-		(AM-MNR*		*		*
+an		-		*		*		*
+expression		-		*)		*		*
+of		-		*		*		*
+proprietorship		-		(A2*)		*		*
+.		-		*		*		*
+
+Teachers		-		(A0*)		*		(A1*)		(A0*)		(A0*)
+--		-		*		*		*		*		*
+men		-		*		(A0*)		*		(A0*)		*
+who		-		(R-A1*)		*		(R-A1*)		(R-A0*)		*
+wore		wear		(V*)		*		*		*		*
+brown		-		*		*		*		*		*
+suits		-		*		*		*		*		*
+and		-		*		*		*		*		*
+had		have		*		(V*)		*		*		*
+gray		-		*		*		*		*		*
+hair		-		*		*		*		*		*
+and		-		*		*		*		*		*
+pleasant		-		*		*		*		(A1*)		*
+smiles		-		*		*		*		*		*
+--		-		*		*		*		*		*
+came		come		*		*		(V*)		*		*
+to		-		*		*		*		*		*
+their		-		*		*		*		*		*
+table		-		*		*		*		*		*
+to		-		*		*		*		*		*
+talk		talk		*		*		*		(V*)		*
+shop		-		*		*		*		*		*
+and		-		*		*		*		*		*
+to		-		*		*		*		*		*
+be		-		*		*		*		*		*
+introduced		introduce		*		*		*		*		(V*)
+to		-		*		*		*		*		*
+Scotty		-		*		*		*		*		*
+and		-		*		*		*		*		*
+Rachel		-		*		*		*		*		*
+.		-		*		*		*		*		*
+
+Rachel		-
+was		-
+polite		-
+,		-
+Scotty		-
+indifferent		-
+.		-
+
+They		-		(A0*)		(A0*)
+ate		eat		(V*)		*
+the		-		*		*
+cafeteria		-		*		*
+food		-		*		*
+with		-		*		(AM-MNR*)
+its		-		*		*
+orange		-		*		*
+sauces		-		*		*
+and		-		*		*
+Scotty		-		*		*
+gazed		gaze		*		(V*)
+without		-		*		*
+interest		-		*		*
+at		-		*		*
+his		-		*		*
+food		-		*		*
+,		-		*		*
+the		-		*		*
+teachers		-		*		*
+,		-		*		*
+the		-		*		*
+heroic		-		*		*
+baronial		-		*		*
+windows		-		*		*
+,		-		*		*
+and		-		*		*
+the		-		*		*
+bright		-		*		*
+ranks		-		*		*
+of		-		*		*
+college		-		*		*
+banners		-		*		*
+.		-		*		*
+
+His		-		*		*
+father		-		*		*
+tried		try		(V*)		*
+to		-		(A1*)		*
+make		make		*		(V*
+the		-		*		*
+food		-		*		*)
+a		-		(A0*		(A1*
+topic		-		*)		*)
+.		-		*		*
+
+``		-
+The		-
+blueberry		-
+pie		-
+is		-
+good		-
+,		-
+Scotty		-
+.		-
+
+I		-		(A0*)
+recommend		recommend		(V*)
+it		-		(A1*)
+''		-		*
+.		-		*
+
+He		-		(A0*)		(A0*)
+looked		look		(V*)		*
+at		-		(A1*		*
+his		-		*)		*
+son		-		*		*
+,		-		*		*
+his		-		*		*
+face		-		*		*
+worried		worry		*		(V*)
+.		-		*		*
+
+Scotty		-		*		*		*
+murmured		murmur		(V*)		*		*
+,		-		*		*		*
+``		-		*		*		*
+No		-		*		*		*
+,		-		*		*		*
+thanks		-		*		*		*
+''		-		*		*		*
+,		-		*		*		*
+so		-		*		*		*
+softly		-		*		*		*
+his		-		*		*		(A1*
+father		-		*		*		*)
+had		-		*		*		*
+to		-		*		*		*
+bend		bend		*		(V*)		*
+his		-		*		*		(A1*)
+gaunt		-		*		*		*
+height		-		*		*		*
+across		-		(AM-DIR*)		*		*
+the		-		(A1*)		*		*
+table		-		*		*		*
+and		-		*		*		*
+turn		turn		*		*		(V*)
+a		-		*		*		*
+round		-		*		*		*
+brown		-		*		*		*
+ear		-		*		*		*
+to		-		*		*		*
+him		-		*		*		*
+.		-		*		*		*
+
+Scotty		-		*
+regarded		regard		(V*
+the		-		*
+ear		-		*
+and		-		*
+the		-		*
+grizzled		-		*
+hair		-		*
+around		-		*)
+it		-		(A1*
+with		-		*)
+a		-		(A2*
+moment		-		*
+of		-		*
+interest		-		*)
+.		-		*
+
+He		-		(A0*)
+said		say		(V*)
+more		-		*
+loudly		-		(AM-MNR*)
+,		-		*
+``		-		*
+I		-		*
+'m		-		*
+full		-		(A1*)
+,		-		*
+old		-		*
+Pop		-		*
+''		-		*
+.		-		*
+
+He		-		(A0*)		(A0*)
+had		-		*		*
+eaten		eat		(V*)		*
+almost		-		(AM-ADV*)		(AM-ADV*)
+nothing		-		(A1*)		(A1*)
+on		-		*		*
+the		-		*		(A1*)
+crested		-		*		*
+,		-		*		*
+three-sectioned		-		*		*
+plate		-		*		*
+and		-		*		*
+had		-		*		*
+drunk		drink		*		(V*)
+about		-		*		*
+half		-		*		(AM-ADV*)
+the		-		*		(A1*)
+milk		-		*		*
+in		-		*		*
+its		-		*		(A1*
+paper		-		*		*)
+container		-		*		*
+.		-		*		*
+
+``		-		*
+He		-		(A0*
+'s		-		*
+all		-		*)
+right		-		(A1*)
+,		-		*
+Craig		-		(A0*)
+''		-		*
+,		-		*
+Rachel		-		(A0*)
+said		say		(V*)
+.		-		*
+
+``		-		*		*
+I		-		(A0*)		(A0*)
+can		-		(AM-MOD*)		(AM-MOD*)
+fix		fix		(V*)		*
+him		-		(A1*)		*
+something		-		(A1*)		(A1*)
+later		-		(AM-TMP*)		(AM-TMP*
+in		-		(AM-LOC*)		*)
+the		-		(AM-MNR*		*
+afternoon		-		*)		*
+when		-		(R-AM-TMP*)		(R-AM-TMP*)
+we		-		(A0*)		(A0*)
+get		get		*		(V*)
+home		-		(AM-LOC*)		(A2*)
+''		-		*		*
+.		-		*		*
+
+Since		-		*		*
+his		-		*		(A1*
+seizure		-		*		*)
+,		-		*		*
+Scotty		-		*		*
+had		-		*		*
+had		have		(V*)		*
+little		-		(A1*		(A1*
+appetite		-		*)		*)
+;		-		*		*
+;		-		*		*
+yet		-		*		*
+his		-		*		(A1*)
+changed		change		*		(V*
+appearance		-		*		*)
+,		-		*		*
+surprisingly		-		(A1*)		(AM-ADV*)
+,		-		*		*
+was		-		*		*
+one		-		*		*
+of		-		*		*
+plumpness		-		*		*
+.		-		*		*
+
+His		-		(A1*
+face		-		*)
+was		-		*
+fuller		-		*
+;		-		*
+;		-		*
+his		-		(A1*)
+lips		-		(A2*)
+and		-		*
+the		-		*
+usually		-		*
+sharp		-		(A2*
+lines		-		*
+of		-		*)
+his		-		(A1*
+jaw		-		*
+had		-		*)
+become		become		(V*
+swollen-looking		-		*)
+.		-		*
+
+He		-		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)
+breathed		breathe		(V*)		*		*		*		*		*		*
+now		-		*		*		*		*		*		*		*
+with		-		*		*		*		*		*		*		*
+his		-		*		*		*		*		*		*		*
+mouth		-		*		*		(AM-DIR*)		*		*		*		*
+open		-		*		*		*		*		*		*		*
+,		-		*		*		*		*		*		*		*
+showing		show		*		(V*)		*		*		*		*		*
+a		-		*		(A1*)		*		*		*		*		*
+whitely		-		*		*		*		*		*		*		*
+curving		curve		*		*		(V*)		*		*		*		*
+section		-		*		*		*		*		*		*		*
+of		-		*		*		*		*		*		*		*
+lower		-		*		*		(AM-MNR*)		*		*		*		*
+teeth		-		*		*		*		*		*		*		*
+;		-		*		*		*		*		*		*		*
+;		-		*		*		*		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)
+kept		keep		*		*		*		(V*)		*		*		*
+his		-		*		*		*		*		*		*		*
+eyes		-		*		*		*		*		*		*		*
+,		-		*		*		*		*		*		*		*
+with		-		*		*		*		*		*		*		*
+their		-		*		*		*		*		*		*		*
+puffed		puff		*		*		*		*		(V*)		*		*
+blurred		-		*		*		*		*		*		*		*
+lids		-		*		*		*		*		*		*		*
+,		-		*		*		*		*		*		*		*
+always		-		*		*		*		*		*		*		*
+lowered		lower		*		*		*		*		*		(V*)		*
+,		-		*		*		*		*		*		*		*
+though		-		*		*		*		*		*		*		*
+not		-		*		*		*		*		*		(AM-NEG*)		*
+,		-		*		*		*		*		*		*		*
+apparently		-		*		*		*		*		*		*		*
+,		-		*		*		*		*		*		*		*
+focusing		focus		*		*		*		*		*		*		(V*)
+.		-		*		*		*		*		*		*		*
+
+Even		-		(C-A1*)
+his		-		(A1*)
+neck		-		(C-A1*)
+seemed		seem		(V*)
+thicker		-		(C-A1*
+and		-		*)
+,		-		*
+therefore		-		(AM-DIS*)
+,		-		*
+shorter		-		*
+.		-		*
+
+His		-		(A1*)
+hands		-		*
+,		-		*
+which		-		(R-A1*)
+had		-		*
+been		-		*
+as		-		*
+quick		-		*
+as		-		*
+a		-		*
+pair		-		*
+of		-		*
+fluttering		flutter		(V*)
+birds		-		*
+,		-		*
+were		-		*
+now		-		*
+neither		-		(A1*)
+active		-		*
+nor		-		*
+really		-		*
+relaxed		-		*
+.		-		*
+
+They		-		(A1*)		(A1*)
+lay		lie		(V*)		*
+on		-		(A2*		*
+his		-		*		(A1*
+lap		-		*)		*)
+,		-		*		*
+palms		-		*		*
+up		-		*		*
+,		-		*		*
+stiffly		-		(AM-MNR*)		(AM-MNR*)
+motionless		-		(AM-MNR*)		(AM-MNR*)
+,		-		*		*
+the		-		*		*
+tapered		taper		*		(V*
+fingers		-		*		*)
+a		-		*		*
+little		-		(AM-ADV*)		*
+thick		-		*		*
+at		-		(AM-LOC*		*
+the		-		*		*
+joints		-		*)		*
+.		-		*		*
+
+Altogether		-		*		*		*
+he		-		(A0*)		(A0*)		(A0*)
+had		have		(V*)		*		*
+,		-		*		*		*
+since		-		(AM-TMP*)		*		*
+the		-		*		(A1*)		*
+seizure		-		*		*		*
+,		-		*		*		*
+the		-		*		(A1*)		*
+appearance		-		*		*		*
+of		-		*		*		*
+a		-		(A1*)		*		(A1*)
+boy		-		*		*		*
+who		-		(R-A0*)		(R-A0*)		(R-A0*)
+overindulged		overindulge		*		(V*)		*
+in		-		*		*		*
+food		-		(A1*)		(A1*)		*
+and		-		*		*		*
+took		take		*		*		(V*)
+no		-		*		*		(A1*)
+exercise		-		*		*		*
+.		-		*		*		*
+
+He		-		(A0*)
+looked		look		(V*)
+lazy		-		(A1*)
+,		-		*
+spoiled		-		(AM-PRD*)
+,		-		*
+a		-		*
+little		-		(AM-ADV*)
+querulous		-		(AM-PRD*)
+.		-		*
+
+Rachel		-		*		(A0*)
+had		have		(V*)		(AM-MOD*)
+little		-		(A1*)		(A1*)
+to		-		(A0*		*
+say		say		*)		(V*)
+.		-		*		*
+
+She		-		(A0*)		(A0*)
+greeted		greet		(V*		*
+her		-		*		*
+husband		-		*)		*
+'s		-		*		*
+colleagues		-		*		*
+with		-		(AM-MNR*)		*
+smiling		-		*		*
+politeness		-		(A1*)		(A1*)
+,		-		*		*
+offering		offer		*		(V*)
+nothing		-		(A1*)		(A1*)
+.		-		*		*
+
+Mr.		-		(A1*)		(A1*)
+McKinley		-		*		*
+,		-		*		*
+for		-		*		*
+all		-		*		*
+his		-		*		*
+sprawling		-		*		*
+and		-		*		*
+his		-		*		*
+easy		-		*		(AM-EXT*)
+familiarity		-		*		*
+,		-		*		*
+was		-		*		*
+completely		-		(AM-MNR*)		(AM-ADV*)
+alert		-		*		*
+to		-		*		*
+his		-		*		*
+son		-		*		*
+,		-		*		*
+eyes		-		*		*
+always		-		*		*
+on		-		*		*
+the		-		*		*
+still		-		*		*
+face		-		*		*
+,		-		*		*
+jumping		jump		(V*)		*
+to		-		*		*
+anticipate		anticipate		*		(V*)
+Scotty		-		*		*
+'s		-		*		*
+desires		-		*		*
+.		-		*		*
+
+It		-
+was		-
+a		-
+strained		-
+,		-
+silent		-
+lunch		-
+.		-
+
+Rachel		-		(A0*)		*
+said		say		(V*)		*
+,		-		*		*
+``		-		*		*
+I		-		(A1*		(A0*)
+'d		-		*		*
+better		-		*		(AM-MNR*)
+get		get		*		(V*)
+him		-		*		(A1*)
+to		-		*		*
+bed		-		*)		*
+''		-		*		*
+.		-		*		*
+
+The		-		*		*
+doctors		-		*		*
+had		-		*		*
+suggested		suggest		(V*)		*
+Scotty		-		(A1*)		(A1*)
+remain		remain		*		(V*)
+most		-		*		(AM-ADV*)
+of		-		*		*
+every		-		(AM-TMP*)		(AM-ADV*)
+afternoon		-		*		*
+in		-		*		(A3*
+bed		-		*		*)
+until		-		*		*
+he		-		(A1*)		(A1*)
+was		-		*		*
+stronger		-		*		(A3*)
+.		-		*		*
+
+Since		-		*		*
+Mr.		-		(A0*		*
+McKinley		-		*)		*
+had		-		*		*
+to		-		*		*
+give		give		(V*)		*
+a		-		(A1*		*
+lecture		-		*)		*
+,		-		*		*
+Rachel		-		*		*
+and		-		*		*
+Scotty		-		*		*
+drove		drive		*		(V*)
+home		-		*		*
+alone		-		*		*
+in		-		*		*
+the		-		*		*
+Plymouth		-		*		*
+.		-		*		*
+
+They		-		(A0*)
+did		-		*
+not		-		(AM-NEG*)
+speak		speak		(V*)
+much		-		(A1*)
+.		-		*
+
+Scotty		-		*		(A1*)		*
+gazed		gaze		(V*)		*		*
+out		-		(AM-DIR*)		*		*
+at		-		(A1*)		(A0*)		(A0*)
+ugly		-		*		(AM-MNR*)		(AM-MNR*)
+gray		-		*		*		*
+slums		-		(A0*)		*		*
+and		-		*		*		*
+said		say		*		(V*)		*
+softly		-		(AM-MNR*)		(AM-MNR*)		(AM-MNR*)
+,		-		*		*		*
+``		-		*		*		*
+Look		look		*		*		(V*)
+at		-		(A1*)		(A0*)		(A0*)
+those		-		(A1*)		*		(A0*)
+stupid		-		*		(AM-MNR*)		(AM-MNR*
+kids		-		(A0*)		*		*)
+''		-		*		*		*
+.		-		*		*		*
+
+It		-		(A1*)
+was		-		*
+a		-		(A1*)
+Negro		-		*
+section		-		*
+of		-		*
+peeling		peel		(V*)
+row		-		(AM-LOC*
+houses		-		*)
+,		-		*
+store-front		-		*
+churches		-		*
+and		-		*
+ragged		-		*
+children		-		*
+.		-		*
+
+Rachel		-		*		*		(A0*)
+had		-		*		(AM-MOD*)		(AM-MOD*)
+to		-		*		*		*
+bend		bend		(V*)		*		(A1*)
+toward		-		(AM-DIR*		*		*
+Scotty		-		*)		(A0*)		*
+and		-		*		*		*
+ask		ask		*		(V*)		*
+him		-		*		(A2*)		(A1*)
+to		-		*		*		*
+repeat		repeat		*		(A1*)		(V*)
+.		-		*		*		*
+
+He		-		(A0*)
+said		say		(V*)
+,		-		*
+``		-		*
+Nothing		-		(A1*)
+''		-		*
+.		-		*
+
+And		-
+then		-
+:		-
+``		-
+There		-
+are		-
+lots		-
+of		-
+kids		-
+around		-
+here		-
+''		-
+.		-
+
+Scotty		-		*		*
+looked		look		(V*		*
+at		-		*)		(AM-EXT*)
+the		-		(A0*		(A1*
+children		-		*)		*)
+,		-		*		*
+his		-		(A1*		(A1*
+mouth		-		*)		*)
+slightly		-		(A0*)		(AM-MNR*)
+opened		open		*		(V*)
+,		-		*		*
+his		-		(A1*		(A1*)
+eyes		-		*		(A1*)
+dull		-		*)		(AM-MNR*)
+.		-		*		*
+
+He		-		(A1*)
+felt		feel		(V*)
+tired		-		(AM-MNR*)
+and		-		*
+full		-		(A1*)
+and		-		*
+calm		-		(A1*)
+.		-		*
+
+Thirty-four		-
+
+the		-		(A1*
+days		-		*)
+seemed		seem		(V*
+short		-		*)
+,		-		*
+perhaps		-		(AM-DIS*)
+because		-		(AM-CAU*)
+his		-		(A1*)
+routine		-		(C-A1*)
+was		-		*
+,		-		*
+each		-		(AM-TMP*
+day		-		*)
+,		-		*
+almost		-		(AM-TMP*)
+the		-		(A1*
+same		-		*)
+.		-		*
+
+He		-		(A1*)		(A1*)		(A0*)
+rose		rise		(V*)		*		*
+late		-		(AM-TMP*)		(AM-TMP*)		(AM-TMP*)
+and		-		*		*		*
+went		go		*		(V*)		*
+down		-		*		*		*
+in		-		*		*		*
+his		-		*		*		*
+bathrobe		-		*		*		*
+and		-		*		*		*
+slippers		-		*		*		*
+to		-		(A4*)		*		*
+have		have		*		*		(V*)
+breakfast		-		*		*		*
+either		-		*		*		*
+alone		-		*		*		*
+or		-		*		*		*
+with		-		*		*		*
+Rachel		-		*		*		*
+.		-		*		*		*
+
+Virginia		-		*		*		*
+treated		treat		(V*)		*		*
+him		-		*		*		*
+with		-		*		*		*
+attention		-		*		*		*
+and		-		*		*		*
+tried		try		*		(V*)		*
+to		-		*		*		*
+tempt		tempt		*		*		(V*)
+his		-		*		*		*
+appetite		-		(A1*)		*		*
+with		-		*		*		*
+special		-		*		*		*
+food		-		(A1*)		(A1*)		*
+:		-		*		*		*
+biscuits		-		*		*		*
+,		-		*		*		*
+cookies		-		*		*		*
+,		-		*		*		*
+candies		-		*		*		*
+--		-		*		*		*
+the		-		*		*		*
+result		-		*		*		*
+of		-		*		*		*
+devoted		-		*		*		*
+hours		-		*		*		*
+in		-		*		*		*
+the		-		*		*		*
+tiled		-		*		*		*
+kitchen		-		*		*		*
+.		-		*		*		*
+
+She		-		(A1*)		(A0*)		(A0*)
+would		-		*		*		(AM-MOD*)
+hover		hover		(V*)		(AM-DIR*)		(AM-DIR*)
+over		-		*		(AM-DIR*)		*
+him		-		*		*		*
+and		-		*		*		*
+,		-		*		*		*
+looking		look		*		(V*)		(V*)
+like		-		*		*		(AM-MNR*
+her		-		*		*		*
+brother		-		*		*		*)
+,		-		*		*		*
+anxiously		-		(AM-MNR*)		(AM-MNR*)		(AM-MNR*)
+watch		watch		*		*		(V*
+the		-		*		*		*)
+progress		-		*		(AM-DIR*)		(AM-DIR*
+of		-		*		*		*
+Scotty		-		*		*		*)
+'s		-		*		*		*
+fork		-		*		*		*
+or		-		*		*		*
+spoon		-		*		*		*
+.		-		*		*		*
+
+``		-		*
+You		-		(A0*)
+do		-		*
+n't		-		(AM-NEG*)
+eat		eat		(V*)
+enough		-		(AM-MNR*)
+,		-		*
+honey		-		*
+.		-		*
+
+Try		try		(V*		*
+to		-		*)		*
+get		get		*		(V*
+that		-		(A1*)		*
+down		-		(C-V*)		*)
+''		-		*		*
+.		-		*		*
+
+Rachel		-		*		*		*
+,		-		*		*		*
+observing		observe		(V*)		*		*
+,		-		*		*		*
+would		-		*		(AM-MOD*)		*
+say		say		*		(V*)		*
+,		-		*		*		*
+``		-		*		*		*
+He		-		*		(A0*)		(A0*)
+has		-		*		*		*
+to		-		*		*		*
+rediscover		rediscover		*		*		(V*)
+his		-		(A1*)		*		(A1*
+own		-		(AM-MNR*		*		*)
+capacity		-		*)		*		*
+.		-		*		*		*
+
+It		-		(A0*)
+'ll		-		(AM-MOD*)
+take		take		(V*)
+time		-		(A1*)
+''		-		*
+.		-		*
+
+Virginia		-		*
+and		-		*
+Rachel		-		(A1*)
+talked		talk		(V*)
+to		-		(A2*)
+each		-		(A1*
+other		-		*)
+quietly		-		(AM-MNR*)
+now		-		(AM-TMP*)
+,		-		*
+as		-		(AM-MNR*)
+allies		-		(A0*)
+who		-		(R-A0*)
+are		-		*
+political		-		(A1*)
+rather		-		(AM-DIS*)
+than		-		*
+natural		-		(A1*)
+might		-		(AM-MOD*)
+in		-		(AM-LOC*
+a		-		*)
+war		-		(A1*)
+atmosphere		-		*
+.		-		*
+
+Both		-		*		*		(AM-ADV*)
+watched		watch		(V*)		*		*
+Scotty		-		(A1*)		(A1*)		*
+constantly		-		(AM-TMP*)		*		(AM-TMP*)
+,		-		*		*		*
+Rachel		-		(A1*)		*		*
+without		-		(AM-MNR*)		*		(AM-MNR*)
+seeming		seem		(AM-MNR*)		(V*)		(A1*)
+to		-		(A2*)		*		(A1*)
+,		-		*		*		*
+Virginia		-		*		*		*
+openly		-		(AM-MNR*)		*		(AM-MNR*)
+,		-		*		*		*
+her		-		*		*		*
+eyes		-		*		(A0*)		*
+filled		fill		*		*		(V*)
+with		-		(A2*		*		(A2*
+concern		-		*)		*		*)
+.		-		*		*		*
+
+Scotty		-
+was		-
+neutral		-
+.		-
+
+He		-		(A0*)		(A0*)
+did		-		*		*
+not		-		*		*
+resent		resent		(V*)		*
+their		-		*		(A1*
+supervision		-		*		*)
+or		-		*		*
+Virginia		-		*		*
+'s		-		*		*
+sometimes		-		(AM-TMP*)		*
+tiring		tire		(AM-MNR*)		(V*)
+sympathy		-		*		*
+.		-		*		*
+
+He		-		(A0*)		*		(A0*)		(A1*)		(A1*)
+ate		eat		(V*)		*		*		*		*
+what		-		*		(R-A1*)		*		*		*
+he		-		(A0*)		*		(A0*)		(A1*)		(A1*)
+felt		feel		*		(V*)		*		*		*
+like		-		*		*		*		*		*
+,		-		*		*		*		*		*
+slept		sleep		*		*		(V*)		*		*
+as		-		*		*		*		*		*
+much		-		*		*		*		*		*
+or		-		*		*		*		*		*
+as		-		*		*		*		*		*
+little		-		*		*		*		*		*
+as		-		*		*		*		*		*
+he		-		(A0*)		*		(A0*)		(A1*)		(A1*)
+pleased		please		*		*		*		(V*)		*
+,		-		*		*		*		*		*
+and		-		*		*		*		*		*
+moved		move		*		*		*		*		(V*)
+about		-		*		*		*		*		*
+the		-		*		*		*		*		*
+draughty		-		*		*		*		*		*
+rooms		-		*		*		*		*		*
+of		-		*		*		*		*		*
+the		-		*		*		*		*		*
+house		-		*		*		*		*		*
+,		-		*		*		*		*		*
+when		-		*		*		*		*		*
+he		-		(A0*)		*		(A0*)		(A1*)		(A1*)
+was		-		*		*		*		*		*
+not		-		*		*		*		*		*
+in		-		*		*		*		*		*
+bed		-		*		*		*		*		*
+,		-		*		*		*		*		*
+with		-		*		*		*		*		*
+slow		-		*		*		*		*		*
+,		-		*		*		*		*		*
+dubious		-		*		*		*		*		*
+steps		-		*		*		*		*		*
+,		-		*		*		*		*		*
+like		-		*		*		*		*		*
+an		-		*		*		*		*		*
+elderly		-		*		*		*		*		*
+tourist		-		*		*		*		*		*
+in		-		*		*		*		*		*
+a		-		*		*		*		*		*
+cathedral		-		*		*		*		*		*
+.		-		*		*		*		*		*
+
+His		-		(A1*
+energy		-		*)
+was		-		*
+gone		go		(V*)
+.		-		*
+
+He		-		(A1*)		(A0*)		(A1*)
+was		-		*		*		*
+able		-		*		*		*
+,		-		*		*		*
+now		-		*		*		*
+,		-		*		*		*
+to		-		*		*		*
+sit		sit		(V*)		*		*
+for		-		*		*		*
+hours		-		*		*		*
+in		-		*		*		*
+a		-		*		*		*
+chair		-		*		*		*
+in		-		*		*		*
+the		-		*		*		*
+living		-		*		*		*
+room		-		*		*		*
+and		-		*		*		*
+stare		stare		*		(V*)		*
+out		-		*		*		(AM-DIR*)
+at		-		*		*		*
+the		-		*		*		*
+bleak		-		*		*		*
+yard		-		*		*		*
+without		-		*		*		*
+moving		move		*		*		(V*)
+.		-		*		*		*
+
+His		-		*		*
+hands		-		*		*
+lay		lie		(V*)		*
+loosely		-		*		*
+,		-		*		*
+yet		-		*		*
+stiffly		-		(AM-MNR*)		(AM-MNR*)
+--		-		*		*
+they		-		(A1*)		(A1*)
+were		-		*		*
+like		-		*		*
+wax		-		*		*
+hands		-		*		*
+:		-		*		*
+almost		-		*		*
+lifelike		-		*		*
+,		-		*		*
+not		-		*		*
+quite		-		*		*
+--		-		*		*
+folded		-		*		(AM-MNR*)
+in		-		(A2*)		*
+his		-		*		*
+lap		-		*		*
+;		-		*		*
+;		-		*		*
+his		-		*		*
+mouth		-		*		*
+hung		hang		*		(V*)
+slightly		-		*		*
+open		-		*		*
+.		-		*		*
+
+When		-		*		*		*		*		*		*
+he		-		*		*		(A0*)		(A0*)		*		(A0*)
+was		-		*		*		*		*		*		*
+asked		ask		(V*)		*		*		*		*		*
+a		-		*		*		*		*		*		*
+question		-		*		*		*		*		*		*
+or		-		*		*		*		*		*		*
+addressed		address		*		(V*)		*		*		*		*
+in		-		*		*		*		*		*		*
+such		-		*		*		*		*		*		*
+a		-		*		*		*		*		*		*
+way		-		*		*		*		*		*		*
+that		-		*		*		(A1*)		*		*		*
+some		-		*		*		*		*		*		*
+response		-		*		*		*		*		*		*
+was		-		*		*		*		*		*		*
+inescapable		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+he		-		*		*		(A0*)		(A0*)		*		(A0*)
+would		-		*		*		*		*		*		*
+answer		answer		*		*		(V*)		*		*		*
+;		-		*		*		*		*		*		*
+;		-		*		*		*		*		*		*
+if		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+as		-		*		*		*		*		*		*
+often		-		*		*		*		*		*		*
+happened		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+he		-		*		*		(A0*)		(A0*)		*		(A0*)
+had		-		*		*		*		*		*		*
+to		-		*		*		*		*		*		*
+repeat		repeat		*		*		*		(V*)		*		*
+because		-		*		*		*		*		*		*
+he		-		*		*		(A0*)		(A0*)		*		(A0*)
+had		-		*		*		*		*		*		*
+spoken		speak		*		*		*		*		(V*)		*
+too		-		*		*		*		*		*		*
+softly		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+he		-		*		*		(A0*)		(A0*)		*		(A0*)
+would		-		*		*		*		*		*		*
+repeat		repeat		*		*		*		*		*		(V*)
+his		-		*		*		*		*		*		*
+words		-		*		*		*		*		*		*
+in		-		*		*		*		*		*		*
+the		-		*		*		*		*		*		*
+same		-		*		*		*		*		*		*
+way		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+without		-		*		*		*		*		*		*
+emphasis		-		*		*		*		*		*		*
+or		-		*		*		*		*		*		*
+impatience		-		(A1*)		*		*		*		*		*
+,		-		*		*		*		*		*		*
+only		-		*		*		*		*		*		*
+a		-		*		*		*		*		*		*
+little		-		*		*		*		*		*		*
+louder		-		*		*		*		*		*		*
+.		-		*		*		*		*		*		*
+
+He		-		(A0*)
+had		-		*
+not		-		(AM-NEG*)
+mentioned		mention		(V*)
+Kate		-		(A1*)
+.		-		*
+
+He		-		(A0*)		(A1*)		(A0*)
+had		-		*		*		*
+not		-		(AM-NEG*)		(AM-NEG*)		(AM-NEG*)
+even		-		(AM-ADV*)		(AM-ADV*)		(AM-ADV*
+thought		think		(V*)		*		*
+about		-		*		(AM-ADV*)		*
+her		-		*		*		*
+much		-		*		*		*
+except		-		*		(AM-DIS*)		*)
+once		-		*		(AM-TMP*)		(AM-TMP*)
+or		-		*		*		*
+twice		-		*		(AM-DIS*)		(AM-TMP*)
+at		-		*		*		(AM-TMP*
+night		-		*		*		*)
+in		-		*		*		(AM-TMP*
+bed		-		*		*		*)
+when		-		*		(AM-TMP*)		(AM-TMP*
+his		-		*		(A1*)		*)
+slowly		-		(AM-MNR*)		(AM-MNR*)		(AM-MNR*)
+ranging		range		*		(V*)		*
+thoughts		-		*		*		*
+would		-		(AM-MOD*)		(AM-MOD*)		(AM-MOD*)
+abruptly		-		(AM-MNR*)		(AM-MNR*)		(AM-MNR*)
+,		-		*		*		*
+almost		-		(AM-ADV*)		(AM-ADV*)		(AM-ADV*)
+accidentally		-		(AM-MNR*)		(AM-ADV*)		(AM-TMP*)
+,		-		*		*		*
+encounter		encounter		*		*		(V*
+her		-		*		(AM-DIS*)		*)
+.		-		*		*		*
+
+At		-		*		*		*
+these		-		*		*		*
+times		-		*		*		*
+he		-		(A1*)		(A0*)		(A0*)
+felt		feel		(V*)		*		*
+a		-		*		*		*
+kind		-		*		*		*
+of		-		*		*		*
+pain		-		*		*		*
+in		-		*		*		*
+his		-		*		(A1*		*
+upper		-		*		*)		*
+chest		-		*		*		*
+,		-		*		*		*
+but		-		*		*		*
+it		-		*		*		*
+was		-		*		*		*
+an		-		*		*		*
+objective		-		*		*		*
+pain		-		*		*		*
+,		-		*		*		*
+in		-		*		*		*
+no		-		*		*		*
+way		-		*		*		*
+different		-		*		*		*
+from		-		*		*		*
+others		-		*		*		(A1*)
+in		-		*		*		*
+intensity		-		*		*		*
+and		-		*		*		*
+not		-		*		*		*
+different		-		*		*		*
+in		-		*		*		*
+kind		-		*		*		*
+;		-		*		*		*
+;		-		*		*		*
+it		-		*		*		*
+was		-		*		*		*
+like		-		*		*		*
+the		-		*		*		*
+bandaged		bandage		*		(V*)		*
+wound		-		*		*		*
+on		-		*		*		*
+the		-		*		*		*
+back		-		*		*		*
+of		-		*		*		*
+his		-		*		(A1*)		*
+head		-		*		*		*
+which		-		*		(R-A1*)		*
+occasionally		-		*		*		*
+throbbed		throb		*		*		(V*)
+;		-		*		*		*
+;		-		*		*		*
+it		-		*		*		*
+was		-		*		*		*
+merely		-		*		*		*
+another		-		*		*		*
+part		-		*		*		*
+of		-		*		*		*
+his		-		*		(A1*)		*
+weakness		-		*		*		*
+.		-		*		*		*
+
+He		-		(A1*)
+was		-		*
+calm		-		(AM-MNR*)
+,		-		*
+drugged		drug		(V*)
+,		-		*
+and		-		*
+lazy		-		*
+.		-		*
+
+He		-
+did		-
+not		-
+care		-
+.		-
+
+Rachel		-		*
+mentioned		mention		(V*)
+Kate		-		(A1*)
+.		-		*
+
+She		-		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)
+said		say		(V*)		*		*		*		*
+,		-		*		*		*		*		*
+``		-		*		*		*		*		*
+I		-		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)
+notice		notice		*		(V*)		*		*		*
+the		-		*		*		*		*		*
+girl		-		*		*		*		*		*
+from		-		*		*		*		*		*
+across		-		*		(AM-DIR*)		*		*		(AM-DIR*
+the		-		*		*		*		*		*
+street		-		*		*		*		*		*)
+has		-		*		*		*		*		*
+n't		-		(AM-NEG*)		*		*		*		*
+bothered		bother		*		*		(V*)		*		*
+to		-		*		*		*		*		*
+phone		phone		*		*		*		(V*)		*
+or		-		*		*		*		*		*
+visit		visit		*		*		*		*		(V*)
+''		-		*		*		*		*		*
+.		-		*		*		*		*		*
+
+Scotty		-		(A0*)
+said		say		(V*)
+,		-		*
+``		-		*
+That		-		(A1*
+'s		-		*
+all		-		*)
+right		-		(A1*)
+.		-		*
+
+Kate		-
+'s		-
+all		-
+right		-
+''		-
+.		-
+
+He		-		(A0*)		(A0*)
+thought		think		(V*)		*
+about		-		*		(C-A1*
+it		-		(A1*)		*)
+briefly		-		*		*
+,		-		*		*
+then		-		*		*
+deliberately		-		(AM-MNR*)		*
+turned		turn		*		(V*)
+the		-		(A1*)		*
+talk		-		*		*
+to		-		*		(A2*)
+something		-		(A1*)		(A1*
+else		-		*		*)
+.		-		*		*
+
+Once		-		*		*		*
+,		-		*		*		*
+sitting		sit		(V*)		*		*
+at		-		(AM-LOC*)		*		*
+the		-		*		*		*
+front		-		*		*		*
+window		-		*		*		*
+in		-		(AM-LOC*		*		*
+his		-		*		*		*
+parents		-		*)		(A1*)		*
+'		-		*		*		*
+room		-		*		*		*
+,		-		*		*		*
+he		-		(A1*)		(A0*)		(A1*)
+saw		see		*		(V*)		*
+Kate		-		*		*		*
+come		come		*		*		(V*)
+out		-		(AM-LOC*)		*		*
+of		-		*		*		*
+her		-		*		*		*
+house		-		*		*		(A4*)
+.		-		*		*		*
+
+She		-
+was		-
+with		-
+Elizabeth		-
+.		-
+
+They		-		(A0*)
+were		-		*
+far		-		(AM-ADV*)
+off		-		(AM-DIR*)
+and		-		*
+looked		look		(V*)
+tiny		-		(AM-DIS*)
+.		-		*
+
+The		-		*		*
+heavy		-		*		(A1*
+branches		-		*		*)
+in		-		*		(AM-LOC*
+his		-		(A1*)		*
+front		-		*		*
+yard		-		*		*)
+would		-		(AM-MOD*)		(AM-MOD*)
+hide		hide		(V*)		*
+and		-		*		*
+then		-		(AM-TMP*)		(AM-TMP*)
+reveal		reveal		*		(V*
+them		-		*		*)
+.		-		*		*
+
+They		-		(A1*)		(A1*)
+turned		turn		(V*)		*
+at		-		(AM-TMP*		*
+the		-		*		*
+bottom		-		*		*
+of		-		*		*
+Kate		-		*)		*
+'s		-		*		*
+steps		-		*		*
+and		-		*		*
+moved		move		*		(V*)
+off		-		(AM-DIR*		(AM-DIR*
+in		-		*		*
+the		-		*		*
+direction		-		*		*
+of		-		*		*
+the		-		*		*
+park		-		*)		*)
+.		-		*		*
+
+He		-		*		*		*		(A0*)		*
+thought		think		(V*)		*		*		*		*
+he		-		*		*		*		(A0*)		*
+saw		see		*		(V*)		*		*		*
+--		-		*		*		*		*		*
+it		-		*		*		*		*		*
+awakened		awaken		*		*		(V*)		*		*
+and		-		*		*		*		*		*
+,		-		*		*		*		*		*
+for		-		*		*		*		*		*
+a		-		*		*		*		*		*
+moment		-		*		*		*		*		*
+,		-		*		*		*		*		*
+interested		interest		*		*		*		(V*)		*
+him		-		*		*		*		*		*
+--		-		*		*		*		*		*
+that		-		*		*		*		*		*
+Elizabeth		-		*		*		*		*		*
+held		hold		*		*		*		*		(V*)
+a		-		*		*		*		*		*
+leash		-		*		*		*		*		*
+in		-		*		*		*		*		*
+her		-		*		*		*		*		*
+hand		-		*		*		*		*		*
+and		-		*		*		*		*		*
+that		-		*		*		*		*		*
+a		-		*		*		*		*		*
+round		-		*		*		*		*		*
+fuzzy		-		*		*		*		*		*
+puppy		-		*		*		*		*		*
+was		-		*		*		*		*		*
+on		-		*		*		*		*		*
+the		-		*		*		*		*		*
+end		-		*		*		*		*		*
+of		-		*		*		*		*		*
+the		-		*		*		*		*		*
+leash		-		*		*		*		*		*
+.		-		*		*		*		*		*
+
+Then		-		*		*		*		*
+they		-		(A1*)		(A1*)		(A1*)		(A1*)
+disappeared		disappear		(V*)		*		*		*
+and		-		*		*		*		*
+Scotty		-		*		*		*		*
+got		get		*		(V*)		*		*
+up		-		*		*		*		*
+and		-		*		*		*		*
+went		go		*		*		(V*)		*
+into		-		(AM-LOC*)		*		*		*
+his		-		*		*		*		*
+own		-		*		(A2*)		*		(A2*)
+room		-		*		*		*		*
+and		-		*		*		*		*
+got		get		*		*		*		(V*)
+into		-		(AM-LOC*)		*		*		*
+bed		-		*		*		*		*
+.		-		*		*		*		*
+
+By		-		(AM-MNR*		*
+the		-		*		*
+time		-		*)		*
+he		-		(A1*)		(A0*)
+was		-		*		*
+under		-		(AM-MNR*		*
+the		-		*		*
+covers		-		*)		*
+he		-		(A1*)		(A0*)
+had		-		*		*
+forgotten		forget		(V*		*
+about		-		*		*
+seeing		see		*		(V*)
+Kate		-		*)		*
+.		-		*		*
+
+The		-		*		(A1*)		*		*
+doctor		-		*		*		*		*
+,		-		*		*		*		*
+since		-		*		*		*		*
+Scotty		-		*		*		*		*
+was		-		*		*		*		*
+no		-		*		*		*		*
+longer		-		*		*		*		*
+allowed		allow		(V*)		*		*		*
+to		-		(C-A1*)		*		*		*
+make		make		*		(V*)		*		*
+his		-		*		*		*		*
+regular		-		*		*		*		*
+trips		-		*		*		*		*
+into		-		*		*		*		*
+town		-		*		*		*		*
+to		-		(C-A1*)		*		*		*
+see		see		*		*		(V*)		*
+him		-		*		*		(A0*)		*
+,		-		*		*		*		*
+came		come		*		*		*		(V*)
+often		-		(AM-TMP*)		*		*		*
+and		-		*		*		*		*
+informally		-		(AM-MNR*)		(AM-MNR*)		*		*
+to		-		(C-A1*)		*		*		*
+the		-		*		(A1*)		*		*
+house		-		*		*		*		*
+.		-		*		*		*		*
+
+He		-		(A1*)		(A0*)		(A0*)		*
+would		-		(AM-MOD*)		*		*		*
+sit		sit		(V*)		*		*		*
+,		-		*		*		*		*
+slim-waisted		-		*		*		*		*
+and		-		*		*		*		*
+spare		-		*		*		*		*
+,		-		*		*		*		*
+on		-		*		*		*		*
+the		-		*		*		*		*
+edge		-		*		*		*		*
+of		-		*		*		*		*
+Scotty		-		*		*		*		*
+'s		-		*		*		*		*
+bed		-		*		*		*		*
+,		-		*		*		*		*
+his		-		*		*		*		*
+legs		-		*		*		*		*
+crossed		cross		*		(V*)		*		*
+so		-		*		*		*		*
+elaborately		-		*		*		*		(AM-MNR*)
+that		-		*		*		*		*
+the		-		*		*		*		*
+crossed		cross		*		*		(V*)		*
+foot		-		*		*		*		*
+could		-		(AM-MOD*)		*		*		*
+tap		tap		*		*		*		(V*)
+the		-		*		*		*		*
+floor		-		*		*		*		*
+.		-		*		*		*		*
+
+Scotty		-
+did		-
+not		-
+mind		-
+the		-
+doctor		-
+'s		-
+unsmiling		-
+teasing		-
+as		-
+he		-
+used		-
+to		-
+.		-
+
+``		-		*
+Husky		-		(A1*
+young		-		*
+man		-		*)
+''		-		*
+,		-		*
+he		-		(A0*)
+said		say		(V*)
+with		-		(AM-MNR*
+mock		-		*
+distaste		-		*)
+.		-		*
+
+``		-		*		*
+I		-		(A0*)		(A0*)
+imagine		imagine		(V*)		*
+you		-		(A0*)		(A0*)
+'re		-		*		*
+always		-		*		*
+battling		battle		*		(V*)
+in		-		*		*
+school		-		*		*
+''		-		*		*
+.		-		*		*
+
+``		-		*
+I		-		(A1*)
+do		-		*
+n't		-		(AM-NEG*)
+go		go		(V*)
+to		-		*
+school		-		*
+any		-		(AM-ADV*)
+more		-		*
+''		-		*
+.		-		*
+
+``		-
+Pardon		-
+''		-
+?		-
+?		-
+
+The		-		(A1*)		*		(A1*
+doctor		-		*		*		*)
+had		-		*		(AM-MOD*)		*
+to		-		*		*		*
+bend		bend		(V*		*		*
+close		-		*)		*		*
+to		-		*		*		*
+hear		hear		*		(V*)		*
+;		-		*		*		*
+;		-		*		*		*
+his		-		(A1*)		*		(A1*)
+delicate		-		*		*		*
+hand		-		*		*		*
+,		-		*		*		*
+as		-		(AM-ADV*)		*		*
+veined		-		(AM-MNR*)		*		(AM-MNR*
+as		-		(AM-ADV*)		*		*)
+a		-		*		*		(A1*
+moth		-		*		*		*)
+'s		-		*		*		*
+wing		-		*		*		*
+,		-		*		*		*
+rested		rest		*		(AM-MNR*)		(V*)
+absently		-		(AM-MNR*)		*		(AM-MNR*)
+on		-		*		*		(A2*)
+Scotty		-		*		*		(A1*)
+'s		-		*		*		*
+chest		-		*		*		*
+.		-		*		*		*
+
+Scotty		-		*
+said		say		(V*)
+the		-		(A1*)
+same		-		(AM-MNR*
+words		-		*)
+more		-		(AM-ADV*)
+loudly		-		(AM-MNR*)
+.		-		*
+
+``		-
+Oh		-
+.		-
+
+Well		-		*
+,		-		*
+we		-		(A0*)
+'re		-		*
+taking		take		(V*)
+a		-		(A1*
+little		-		*
+vacation		-		*)
+,		-		*
+that		-		*
+'s		-		*
+all		-		(AM-DIS*)
+''		-		*
+.		-		*
+
+He		-		(A1*)
+turned		turn		(V*)
+unsmilingly		-		(AM-DIR*)
+to		-		(AM-DIR*
+Rachel		-		*)
+.		-		*
+
+``		-		*		*
+I		-		(A0*)		(A1*)
+think		think		(V*)		*
+by		-		*		*
+the		-		*		*
+end		-		*		*
+of		-		*		*
+next		-		(AM-TMP*)		*
+week		-		*		*
+he		-		(A0*)		(A1*)
+could		-		*		(AM-MOD*)
+get		get		*		(V*
+out		-		*		*
+in		-		*		*
+the		-		*		*)
+air		-		*		(A2*
+a		-		*		*
+little		-		*		*)
+.		-		*		*
+
+He		-		(A0*)
+could		-		(AM-MOD*)
+now		-		(AM-TMP*)
+but		-		*
+the		-		(A1*
+weakness		-		*)
+is		-		*
+very		-		(AM-DIS*
+definite		-		*)
+;		-		*
+;		-		*
+it		-		*
+would		-		(AM-MOD*)
+exhaust		exhaust		(V*
+him		-		*)
+further		-		(AM-DIS*)
+and		-		*
+unnecessarily		-		(AM-MNR*)
+.		-		*
+
+He		-
+'ll		-
+be		-
+stronger		-
+soon		-
+''		-
+.		-
+
+His		-		*		*
+stethoscope		-		*		*
+was		-		*		*
+on		-		*		*
+the		-		*		*
+table		-		*		*
+by		-		(AM-MNR*)		*
+Scotty		-		*		*
+'s		-		*		*
+bed		-		*		*
+and		-		*		*
+he		-		(A1*)		(A0*)
+picked		pick		(V*)		*
+it		-		*		*
+up		-		*		*
+and		-		*		*
+wagged		wag		*		(V*)
+it		-		*		*
+at		-		*		*
+Scotty		-		*		*
+.		-		*		*
+
+He		-		(A0*)		(A0*)
+said		say		(V*)		*
+fussily		-		*		*
+,		-		*		*
+``		-		*		*
+Just		-		*		(AM-ADV*)
+keep		keep		*		(V*)
+the		-		*		(A1*
+cap		-		*		*
+on		-		*		*)
+those		-		*		(A1*)
+strong		-		*		(A1*
+emotions		-		*		*)
+''		-		*		*
+.		-		*		*
+
+The		-		(A1*		(A1*)
+stethoscope		-		*)		(A1*)
+glinted		glint		(V*		(AM-MNR*)
+silver		-		*)		*
+in		-		(AM-LOC*)		(AM-LOC*)
+the		-		(A1*		(A1*)
+darkening		darken		*		(V*
+room		-		*)		*)
+.		-		*		*
+
+``		-		*
+I		-		(A0*)
+'ll		-		(AM-MOD*)
+drop		drop		(V*)
+by		-		(AM-TMP*)
+again		-		(AM-TMP*)
+in		-		(AM-TMP*)
+a		-		(A2*
+few		-		*
+days		-		*)
+''		-		*
+.		-		*
+
+Rachel		-		*		*
+stayed		stay		(V*)		*
+on		-		(A3*)		*
+after		-		(AM-TMP*)		(AM-TMP*)
+the		-		(A1*		(A1*)
+doctor		-		*)		(A2*)
+had		-		*		*
+gone		go		(AM-TMP*)		(V*)
+.		-		*		*
+
+She		-		(A1*)		(A1*)
+smoothed		smooth		(V*)		(AM-MNR*)
+the		-		*		*
+covers		-		*		*
+on		-		*		*
+Scotty		-		*		*
+'s		-		*		*
+bed		-		*		*
+and		-		*		*
+picked		pick		*		(V*)
+things		-		*		*
+up		-		*		*
+from		-		*		*
+the		-		*		*
+floor		-		*		*
+.		-		*		*
+
+She		-		(A0*)
+did		-		*
+not		-		(AM-NEG*)
+touch		touch		(V*)
+him		-		(A1*)
+.		-		*
+
+Scotty		-		*
+watched		watch		(V*)
+with		-		(AM-MNR*
+disinterest		-		*)
+.		-		*
+
+He		-		(A0*)
+did		-		*
+not		-		(AM-NEG*)
+speak		speak		(V*)
+.		-		*
+
+He		-		(A0*)
+had		have		(V*)
+no		-		(A1*
+desire		-		*)
+to		-		*
+.		-		*
+
+She		-		(A0*)		(A0*)		(A0*)
+said		say		(V*)		*		*
+,		-		*		*		*
+``		-		*		*		*
+Do		-		*		*		(AM-NEG*)
+you		-		*		(A0*)		(A0*)
+think		think		*		(V*)		*
+you		-		*		(A0*)		(A0*)
+'ll		-		*		(AM-MOD*)		(AM-MOD*)
+miss		miss		*		(A1*)		(V*)
+school		-		*		*		*
+''		-		*		*		*
+?		-		*		*		*
+?		-		*		*		*
+
+He		-		(A1*)		(A1*)
+had		-		*		*
+noticed		notice		(V*)		*
+how		-		(A1*		(R-AM-MNR*)
+formal		-		*)		(A1*)
+and		-		*		*
+irritably		-		(AM-MNR*		*
+exact		-		*		*
+Rachel		-		*)		(A1*)
+had		-		*		*
+grown		grow		*		(V*)
+.		-		*		*
+
+He		-
+did		-
+not		-
+care		-
+.		-
+
+He		-		(A0*)		(A0*)		(A0*)		(A0*)
+felt		feel		(V*)		*		*		*
+her		-		*		*		*		*
+irritability		-		*		(A1*)		(A1*)		(A1*)
+did		-		*		*		*		*
+not		-		*		*		*		*
+concern		concern		*		(V*)		*		*
+him		-		*		*		*		*
+,		-		*		*		*		*
+yet		-		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		(A0*)
+knew		know		*		*		(V*)		*
+he		-		(A0*)		(A0*)		(A0*)		(A0*)
+would		-		*		*		*		*
+not		-		*		*		*		*
+care		care		*		*		*		(V*)
+even		-		*		*		*		*
+if		-		*		*		*		*
+it		-		(A1*)		*		*		(A1*)
+did		-		*		*		*		*
+.		-		*		*		*		*
+
+He		-		(A1*)
+shook		shake		(V*)
+his		-		(A1*
+head		-		*)
+.		-		*
+
+``		-		*
+We		-		(A0*)
+'ve		-		*
+had		have		(V*)
+any		-		(A1*
+number		-		*)
+of		-		*
+calls		-		*
+about		-		(C-A1*)
+you		-		*
+.		-		*
+
+You		-		(A0*)
+could		-		(AM-MOD*)
+win		win		(V*)
+a		-		*
+popularity		-		*
+contest		-		*
+at		-		*
+that		-		*
+school		-		*
+without		-		*
+any		-		(A1*)
+trouble		-		*
+.		-		*
+
+Miss		-		(A1*)
+Estherson		-		(A2*)
+called		call		(V*)
+twice		-		(AM-TMP*)
+.		-		*
+
+She		-		*		(A0*)
+wants		want		(V*)		*
+to		-		(A1*		*
+pay		pay		*		(V*)
+you		-		*		(A0*)
+a		-		*		(A1*)
+visit		-		*)		*
+.		-		*		*
+
+She		-		(A0*)		(A0*)
+says		say		(V*		*
+the		-		*		(A1*
+children		-		*		*)
+miss		miss		*)		(V*)
+you		-		(A0*)		(A0*)
+.		-		*		*
+
+Apparently		-
+you		-
+were		-
+the		-
+light		-
+of		-
+their		-
+lives		-
+''		-
+.		-
+
+Scotty		-		(A1*)
+shrugged		shrug		(V*)
+slightly		-		(AM-MNR*)
+.		-		*
+
+Rachel		-		*		*		*		*
+came		come		(V*)		*		*		*
+close		-		*		(A2*)		*		*
+to		-		(A2*)		*		*		(AM-DIR*
+the		-		*		*		*		*)
+bed		-		*		*		*		*
+,		-		*		*		*		*
+bent		bend		*		(V*)		*		(AM-DIR*)
+as		-		(AM-TMP*)		(AM-ADV*)		*		*
+if		-		(AM-ADV*)		*		*		*
+she		-		(A1*)		(A0*)		(A0*)		(A1*)
+would		-		(AM-MOD*)		(AM-MOD*		*		(AM-MOD*
+kiss		kiss		(A2*)		*)		(V*)		*
+him		-		*		*		*		*)
+,		-		*		*		*		*
+then		-		*		*		*		*
+moved		move		*		(AM-DIR*)		*		(V*)
+away		-		*		(AM-DIR*)		*		(AM-DIR*)
+.		-		*		*		*		*
+
+She		-		(A0*)
+was		-		*
+frowning		frown		(V*)
+.		-		*
+
+``		-		*
+That		-		(A0*
+doctor		-		*)
+annoys		annoy		(V*)
+me		-		(A1*)
+''		-		*
+.		-		*
+
+She		-		(A1*)		(A0*)
+seemed		seem		(V*)		*
+to		-		(A2*		(A2*)
+speak		speak		*)		(V*)
+to		-		(A2*		(A2*
+herself		-		*)		*)
+.		-		*		*
+
+``		-		*
+Do		-		(V*)
+you		-		*
+suppose		suppose		(V*)
+his		-		(A1*)
+self-consciousness		-		*
+is		-		*
+characteristic		-		(A1*)
+of		-		*
+the		-		(A1*)
+new		-		*
+Negro		-		*
+professionals		-		*
+or		-		*
+merely		-		(AM-ADV*)
+of		-		*
+doctors		-		*
+in		-		*
+general		-		(A1*)
+''		-		*
+?		-		*
+?		-		*
+
+She		-		(A0*)
+turned		turn		(V*)
+to		-		(AM-DIR*
+him		-		*)
+again		-		(AM-TMP*)
+.		-		*
+
+``		-		*
+Well		-		*
+,		-		*
+Mrs.		-		(A1*)
+Charles		-		(A0*)
+--		-		*
+Sally		-		*
+--		-		*
+has		-		*
+phoned		phone		(V*)
+too		-		(AM-DIS*)
+.		-		*
+
+She		-		(A0*)
+was		-		*
+very		-		(AM-ADV*)
+worried		worry		(V*)
+''		-		*
+.		-		*
+
+Rachel		-
+'s		-
+tone		-
+was		-
+dry		-
+.		-
+
+``		-		*		*		*		*
+She		-		*		(A0*)		(A0*)		(A0*)
+did		-		*		*		*		*
+n't		-		*		*		*		*
+really		-		*		*		*		*
+say		say		(V*)		*		*		*
+''		-		*		*		*		*
+--		-		*		*		*		*
+She		-		*		(A0*)		(A0*)		(A0*)
+glanced		glance		*		(V*)		*		*
+away		-		*		*		*		*
+at		-		*		*		*		*
+the		-		*		*		*		*
+floor		-		*		*		*		*
+,		-		*		*		*		*
+then		-		*		*		*		*
+swooped		swoop		*		*		(V*)		*
+gracefully		-		*		*		*		*
+and		-		*		*		*		*
+picked		pick		*		*		*		(V*)
+up		-		*		*		*		*
+one		-		*		*		*		*
+of		-		*		*		*		*
+Scotty		-		*		*		*		*
+'s		-		*		*		*		*
+slippers		-		*		*		*		*
+.		-		*		*		*		*
+
+``		-		*		*		*
+I		-		(A0*)		(A0*)		(A0*)
+mean		mean		(V*)		*		*
+,		-		*		*		*
+do		-		*		*		*
+you		-		*		(A0*)		(A0*)
+feel		feel		*		(V*)		*
+like		-		(AM-MNR*)		(AM-MNR*)		*
+seeing		see		*		*		(V*)
+Kate		-		(A1*)		(A1*)		(A1*)
+''		-		*		*		*
+?		-		*		*		*
+?		-		*		*		*
+
+Scotty		-		(A1*)		(A1*)
+said		say		(V*)		*
+,		-		*		*
+``		-		*		*
+I		-		(A0*)		(A0*)
+do		-		*		*
+n't		-		*		(AM-NEG*)
+know		know		*		(V*)
+''		-		*		*
+.		-		*		*
+
+It		-
+was		-
+true		-
+.		-
+
+He		-
+did		-
+not		-
+.		-
+
+There		-
+was		-
+the		-
+slight		-
+pain		-
+,		-
+but		-
+it		-
+was		-
+no		-
+different		-
+from		-
+the		-
+throbbing		-
+in		-
+his		-
+head		-
+.		-
+
+``		-
+Well		-
+,		-
+there		-
+'s		-
+time		-
+,		-
+in		-
+any		-
+case		-
+.		-
+
+We		-		(A1*)		(A0*)
+'ll		-		*		*
+wait		wait		(V*)		*
+till		-		*		*
+you		-		(A1*)		(A0*)
+'re		-		*		*
+stronger		-		*		*
+and		-		*		*
+then		-		*		*
+talk		talk		*		(V*)
+about		-		*		*
+it		-		*		(A1*)
+''		-		*		*
+.		-		*		*
+
+She		-		(A0*)
+put		put		(V*
+the		-		*
+slipper		-		*)
+neatly		-		(AM-MNR*)
+by		-		(A1*
+its		-		*
+mate		-		*)
+at		-		(A2*
+the		-		*
+foot		-		*
+of		-		*
+the		-		*
+bed		-		*)
+.		-		*
+
+Scotty		-		(A0*)
+said		say		(V*)
+,		-		*
+``		-		*
+Okay		-		(A1*)
+''		-		*
+.		-		*
+
+This		-		(AM-TMP*
+time		-		*)
+Rachel		-		(A0*)
+kissed		kiss		(V*)
+him		-		(A1*)
+lightly		-		(AM-MNR*)
+on		-		(A2*)
+the		-		(AM-TMP*
+forehead		-		*)
+.		-		*
+
+Scotty		-		(A2*)
+was		-		*
+pleased		please		(V*)
+.		-		*
+
+His		-
+father		-
+was		-
+a		-
+constant		-
+visitor		-
+.		-
+
+Scotty		-		*		*
+would		-		*		(AM-MOD*)
+hear		hear		(V*)		*
+the		-		*		(A1*
+front		-		*		*
+door		-		*		*)
+in		-		*		*
+the		-		*		(A1*)
+evening		-		*		*
+and		-		*		*
+then		-		*		*
+his		-		*		*
+father		-		*		*
+'s		-		*		*
+deep		-		*		*
+slow		-		*		*
+voice		-		*		*
+;		-		*		*
+;		-		*		*
+it		-		*		*
+floated		float		*		(V*)
+up		-		*		*
+the		-		*		(A1*)
+stairs		-		*		*
+.		-		*		*
+
+``		-
+How		-
+'s		-
+Scotty		-
+''		-
+?		-
+?		-
+
+And		-
+Rachel		-
+'s		-
+or		-
+Virginia		-
+'s		-
+reply		-
+:		-
+``		-
+better		-
+.		-
+
+He		-		(A1*
+'s		-		*)
+getting		get		(V*)
+plenty		-		(A1*
+of		-		*
+rest		-		*)
+''		-		*
+.		-		*
+
+``		-		*
+Is		-		*
+his		-		(A1*
+appetite		-		*)
+improved		improve		(V*)
+''		-		*
+?		-		*
+?		-		*
+
+Or		-		*
+:		-		*
+``		-		*
+Does		-		*
+he		-		(A1*)
+get		get		(V*)
+exercise		-		(A1*)
+''		-		*
+?		-		*
+?		-		*
+
+The		-		(A1*
+exchange		-		*)
+was		-		*
+almost		-		(AM-DIS*)
+invariable		-		(A1*)
+,		-		*
+and		-		*
+Scotty		-		(A2*)
+,		-		*
+in		-		*
+his		-		*
+bed		-		*
+,		-		*
+could		-		(AM-MOD*)
+hear		hear		(V*)
+every		-		(A0*)
+word		-		*
+of		-		*
+it		-		*
+.		-		*
+
+He		-		(A0*)
+never		-		(AM-TMP*)
+smiled		smile		(V*)
+.		-		*
+
+It		-		(A1*)		*
+required		require		(V*)		*
+an		-		(A1*		(A1*
+energy		-		*)		*)
+he		-		(A1*)		(A0*)
+no		-		*		*
+longer		-		*		*
+possessed		possess		*		(V*)
+to		-		(A2*)		*
+be		-		*		*
+satirical		-		*		*
+about		-		(A1*)		*
+his		-		(A1*		*
+father		-		*)		*
+.		-		*		*
+
+His		-		*		(A1*)
+father		-		*		(A2*)
+would		-		(AM-MOD*)		(AM-MOD*)
+come		come		(V*)		*
+upstairs		-		(A4*)		(AM-LOC*)
+and		-		*		*
+stand		stand		*		(V*)
+self-consciously		-		(AM-MNR*)		(AM-MNR*)
+at		-		*		(AM-LOC*
+the		-		*		*
+foot		-		*		*)
+of		-		*		*
+the		-		*		*
+bed		-		*		*
+and		-		*		*
+look		-		*		*
+at		-		*		(AM-LOC*)
+his		-		*		(A1*)
+son		-		*		(A1*)
+.		-		*		*
+
+After		-		*		*		*		*
+a		-		*		*		*		*
+pause		-		*		*		*		*
+,		-		*		*		*		*
+during		-		*		*		*		*
+which		-		*		*		(R-A1*)		(R-A1*)
+he		-		*		(A0*)		*		*
+studied		study		(V*)		*		*		*
+Scotty		-		*		*		*		*
+'s		-		*		*		*		*
+face		-		*		*		*		*
+as		-		*		*		*		*
+if		-		*		*		*		*
+Scotty		-		*		*		*		*
+were		-		*		*		*		*
+not		-		*		*		*		*
+there		-		*		*		*		*
+and		-		*		*		*		*
+could		-		*		*		*		*
+not		-		*		*		*		*
+study		study		*		(V*)		*		*
+him		-		*		*		*		*
+too		-		*		*		*		*
+,		-		*		*		*		*
+Mr.		-		*		*		*		*
+McKinley		-		*		*		*		*
+would		-		*		*		*		*
+ask		ask		*		*		(V*)		*
+the		-		*		*		*		*
+same		-		*		*		*		*
+questions		-		*		*		*		(A1*)
+he		-		*		(A0*)		*		*
+had		-		*		*		*		*
+asked		ask		*		*		*		(V*)
+downstairs		-		*		*		*		*
+.		-		*		*		*		*
+
+Scotty		-		(A0*)		(A2*)		(A1*)
+would		-		(AM-MOD*)		(AM-MOD*)		*
+reply		reply		(V*)		*		*
+softly		-		(AM-MNR*)		(AM-MNR*)		(AM-MNR*)
+and		-		*		*		*
+his		-		(A1*)		(A1*)		(A0*)
+father		-		(A0*)		*		(A1*)
+,		-		*		*		*
+apologetically		-		(AM-MNR*)		(AM-MNR*)		(AM-MNR*)
+,		-		*		*		*
+would		-		(AM-MOD*)		(AM-MOD*)		*
+ask		ask		*		(V*		*
+him		-		(A1*)		*)		(A1*)
+to		-		*		*		*
+repeat		repeat		*		*		(V*)
+.		-		*		*		*
+
+``		-		*		*
+I		-		(A0*)		(A0*)
+'m		-		*		*
+eating		eat		(V*)		*
+more		-		(A1*)		*
+''		-		*		*
+,		-		*		*
+he		-		(A0*)		(A0*)
+would		-		(AM-MOD*)		(AM-MOD*)
+say		say		*		(V*)
+.		-		*		*
+
+Or		-		*
+:		-		*
+``		-		*
+I		-		(A0*)
+walk		walk		(V*)
+around		-		(AM-DIR*
+the		-		*
+house		-		*)
+a		-		*
+lot		-		*
+''		-		*
+.		-		*
+
+``		-		*
+Perhaps		-		(AM-ADV*)
+you		-		(A1*)
+should		-		(AM-MOD*)
+get		get		(V*
+out		-		*)
+a		-		(AM-MNR*
+little		-		*)
+''		-		*
+.		-		*
+
+``		-		*
+I		-		(A2*)
+'m		-		*
+not		-		(AM-NEG*)
+supposed		suppose		(V*)
+to		-		*
+yet		-		(AM-TMP*)
+''		-		*
+.		-		*
+
+He		-		(A1*)
+was		-		*
+not		-		(AM-NEG*)
+irritated		irritate		(V*)
+.		-		*
+
+He		-
+did		-
+not		-
+mind		-
+the		-
+useless		-
+,		-
+kindly		-
+questions		-
+.		-
+
+He		-		*		*		*		*		*		*
+looked		look		(V*)		*		*		*		*		*
+at		-		*		*		*		*		*		*
+the		-		*		*		*		*		*		*
+lined		line		*		(V*)		*		*		*		*
+face		-		*		*		*		*		*		*
+with		-		*		*		*		*		*		*
+vague		-		*		*		*		*		*		*
+interest		-		*		(A1*)		*		(A1*)		*		*
+;		-		*		*		*		*		*		*
+;		-		*		*		*		*		*		*
+he		-		*		*		*		*		*		*
+felt		feel		*		*		(V*)		*		*		*
+he		-		*		*		*		*		*		*
+was		-		*		*		*		*		*		*
+noting		note		*		*		*		(V*)		*		*
+it		-		*		*		*		(A1*)		*		*
+,		-		*		*		*		*		*		*
+as		-		*		*		*		*		*		*
+if		-		*		*		*		*		*		*
+it		-		*		*		(A1*)		*		*		*
+were		-		*		*		*		*		*		*
+something		-		*		(A1*)		*		(A1*)		*		*
+he		-		*		*		*		*		*		*
+might		-		*		*		*		*		*		*
+think		think		*		*		*		*		(V*)		*
+about		-		*		(A2*)		*		*		*		*
+when		-		*		*		*		*		*		*
+he		-		*		*		*		*		*		*
+grew		grow		*		*		*		*		*		(V*)
+stronger		-		*		*		*		*		*		*
+.		-		*		*		*		*		*		*
+
+Mr.		-		(A1*		*		*
+McKinley		-		*)		*		*
+examined		examine		(V*)		*		*
+everything		-		(A1*)		*		(A1*)
+with		-		(AM-MNR*)		*		(A1*
+critical		-		(A1*		(A1*)		*
+care		-		*)		*		*)
+,		-		*		*		*
+seeking		seek		(A1*)		(V*)		(A1*)
+something		-		(A1*		*		(A1*
+material		-		*)		*		*
+to		-		(A2*		*		*)
+blame		blame		*)		*		(V*)
+for		-		(AM-PNC*		*		(A2*
+his		-		*		*		*
+son		-		*		*		*)
+'s		-		*		*		*
+illness		-		*)		*		*
+.		-		*		*		*
+
+``		-		*
+Have		-		*
+you		-		(A0*)
+got		get		(V*)
+enough		-		(A1*)
+blankets		-		*
+''		-		*
+?		-		*
+?		-		*
+
+And		-		*		*
+another		-		*		*
+time		-		*		*
+,		-		*		*
+without		-		*		*
+accusation		-		*		*
+:		-		*		*
+``		-		*		*
+You		-		(A0*)		*
+never		-		*		*
+wore		wear		(V*)		*
+that		-		(A1*)		(A1*)
+scarf		-		*		*
+I		-		(A0*)		(A0*)
+bought		buy		*		(V*)
+you		-		(A0*)		*
+''		-		*		*
+.		-		*		*
+
+Where		-		*		*		*
+their		-		(A1*)		(A1*)		*
+sharp		-		(A1*)		(A1*)		*
+edges		-		*		*		*
+seemed		seem		(V*)		*		*
+restless		-		(C-A1*)		*		*
+as		-		*		*		*
+sea		-		*		*		*
+waves		-		*		*		*
+thrusting		-		*		*		*
+themselves		-		*		*		*
+upward		-		*		*		*
+in		-		*		*		*
+angry		-		*		*		*
+motion		-		*		*		*
+,		-		*		*		*
+Papa-san		-		*		*		*
+sat		sit		*		(V*)		*
+glacier-like		-		*		*		*
+,		-		*		*		*
+his		-		(A1*)		(A1*)		*
+smooth		-		*		*		*
+solidity		-		*		(A1*)		*
+,		-		*		*		*
+his		-		(A1*)		(A1*)		*
+very		-		*		*		(AM-ADV*)
+immobility		-		*		*		*
+defying		defy		*		*		(V*)
+all		-		*		*		*
+the		-		*		*		*
+turmoil		-		*		*		*
+about		-		*		*		*
+him		-		*		*		*
+.		-		*		*		*
+
+``		-
+Our		-
+objective		-
+''		-
+,		-
+the		-
+colonel		-
+had		-
+said		-
+that		-
+day		-
+of		-
+the		-
+briefing		-
+,		-
+``		-
+is		-
+Papa-san		-
+''		-
+.		-
+
+There		-		(AM-LOC*)		*
+the		-		(A1*)		(A1*)
+objective		-		(A2*)		(A1*)
+sat		sit		(V*)		*
+,		-		*		*
+brooding		brood		(A2*		(V*)
+over		-		*)		*
+all		-		(AM-ADV*)		(AM-ADV*)
+.		-		*		*
+
+Gouge		gouge		(V*)		*		*		*		*
+,		-		*		*		*		*		*
+burn		burn		*		(V*)		*		*		*
+,		-		*		*		*		*		*
+blast		blast		*		*		(V*)		*		*
+,		-		*		*		*		*		*
+insult		insult		(A1*)		(A1*)		(A1*)		(V*)		(A1*)
+it		-		*		*		*		(A1*)		(A1*)
+as		-		*		*		*		*		*
+they		-		(A0*)		(A0*)		*		(A0*)		(A0*)
+would		-		(AM-MOD*)		*		(AM-MOD*)		(AM-MOD*)		(AM-MOD*)
+,		-		*		*		*		*		*
+could		-		(AM-MOD*)		(AM-MOD*)		(AM-MOD*)		(AM-MOD*)		(AM-MOD*)
+anyone		-		(A0*)		(A0*)		(A1*)		*		(A0*)
+really		-		*		*		*		*		(AM-DIS*)
+take		take		*		*		*		*		(V*)
+Papa-san		-		*		*		*		*		*
+?		-		*		*		*		*		*
+?		-		*		*		*		*		*
+
+Between		-		*		*
+the		-		*		*
+ponderous		-		*		(A1*)
+hulk		-		*		*
+and		-		*		*
+himself		-		*		*
+,		-		*		*
+in		-		*		*
+the		-		*		(A1*)
+valley		-		*		*
+over		-		*		*
+which		-		(R-A0*)		*
+Papa-san		-		*		*
+reigned		reign		(V*)		*
+,		-		*		*
+men		-		(A0*)		*
+had		-		*		*
+hidden		hide		*		(V*)
+high		-		*		*
+explosives		-		*		*
+,		-		*		*
+booby		-		*		*
+traps		-		*		*
+,		-		*		*
+and		-		*		*
+mines		-		(A0*)		(A1*)
+.		-		*		*
+
+The		-		(A1*)		(A1*)
+raped		rape		(V*)		(A2*
+valley		-		*		*)
+was		-		*		*
+a		-		(A1*)		(A2*
+pregnant		-		*		*)
+womb		-		*		(A2*)
+awaiting		await		*		(V*
+abortion		-		*		*)
+.		-		*		*
+
+On		-		(AM-LOC*
+the		-		*
+forward		-		*
+slope		-		*)
+in		-		(AM-LOC*
+front		-		*
+of		-		*
+his		-		*
+own		-		*)
+post		-		*
+stretched		stretch		(V*
+two		-		*
+rows		-		*
+of		-		*
+barbed		-		*
+wire		-		*)
+.		-		*
+
+At		-		*		*		*		*		*
+the		-		(A1*)		(A1*)		*		*		*
+slope		-		*		*		*		*		*
+'s		-		*		*		*		*		*
+base		-		*		*		*		*		*
+coils		-		*		*		(A1*)		*		*
+of		-		*		*		*		*		*
+concertina		-		*		*		*		*		*
+stretched		stretch		(V*)		(AM-DIR*)		*		*		(AM-DIR*)
+out		-		*		*		*		*		*
+of		-		*		*		*		*		*
+eye		-		*		*		*		*		*
+range		-		*		*		*		*		(AM-DIR*)
+like		-		*		(AM-MNR*)		*		*		*
+a		-		*		(A1*)		*		*		*
+wild		-		*		(A1*)		*		*		*
+tangle		-		*		*		*		*		*
+of		-		*		*		*		*		*
+children		-		*		(A1*)		*		(A1*)		*
+'s		-		*		*		*		*		*
+hoops		-		*		*		*		*		*
+,		-		*		*		*		*		*
+stopped		stop		*		(V*)		*		*		*
+simultaneously		-		*		(AM-TMP*)		*		*		*
+,		-		*		*		*		*		*
+weirdly		-		(AM-MNR*)		(AM-MNR*)		(A2*)		*		*
+poised		-		(AM-MNR*)		*		*		*		*
+as		-		*		(AM-ADV*)		*		*		*
+if		-		*		(AM-ADV*)		*		*		*
+awaiting		await		*		(V*)		(V*)		(V*)		*
+the		-		(A1*)		(A1*)		*		*		*
+magic		-		*		*		*		*		*
+of		-		*		*		*		*		*
+the		-		(A1*		(A1*		*		*		*
+child		-		*		*)		*		*		*
+'s		-		*		*		*		*		*
+touch		-		*)		*		*		*		*
+to		-		*		*		*		*		*
+start		start		*		*		*		(V*)		*
+them		-		*		*		*		*		*
+all		-		*		*		*		*		*
+rolling		roll		*		*		*		*		(V*)
+again		-		*		(AM-TMP*)		*		*		*
+.		-		*		*		*		*		*
+
+Closer		-		(AM-LOC*)
+still		-		(AM-TMP*)
+,		-		*
+regular		-		*
+barricades		-		*
+of		-		*
+barbed		-		*
+wire		-		*
+hung		hang		(V*)
+on		-		(A2*)
+timber		-		(A1*)
+supports		-		(AM-MNR*)
+.		-		*
+
+Was		-
+it		-
+all		-
+vain		-
+labor		-
+?		-
+?		-
+
+Who		-		(R-A1*)
+would		-		(AM-MOD*)
+clean		clean		(V*
+up		-		*)
+the		-		(A1*)
+mess		-		*
+when		-		(R-AM-TMP*)
+the		-		(A1*)
+war		-		*
+was		-		*
+over		-		*
+?		-		*
+?		-		*
+
+Smiling		smile		(V*)		*		*		*
+at		-		*		*		*		*
+his		-		*		*		*		*
+quixotic		-		*		*		*		*
+thoughts		-		*		(A1*)		*		*
+,		-		*		*		*		*
+Warren		-		*		*		*		*
+turned		turn		*		(V*)		*		*
+back		-		*		*		*		*
+from		-		*		(AM-DIR*		(AM-LOC*		(AM-LOC*)
+the		-		*		*)		*)		*
+opening		-		*		*		*		*
+and		-		*		*		*		*
+lit		light		*		*		(V*)		*
+a		-		*		*		*		*
+cigarette		-		*		*		(A1*)		*
+before		-		*		*		*		*
+sitting		sit		*		*		*		(V*)
+down		-		*		(AM-DIR*)		*		*
+.		-		*		*		*		*
+
+Tonight		-		(AM-TMP*)
+a		-		*
+group		-		*
+of		-		*
+men		-		*
+,		-		*
+tomorrow		-		(AM-TMP*)
+night		-		*
+he		-		(A1*)
+himself		-		*
+,		-		*
+would		-		(AM-MOD*)
+go		-		*
+out		-		*
+there		-		*
+somewhere		-		(AM-LOC*)
+and		-		*
+wait		wait		(V*)
+.		-		*
+
+If		-		(AM-ADV*)		*		(AM-ADV*)
+he		-		(A1*)		(A0*)		(A1*)
+were		-		*		*		*
+to		-		*		*		*
+go		go		(V*)		*		*
+with		-		*		*		*
+White		-		*		*		*
+,		-		*		*		*
+he		-		(A1*)		(A0*)		(A1*)
+would		-		(AM-MOD*)		*		(AM-MOD*)
+be		-		*		*		*
+out		-		*		*		*
+there		-		*		*		*
+two		-		*		*		*
+days		-		*		*		*
+,		-		*		*		*
+not		-		(AM-NEG*)		*		(AM-NEG*)
+just		-		*		*		(AM-ADV*)
+listening		listen		*		(V*)		*
+in		-		*		*		*
+the		-		*		*		*
+dark		-		*		*		*
+at		-		*		*		*
+some		-		*		*		*
+point		-		*		*		*
+between		-		*		*		*
+here		-		*		*		*
+and		-		*		*		*
+Papa-san		-		*		*		*
+,		-		*		*		*
+but		-		*		*		*
+moving		move		*		*		(V*)
+ever		-		*		*		(AM-TMP*)
+deeper		-		*		*		*
+into		-		*		*		(AM-DIR*)
+enemy		-		*		*		*
+land		-		*		*		*
+--		-		*		*		*
+behind		-		*		(AM-DIR*)		(AM-DIR*)
+Papa-san		-		*		*		*
+--		-		*		*		*
+itself		-		*		*		*
+.		-		*		*		*
+
+Was		-		*
+this		-		(C-A1*)
+what		-		(R-A1*)
+he		-		*
+had		-		*
+expected		expect		(V*)
+?		-		*
+?		-		*
+
+He		-		(A1*)		(A0*)
+had		-		*		*
+n't		-		(AM-NEG*)		*
+realized		realize		(V*)		*
+that		-		(A1*)		(A1*)
+there		-		*		*
+would		-		*		*
+be		-		*		*
+so		-		(AM-TMP*)		*
+much		-		*		*
+time		-		*		*
+to		-		*		*
+think		think		*		(V*)
+,		-		*		*
+so		-		(AM-TMP*)		*
+many		-		*		*
+lulls		-		*		*
+.		-		*		*
+
+Somehow		-		*		*
+he		-		*		*
+had		-		*		*
+forgotten		forget		(V*)		*
+what		-		(R-A1*)		*
+he		-		*		*
+must		-		*		*
+have		-		*		*
+been		-		*		*
+told		tell		*		(V*)
+,		-		*		*
+that		-		*		*
+combat		-		*		*
+was		-		*		*
+an		-		*		(A1*)
+intermittent		-		*		(A1*)
+activity		-		*		(A1*)
+.		-		*		*
+
+Now		-		*		*		*
+he		-		(A1*)		(A1*)		(A1*)
+knew		know		(V*)		*		*
+that		-		(A1*)		*		*
+the		-		*		(A1*)		*
+moment		-		*		*		*
+illuminated		illuminate		*		(V*)		(A2*)
+by		-		*		*		*
+the		-		(A1*)		(A1*)		*
+vision		-		*		*		*
+on		-		*		*		*
+the		-		*		*		*
+train		-		*		*		*
+would		-		*		*		*
+have		-		*		*		*
+to		-		*		*		*
+be		-		*		*		*
+approached		approach		*		*		(V*)
+.		-		*		*		*
+
+It		-		*		(A1*)
+could		-		(AM-MOD*)		(AM-MOD*)
+take		take		(V*)		*
+place		-		(A2*)		*
+tomorrow		-		(AM-TMP*		(AM-TMP*)
+night		-		*)		*
+,		-		*		*
+or		-		*		*
+it		-		*		(A1*)
+might		-		(AM-MOD*)		*
+occur		occur		(A2*)		(V*)
+months		-		(A1*		*
+from		-		*)		*
+now		-		(AM-TMP*)		*
+.		-		*		*
+
+There		-
+was		-
+just		-
+too		-
+much		-
+time		-
+.		-
+
+Time		-		*
+to		-		*
+become		become		(V*)
+afraid		-		(A2*)
+.		-		*
+
+White		-		*		(A1*)
+'s		-		*		*
+suggestion		-		(A1*)		(A1*)
+flattered		flatter		(V*)		(AM-ADV*)
+,		-		*		*
+but		-		*		*
+he		-		(A0*)		(A0*)
+did		-		*		*
+not		-		*		(AM-NEG*)
+like		like		*		(V*)
+the		-		*		(A1*)
+identity		-		*		*
+.		-		*		*
+
+He		-		(A1*)
+did		-		*
+not		-		(AM-NEG*)
+spill		spill		(V*
+over		-		*)
+with		-		(A2*)
+hatred		-		(A1*)
+for		-		(AM-PNC*
+the		-		*
+enemy		-		*)
+.		-		*
+
+He		-		(A0*)		(A0*)		(A0*)		(A0*)
+had		-		*		*		*		*
+n't		-		*		*		*		*
+even		-		*		*		*		*
+seen		see		(V*)		*		*		*
+him		-		(A1*)		*		*		*
+yet		-		*		*		*		*
+Pressing		press		*		(V*)		*		*
+his		-		*		*		*		(A1*)
+cigarette		-		*		*		*		*
+out		-		*		*		*		*
+in		-		*		*		*		*
+the		-		*		*		*		*
+earth		-		*		*		*		*
+,		-		*		*		*		*
+Warren		-		*		*		*		*
+walked		walk		*		*		(V*)		*
+to		-		*		*		*		*
+the		-		*		*		*		*
+slit		-		*		*		*		*
+and		-		*		*		*		*
+scanned		scan		*		*		*		(V*)
+the		-		*		*		*		*
+jagged		-		*		*		*		*
+hills		-		*		*		*		*
+.		-		*		*		*		*
+
+He		-		(A0*)		(A1*)		(A0*)		(A1*)
+saw		see		(V*)		*		*		*
+no		-		*		*		*		*
+life		-		*		*		*		*
+,		-		*		*		*		*
+but		-		*		*		*		*
+still		-		*		*		*		*
+stood		stand		*		(V*)		*		*
+there		-		*		*		*		*
+for		-		*		*		*		*
+a		-		(A1*)		*		*		*
+time		-		*		*		*		*
+peering		peer		*		*		(V*)		*
+at		-		*		*		*		*
+the		-		*		*		*		*
+unlovely		-		*		(A2*)		*		*
+hills		-		*		*		*		*
+,		-		*		*		*		*
+his		-		*		*		*		*
+gaze		-		*		*		*		(A4*)
+continually		-		*		*		*		*
+returning		return		*		*		*		(V*)
+to		-		*		*		*		*
+Papa-san		-		*		*		*		*
+.		-		*		*		*		*
+
+He		-		(A1*)		(A0*)
+had		-		*		(AM-MOD*)
+come		come		(V*)		(AM-TMP*)
+here		-		*		*
+in		-		*		(AM-PNC*
+order		-		*		*)
+to		-		*		*
+test		test		(AM-ADV*)		(V*)
+himself		-		*		(A1*)
+.		-		*		*
+
+While		-		*		*		*
+most		-		*		*		*
+of		-		*		*		*
+his		-		*		*		*
+beliefs		-		*		*		*
+were		-		*		*		*
+still		-		*		*		*
+unsettled		unsettle		(V*)		*		*
+,		-		*		*		*
+he		-		(A1*)		(A1*)		(A1*)
+knew		know		*		(V*)		*
+that		-		(A1*)		(A1*)		(A1*)
+he		-		(A1*)		(A1*)		(A1*)
+did		-		*		*		*
+not		-		*		*		*
+believe		believe		*		*		(V*)
+in		-		*		*		*
+killing		-		*		*		*
+.		-		*		*		*
+
+Yet		-
+,		-
+he		-
+was		-
+here		-
+.		-
+
+He		-		(A1*)		(A0*)		(A0*)
+had		-		*		*		*
+come		come		(V*)		*		*
+because		-		*		*		*
+he		-		(A1*)		(A0*)		(A0*)
+could		-		*		*		*
+not		-		*		*		*
+live		live		*		(V*)		*
+out		-		*		*		*
+his		-		*		*		*
+life		-		*		*		*
+feeling		feel		*		*		(V*)
+that		-		*		*		(A1*)
+he		-		(A1*)		(A0*)		(A0*)
+had		-		*		*		*
+been		-		*		*		*
+a		-		*		*		*
+coward		-		*		*		*
+.		-		*		*		*
+
+There		-		(AM-LOC*)
+were		-		*
+ten		-		(A0*
+men		-		*)
+on		-		(AM-TMP*
+the		-		*
+patrol		-		*)
+which		-		(R-A1*
+Sergeant		-		*)
+Prevot		-		(A0*)
+led		lead		(V*
+out		-		*)
+that		-		(A1*)
+next		-		(AM-TMP*
+night		-		*)
+.		-		*
+
+The		-		*		*		*
+beaming		beam		(V*)		*		*
+ROK		-		*		*		*
+was		-		*		*		*
+carrying		carry		*		(V*)		*
+a		-		*		(A1*)		*
+thirty-caliber		-		*		*		*
+machine		-		*		*		*
+gun		-		*		*		*
+;		-		*		*		*
+;		-		*		*		*
+another		-		*		*		*
+man		-		*		*		*
+lugged		lug		*		*		(V*)
+the		-		*		*		*
+tripod		-		*		*		*
+and		-		*		*		*
+a		-		*		(A1*)		*
+box		-		*		*		*
+of		-		*		*		*
+ammunition		-		*		*		*
+.		-		*		*		*
+
+Warren		-		*
+and		-		*
+White		-		*
+each		-		(A1*)
+carried		carry		(V*)
+,		-		*
+in		-		(AM-MNR*)
+addition		-		(AM-DIS*)
+to		-		(A2*)
+their		-		(A1*
+own		-		*
+weapons		-		*)
+and		-		*
+ammo		-		*
+,		-		*
+a		-		(A1*
+box		-		*
+of		-		*
+ammo		-		*)
+for		-		*
+the		-		(A1*
+ROK		-		*)
+'s		-		*
+machine		-		*
+gun		-		*
+.		-		*
+
+Others		-		*		*
+carried		carry		(V*		(AM-MNR*)
+extra		-		*		*
+clips		-		*)		*
+for		-		(AM-MNR*		(AM-MNR*)
+the		-		*)		(A1*
+Browning		-		*		*)
+Automatic		-		*		(A2*
+Rifle		-		*		*)
+,		-		*		*
+which		-		(R-A1*)		*
+was		-		*		*
+in		-		*		(AM-MNR*
+the		-		*		*
+hands		-		*		*
+of		-		*		*)
+a		-		(A1*		(A1*)
+little		-		*)		(A1*)
+Mexican		-		*		*
+named		name		*		(V*
+Martinez		-		*		*)
+.		-		*		*
+
+Prevot		-		*
+had		-		*
+briefed		brief		(V*)
+the		-		(AM-TMP*)
+two		-		(AM-TMP*
+new		-		*
+men		-		*)
+that		-		(AM-TMP*
+afternoon		-		*)
+.		-		*
+
+``		-		*		*		*
+We		-		(A1*)		(A1*)		(A1*)
+just		-		*		*		*
+sit		sit		(V*)		*		*
+quiet		-		(A2*)		(A2*)		(AM-MNR*)
+and		-		*		*		*
+wait		wait		*		(V*)		*
+''		-		*		*		*
+,		-		*		*		*
+Prevot		-		(A2*)		(A2*)		(A0*)
+had		-		*		*		*
+said		say		*		*		(V*)
+.		-		*		*		*
+
+``		-
+Be		-
+sure		-
+the		-
+man		-
+nearest		-
+you		-
+is		-
+awake		-
+.		-
+
+If		-		*
+Joe		-		*
+does		-		*
+n't		-		(AM-NEG*)
+show		show		(V*)
+up		-		*
+,		-		*
+we		-		(A1*)
+'ll		-		(AM-MOD*)
+all		-		*
+be		-		*
+back		-		*
+here		-		(AM-LOC*)
+at		-		*
+**NUM**		-		*
+hours		-		*
+.		-		*
+
+Otherwise		-		(AM-DIS*)
+,		-		*
+we		-		(A0*)
+hold		hold		(V*)
+a		-		(A1*
+reception		-		*)
+.		-		*
+
+Then		-		*		(AM-TMP*)		*
+we		-		(A0*)		(A0*)		(A0*)
+pull		pull		(V*)		*		*
+out		-		(AM-DIR*)		(AM-DIR*)		*
+under		-		*		(AM-DIR*)		*
+our		-		*		*		*
+mortar		-		*		*		*
+and		-		*		*		*
+artillery		-		(A1*)		*		*
+cover		-		*		*		*
+,		-		*		*		*
+but		-		*		*		*
+nobody		-		(A0*)		(A0*)		*
+pulls		pull		*		(V*)		*
+out		-		(AM-DIR*)		(AM-DIR*)		*
+until		-		*		*		*
+I		-		(A0*)		(A0*)		(A0*)
+say		say		*		*		(V*)
+so		-		*		*		*
+.		-		*		*		*
+
+Remember		remember		(V*)		*		*		*		*
+what		-		(R-A1*)		(A1*)		*		(R-A1*)		(R-A1*)
+I		-		(A0*)		*		*		(A1*)		*
+said		say		*		(V*)		*		*		*
+about		-		*		(A1*)		*		*		*
+going		go		(AM-MOD*)		(AM-MOD*)		(V*)		*		*
+out		-		*		*		*		*		*
+to		-		*		*		*		*		*
+get		get		*		*		*		(V*)		*
+anybody		-		(A0*)		*		(A1*)		(A1*)		(A0*)
+left		leave		*		*		*		(A2*)		(V*)
+behind		-		*		*		*		*		*
+?		-		*		*		*		*		*
+?		-		*		*		*		*		*
+
+That		-		(A1*)
+still		-		(AM-TMP*)
+holds		hold		(V*)
+.		-		*
+
+We		-		(A1*)
+bring		bring		(V*
+back		-		*)
+all		-		(AM-ADV*)
+dead		-		(A2*)
+and		-		*
+wounded		-		(A2*)
+''		-		*
+.		-		*
+
+At		-		(AM-TMP*
+**NUM**		-		*
+hours		-		*)
+they		-		(A0*)
+had		-		*
+passed		pass		(V*
+through		-		*
+the		-		*)
+barbed		-		*
+wire		-		*
+at		-		(AM-TMP*
+the		-		*
+point		-		*
+of		-		*
+departure		-		*)
+.		-		*
+
+Then		-		*
+began		begin		(V*
+the		-		*
+journey		-		*)
+through		-		(AM-TMP*)
+their		-		(A1*)
+own		-		(AM-MNR*)
+mine		-		(A2*
+fields		-		*)
+.		-		*
+
+Mines		-
+.		-
+
+Ours		-		(A1*)
+were		-		*
+kinder		-		(A1*)
+than		-		*
+theirs		-		*
+,		-		*
+some		-		(A1*)
+said		say		(V*)
+.		-		*
+
+They		-		(A1*)		(A1*)		(A0*)		(A1*)		(A0*)		(A1*)
+set		set		(V*)		*		*		*		*		*
+bouncing		bounce		(A2*)		(V*)		*		*		*		*
+betties		-		*		*		*		*		*		*
+to		-		*		*		*		*		*		*
+jump		jump		*		*		(V*)		*		*		*
+and		-		*		*		*		*		*		*
+explode		explode		(A2*)		*		*		(V*)		*		(A2*)
+at		-		*		*		*		*		*		*
+testicle		-		*		*		*		*		*		*
+level		-		*		*		*		*		*		*
+while		-		*		*		*		*		*		*
+we		-		(A0*)		(A1*)		(A0*)		(A1*)		(A0*)		(A1*)
+more		-		*		*		*		*		*		*
+mercifully		-		(AM-MNR*)		*		*		*		*		*
+had		have		*		*		*		*		(V*)		*
+them		-		*		*		*		*		*		*
+go		go		*		*		*		*		*		(V*)
+off		-		*		*		*		*		*		*
+at		-		*		*		*		*		*		*
+the		-		*		*		*		*		*		*
+head		-		*		*		*		*		*		*
+.		-		*		*		*		*		*		*
+
+Mines		-
+.		-
+
+Big		-
+ones		-
+and		-
+little		-
+.		-
+
+The		-		(A1*
+crude		-		*
+wooden		-		*
+boxes		-		*
+of		-		*)
+the		-		(A1*
+enemy		-		*)
+,		-		*
+our		-		(A1*
+nicely		-		*)
+turned		turn		(V*
+gray		-		*
+metal		-		*
+disks		-		*)
+.		-		*
+
+But		-		*
+theirs		-		(A1*)
+defied		defy		(V*)
+the		-		(A0*
+detectors		-		*)
+.		-		*
+
+Mines		-
+.		-
+
+A		-		*		(A1*
+foot		-		*		*
+misplaced		misplace		(V*)		*)
+,		-		*		*
+a		-		*		(A1*
+leg		-		*		*)
+missing		miss		*		(V*)
+.		-		*		*
+
+Mines		-
+.		-
+
+All		-		*		*
+sizes		-		*		*
+:		-		*		*
+big		-		*		*
+ones		-		*		*
+,		-		*		*
+some		-		(A1*)		(A1*)
+wired		wire		(V*)		*
+to		-		*		*
+set		set		*		(V*
+off		-		*		*)
+a		-		(A1*)		(A1*
+whole		-		*		*
+field		-		*		*)
+,		-		*		*
+little		-		*		*
+ones		-		*		*
+,		-		*		*
+hand		-		*		*
+grenade		-		*		*
+size		-		*		*
+.		-		*		*
+
+Booby		-		*
+traps		-		*
+to		-		*
+fill		fill		(V*
+the		-		*
+head		-		*)
+with		-		(A2*
+chunks		-		*
+of		-		*
+metal		-		*)
+.		-		*
+
+Warren		-		(A0*)		(A0*)		(A0*)
+tried		try		(V*)		*		*
+to		-		(A1*)		*		*
+shake		shake		*		(V*)		*
+off		-		*		(AM-DIR*)		*
+the		-		*		*		*
+jumble		-		*		*		*
+of		-		*		*		*
+his		-		*		*		*
+fears		-		*		*		*
+by		-		(AM-MNR*)		*		*
+looking		look		(A0*)		*		(V*)
+at		-		*		*		*
+the		-		*		*		*
+sky		-		*		*		*
+.		-		*		*		*
+
+It		-
+was		-
+dark		-
+.		-
+
+Prevot		-		*		*		(A0*)		*		*
+had		-		*		*		*		*		*
+said		say		(V*)		*		*		*		*
+that		-		*		*		*		*		*
+the		-		*		*		*		*		*
+searchlights		-		(A1*)		*		*		*		*
+would		-		*		*		*		*		*
+be		-		*		*		*		*		*
+bounced		bounce		*		(V*)		*		(A2*		*
+off		-		*		*		*		*)		*
+the		-		*		*		*		*		*
+clouds		-		*		*		(A1*)		*		*
+at		-		*		*		*		*		*
+**NUM**		-		*		*		*		*		*
+hours		-		*		*		*		*		*
+,		-		*		*		*		*		*
+``		-		*		*		*		*		*
+which		-		*		(R-A1*)		*		*		*
+gives		give		*		*		(V*)		*		*
+us		-		*		*		*		*		*
+time		-		*		*		*		*		*
+to		-		*		*		*		*		*
+get		get		*		*		*		(V*)		*
+settled		settle		*		*		*		*		(V*)
+in		-		*		*		*		*		*
+position		-		*		(A1*)		*		*		(A1*)
+''		-		*		*		*		*		*
+.		-		*		*		*		*		*
+
+Because		-		*		*		*		*
+they		-		(A1*)		*		(A1*)		(A1*)
+were		-		*		*		*		*
+new		-		*		*		*		*
+men		-		*		*		(A1*)		*
+and		-		*		*		*		*
+to		-		*		*		*		*
+be		-		*		*		*		*
+sure		-		*		*		*		*
+that		-		*		*		*		*
+they		-		(A1*)		*		(A1*)		(A1*)
+did		-		*		*		*		*
+n't		-		*		*		*		*
+get		get		(V*)		*		*		*
+lost		lose		*		(V*)		*		*
+,		-		*		*		*		*
+Prevot		-		*		*		*		*
+had		-		*		*		*		*
+placed		place		(A2*)		*		(V*)		*
+Warren		-		*		*		*		*
+and		-		*		*		*		*
+White		-		*		*		*		*
+in		-		*		*		*		*
+the		-		*		*		*		*
+center		-		*		*		*		*
+of		-		*		*		*		*
+the		-		*		*		*		*
+patrol		-		*		*		(A1*)		*
+as		-		*		*		*		*
+it		-		*		(A1*)		*		*
+filed		file		*		*		*		(V*)
+out		-		*		*		*		*
+.		-		*		*		*		*
+
+His		-		(A1*)		*
+eyes		-		*		*
+now		-		*		(AM-TMP*)
+fixed		fix		(V*)		*
+on		-		*		*
+White		-		*		*
+'s		-		*		*
+solid		-		*		*
+figure		-		*		*
+,		-		*		*
+Warren		-		*		*
+could		-		(AM-MOD*)		(AM-MOD*)
+hear		hear		*		(V*)
+behind		-		*		*
+him		-		(A1*)		*
+the		-		(A1*)		*
+tread		-		*		*
+of		-		*		*
+another		-		*		*
+.		-		*		*
+
+He		-		(A0*)		*
+could		-		*		*
+also		-		*		*
+hear		hear		(V*)		*
+the		-		*		*
+stream		-		*		*
+which		-		*		*
+he		-		(A0*)		*
+had		-		*		*
+seen		see		*		(V*)
+from		-		*		*
+his		-		*		*
+position		-		(A1*)		(A1*)
+.		-		*		*
+
+They		-		(A1*)
+were		-		*
+going		-		(AM-MOD*)
+to		-		(A2*)
+follow		follow		(V*)
+it		-		(A1*)
+for		-		(AM-PNC*
+part		-		*
+of		-		*
+their		-		*
+journey		-		*)
+.		-		*
+
+``		-		*		*
+It		-		*		*
+'s		-		*		*
+safe		-		*		(A1*)
+''		-		*		*
+,		-		*		*
+Prevot		-		(A1*)		*
+had		-		*		*
+said		say		(V*)		*
+,		-		*		*
+``		-		*		*
+and		-		*		*
+it		-		*		*
+provides		provide		*		(V*)
+cover		-		*		*
+for		-		*		*
+our		-		(A1*		*
+noise		-		*)		*
+''		-		*		*
+.		-		*		*
+
+Soon		-		*		(AM-TMP*)
+they		-		(A0*)		(A1*)
+were		-		*		*
+picking		pick		(V*		(AM-ADV*
+their		-		*		*
+way		-		*)		*)
+along		-		(AM-DIR*		(AM-DIR*
+the		-		*		*
+edge		-		*)		*)
+of		-		*		*
+the		-		*		*
+stream		-		*		*
+which		-		*		(R-A1*)
+glowed		glow		*		(V*)
+in		-		(AM-TMP*		(AM-TMP*
+the		-		*)		*
+night		-		*		*)
+.		-		*		*
+
+On		-		(AM-LOC*)		*
+their		-		(A1*)		*
+right		-		(AM-ADV*)		*
+rose		rise		(V*		*
+the		-		*		*
+embankment		-		*)		*
+covered		cover		(A2*		(V*)
+with		-		*)		(A2*)
+brush		-		(A1*		(A1*)
+and		-		*		*
+trees		-		*)		*
+.		-		*		*
+
+If		-		*		*		*		*
+a		-		(A1*)		(A1*)		(A1*)		(A1*)
+branch		-		*		*		*		*
+extended		extend		(V*)		*		*		*
+out		-		*		*		*		*
+too		-		*		*		*		*
+far		-		*		*		*		*
+,		-		*		*		*		*
+each		-		*		*		*		*
+man		-		*		*		*		*
+held		hold		*		(V*)		*		*
+it		-		*		*		*		*
+back		-		*		*		*		*
+for		-		*		*		*		*
+the		-		*		*		*		*
+next		-		*		*		*		*
+,		-		*		*		*		*
+and		-		*		*		*		*
+if		-		*		*		*		*
+they		-		*		(A0*)		(A0*)		(A0*)
+met		meet		*		*		(V*)		*
+a		-		(A1*)		(A1*)		(A1*)		(A1*)
+low		-		*		*		*		*
+overhang		-		*		*		*		*
+,		-		*		*		*		*
+each		-		*		*		*		*
+warned		warn		*		*		*		(V*)
+the		-		*		*		*		*
+other		-		*		*		*		*
+.		-		*		*		*		*
+
+Thus		-		*		(AM-DIS*)		*		*
+,		-		*		*		*		*
+stealthily		-		*		*		*		*
+they		-		(A1*)		(A1*)		(A1*)		(A0*)
+advanced		advance		(V*)		*		*		*
+upstream		-		*		*		*		*
+;		-		*		*		*		*
+;		-		*		*		*		*
+then		-		*		*		*		*
+they		-		(A1*)		(A1*)		(A1*)		(A0*)
+turned		turn		*		(V*)		*		*
+to		-		*		(AM-DIR*		*		*
+the		-		*		*)		*		*
+right		-		*		(AM-TMP*)		*		*
+,		-		*		*		*		*
+climbed		climb		*		*		(V*)		*
+the		-		*		*		*		*
+embankment		-		*		*		*		*
+,		-		*		*		*		*
+and		-		*		*		*		*
+walked		walk		*		*		*		(V*)
+into		-		*		*		*		*
+the		-		*		*		*		*
+valley		-		*		*		*		*
+again		-		*		*		*		*
+.		-		*		*		*		*
+
+There		-		*
+was		-		*
+no		-		(AM-ADV*)
+cover		-		*
+here		-		(AM-LOC*)
+,		-		*
+only		-		(AM-ADV*)
+grass		-		*
+sighing		sigh		(V*)
+against		-		(A1*)
+pant-legs		-		*
+.		-		*
+
+And		-		*
+with		-		*
+each		-		*
+sigh		-		*
+,		-		*
+like		-		(AM-MNR*
+a		-		*
+whip		-		*)
+in		-		(AM-MNR*
+the		-		*
+hand		-		*
+of		-		*
+an		-		*
+expert		-		*)
+,		-		*
+the		-		*
+grass		-		*
+stripped		strip		(V*)
+something		-		(A1*)
+from		-		(A2*
+Warren		-		*)
+.		-		*
+
+The		-		*		*		*		*
+gentle		-		*		*		*		*
+whir		-		*		*		*		*
+of		-		*		*		*		*
+each		-		*		*		*		*
+footstep		-		*		*		*		*
+left		leave		(V*)		*		*		*
+him		-		*		*		*		*
+more		-		*		*		*		*
+naked		-		*		*		*		*
+than		-		*		*		*		*
+before		-		*		*		*		*
+,		-		*		*		*		*
+until		-		*		*		*		*
+he		-		(A1*)		(A0*)		(A0*)		(A1*)
+felt		feel		*		(V*)		*		*
+his		-		*		*		*		*
+unprotected		-		(A2*)		*		*		*
+flesh		-		*		*		*		*
+tremble		tremble		*		*		(V*)		*
+,		-		*		*		*		*
+chilled		chill		*		*		*		(V*)
+by		-		*		*		*		*
+each		-		*		*		*		*
+new		-		*		*		*		*
+sound		-		*		*		*		*
+.		-		*		*		*		*
+
+The		-		*		(A1*)
+shapes		-		*		*
+of		-		*		*
+the		-		*		(A1*)
+men		-		*		(A0*)
+ahead		-		*		(AM-DIR*)
+of		-		*		*
+him		-		*		*
+lacked		lack		(V*)		*
+solidity		-		(A1*)		*
+,		-		*		*
+as		-		*		*
+if		-		*		*
+the		-		*		*
+whip		-		*		*
+had		-		*		*
+stripped		strip		*		(V*)
+them		-		*		*
+of		-		*		*
+their		-		*		(A1*)
+very		-		(A1*)		*
+flesh		-		*		*
+.		-		*		*
+
+The		-		*
+dark		-		*
+forms		-		*
+moved		move		(V*)
+like		-		*
+mourners		-		*
+on		-		*
+some		-		*
+nocturnal		-		*
+pilgrimage		-		*
+,		-		*
+their		-		(A1*
+dirge		-		*)
+unsung		-		(A1*)
+for		-		*
+want		-		*
+of		-		*
+vocal		-		*
+chords		-		*
+.		-		*
+
+The		-		(A1*)
+warped		-		*
+,		-		*
+broken		-		*
+trees		-		*
+in		-		*
+the		-		(A1*
+valley		-		*)
+assumed		assume		(V*)
+wraith-like		-		*
+shapes		-		*
+.		-		*
+
+Clumps		-		(A1*)		*		*
+of		-		*		*		*
+brush		-		*		*		*
+that		-		(A1*)		*		*
+they		-		*		(A0*)		(A0*)
+passed		-		*		*		*
+were		-		*		*		*
+so		-		*		*		*
+many		-		*		*		*
+enchained		enchain		(V*)		*		*
+demons		-		*		*		*
+straining		-		*		*		*
+in		-		*		*		*
+anger		-		*		(A1*)		*
+to		-		*		*		*
+tear		tear		*		(V*)		*
+and		-		*		*		*
+gnaw		gnaw		*		*		(V*)
+on		-		*		*		*
+his		-		*		*		*
+bones		-		*		*		*
+.		-		*		*		*
+
+Looming		-		*		*		*
+over		-		*		*		*
+all		-		(AM-ADV*)		*		*
+,		-		*		*		*
+Papa-san		-		*		*		*
+leered		leer		(V*		*		(AM-MNR*)
+down		-		*)		*		*
+at		-		(A1*)		*		*
+him		-		(A1*)		*		(A1*)
+,		-		*		*		*
+threatening		threaten		*		(V*)		*
+a		-		*		*		(A1*)
+hundred		-		*		*		*
+hidden		hide		(AM-ADV*)		*		(V*)
+malevolencies		-		*		*		*
+.		-		*		*		*
+
+Off		-		(AM-DIR*		*
+in		-		*		*
+the		-		*		*
+distance		-		*		*
+a		-		*)		(A2*)
+searchlight		-		(A1*)		*
+flashed		flash		(V*)		*
+on		-		(A2*)		*
+,		-		*		*
+its		-		*		(A1*)
+beam		-		*		*
+slashing		slash		(AM-ADV*		(V*)
+the		-		*		*
+sky		-		*)		*
+.		-		*		*
+
+The		-		(A1*)		*		(A1*
+sharp		-		(AM-ADV*		(A1*		*
+ray		-		*)		*)		*)
+was		-		*		*		*
+absorbed		absorb		(V*)		*		*
+by		-		(AM-MNR*)		(A2*		(A0*)
+a		-		(AM-ADV*		*		(A1*
+cloud		-		*)		*)		*)
+,		-		*		*		*
+then		-		(AM-TMP*)		(AM-TMP*)		(AM-DIS*)
+reflected		reflect		*		(V*)		*
+to		-		*		*		(A2*)
+the		-		(A1*		*		(A1*
+earth		-		*		*		*
+in		-		*)		*		*)
+a		-		(AM-ADV*		*		(A1*
+softer		-		*)		(AM-MNR*)		*)
+,		-		*		*		*
+diffused		diffuse		(AM-MNR*		(AM-MNR*		(V*
+radiance		-		*)		*)		*)
+.		-		*		*		*
+
+Somewhere		-		(A1*
+over		-		*)
+there		-		(AM-LOC*
+another		-		*
+patrol		-		*)
+had		have		(V*)
+need		-		(A1*
+of		-		*
+light		-		*)
+.		-		*
+
+Warren		-		*		*		*		*
+thought		think		(V*)		*		*		*
+of		-		*		*		*		*
+all		-		*		*		*		*
+the		-		*		*		*		*
+men		-		(A0*)		(A0*)		(A0*)		(A0*)
+out		-		*		*		*		*
+that		-		*		*		*		*
+night		-		*		*		*		*
+who		-		(R-A0*)		(R-A0*)		(R-A0*)		(R-A0*)
+,		-		*		*		*		*
+like		-		*		*		*		*
+himself		-		*		*		*		*
+,		-		*		*		*		*
+had		-		*		*		*		*
+left		leave		*		(V*)		*		*
+their		-		*		*		*		*
+protective		-		*		*		*		*
+ridge		-		*		*		*		*
+and		-		*		*		*		*
+--		-		*		*		*		*
+fear		-		*		*		*		*
+working		work		*		*		(V*)		*
+at		-		*		*		*		*
+their		-		*		*		*		*
+guts		-		*		*		*		*
+--		-		*		*		*		*
+picked		pick		*		*		*		(V*)
+their		-		*		*		*		*
+way		-		*		*		*		*
+into		-		*		*		*		*
+the		-		*		*		*		*
+area		-		*		*		*		*
+beyond		-		*		*		*		*
+.		-		*		*		*		*
+
+From		-		*		*		*
+the		-		*		*		*
+east		-		*		*		*
+to		-		*		*		*
+the		-		*		*		*
+west		-		*		*		*
+coast		-		*		*		*
+of		-		*		*		*
+the		-		*		*		*
+Korean		-		*		*		*
+peninsula		-		*		*		*
+was		-		*		*		*
+a		-		*		*		*
+strip		-		*		*		*
+of		-		*		*		*
+land		-		*		*		*
+in		-		*		*		*
+which		-		*		*		*
+fear-filled		-		*		*		*
+men		-		(A0*)		(A1*)		(A0*)
+were		-		*		*		*
+at		-		*		*		*
+that		-		*		*		*
+same		-		*		*		*
+moment		-		*		*		*
+furtively		-		*		(AM-MNR*)		*
+crawling		crawl		(V*)		(AM-MNR*)		*
+through		-		*		*		*
+the		-		*		*		*
+night		-		*		*		*
+,		-		*		*		*
+sitting		sit		*		(V*)		*
+in		-		*		(AM-LOC*)		*
+sweaty		-		*		*		*
+anticipation		-		*		*		*
+of		-		*		*		*
+any		-		*		(A1*)		*
+movement		-		*		*		*
+or		-		*		*		*
+sound		-		*		*		*
+,		-		*		*		*
+or		-		*		*		*
+shouting		shout		*		*		(V*)
+amidst		-		*		(AM-LOC*)		*
+confused		-		*		(AM-MNR*)		*
+rifle		-		*		*		*
+flashes		-		*		*		*
+and		-		*		*		*
+muzzle		-		*		(AM-MNR*)		*
+blasts		-		*		*		*
+.		-		*		*		*
+
+White		-		*		(A0*
+'s		-		*		*
+arm		-		*		*)
+went		go		(V*)		*
+up		-		*		*
+and		-		*		*
+Warren		-		*		*
+raised		raise		*		(V*)
+his		-		*		(A1*
+own		-		(AM-MNR*)		*)
+.		-		*		*
+
+The		-		(A1*
+patrol		-		*)
+was		-		*
+stopping		stop		(V*)
+.		-		*
+
+Prevot		-		(A2*)
+came		come		(V*
+up		-		*)
+.		-		*
+
+``		-		*		*		*
+Take		take		(V*		*		*
+that		-		*)		*		(A1*
+spot		-		*		*		*)
+over		-		*		(C-V*)		*
+there		-		*		*		*
+''		-		*		*		*
+,		-		*		*		*
+he		-		(A0*)		(A0*)		(A0*)
+whispered		whisper		*		(V*)		*
+,		-		*		*		*
+pointing		point		*		*		(V*)
+to		-		*		*		*
+a		-		(A1*		*		*
+small		-		*)		*		*
+clump		-		*		*		*
+of		-		*		(A0*)		*
+blackness		-		*		*		*
+.		-		*		*		*
+
+``		-		*
+Give		give		(V*)
+me		-		(A2*)
+your		-		(A0*
+machine		-		*
+gun		-		*)
+ammo		-		(A1*)
+''		-		*
+.		-		*
+
+Warren		-		*		*
+handed		hand		(V*		*
+him		-		*)		(A1*)
+the		-		(A1*		*
+metal		-		*		*
+box		-		*)		*
+and		-		*		*
+Prevot		-		*		*
+quietly		-		(AM-MNR*)		*
+disappeared		disappear		*		(V*)
+down		-		(AM-DIR*)		(AM-DIR*)
+the		-		(A1*		*
+line		-		*)		*
+.		-		*		*
+
+Lying		lie		(V*)		(A0*
+in		-		(AM-LOC*		*
+the		-		*		*
+grass		-		*)		*)
+behind		-		(AM-LOC*		(AM-DIR*
+the		-		*		*
+brush		-		*)		*
+clump		-		(AM-LOC*)		*)
+,		-		*		*
+Warren		-		*		*
+looked		look		*		(V*)
+about		-		*		(A0*)
+.		-		*		*
+
+The		-		(A1*
+others		-		*)
+likewise		-		*
+had		-		*
+hidden		hide		(V*
+themselves		-		*
+in		-		*)
+the		-		(A1*
+grass		-		*
+and		-		*)
+the		-		(A1*
+brush		-		*)
+.		-		*
+
+Over		-		*
+his		-		*
+shoulder		-		*
+he		-		(A0*)
+could		-		(AM-MOD*)
+see		see		(V*)
+Prevot		-		(A1*
+with		-		*
+the		-		*
+machine		-		*
+gun		-		*
+crew		-		*)
+.		-		*
+
+Even		-		(AM-ADV*)		*
+at		-		*		*
+this		-		*		*
+short		-		*		*
+distance		-		*		*
+they		-		(A0*)		(A1*)
+were		-		*		*
+only		-		(AM-ADV*		(AM-ADV*)
+vague		-		*		(A1*)
+shapes		-		*)		*
+,		-		*		*
+setting		set		(V*		*
+up		-		*		*
+the		-		*		*
+machine		-		*		*
+gun		-		*		*
+on		-		*)		*
+a		-		(A1*		*
+small		-		*		*
+knoll		-		*)		*
+so		-		(A1*)		*
+that		-		(R-A1*		*
+it		-		*)		(A1*)
+could		-		(AM-MOD*		(AM-MOD*)
+fire		fire		*)		(V*)
+above		-		(A2*		*
+the		-		*		*
+heads		-		*)		*
+of		-		*		*
+the		-		*		*
+rest		-		*		*
+of		-		*		*
+the		-		*		*
+patrol		-		*		*
+.		-		*		*
+
+Warren		-		*		*		*
+eased		ease		(V*)		*		*
+his		-		*		*		*
+rifle		-		*		*		*
+'s		-		*		*		*
+safety		-		*		*		*
+off		-		*		(AM-DIR*)		*
+and		-		*		*		*
+gently		-		*		*		(AM-MNR*)
+,		-		*		*		*
+slowly		-		*		*		(AM-MNR*)
+sneaked		sneak		*		(V*)		*
+another		-		*		*		*
+clip		-		*		*		*
+of		-		*		*		*
+ammunition		-		*		*		*
+from		-		*		*		*
+one		-		*		*		*
+of		-		*		*		*
+the		-		*		*		*
+cloth		-		*		*		*
+bandoleers		-		*		*		*
+that		-		*		*		*
+marked		mark		*		*		(V*)
+the		-		*		*		*
+upper		-		*		*		*
+part		-		*		*		*
+of		-		*		*		*
+his		-		*		*		*
+body		-		*		*		*
+with		-		*		*		*
+an		-		*		*		(A1*)
+A[fj]		-		*		*		*
+.		-		*		*		*
+
+This		-		(A1*)
+he		-		(A1*)
+placed		place		(V*
+within		-		*
+quick		-		*)
+reach		-		*
+.		-		*
+
+The		-		*		*		*
+walk		-		*		*		*
+and		-		*		*		*
+his		-		*		*		*
+fears		-		*		(A1*)		*
+had		-		*		*		*
+served		serve		(V*)		*		*
+to		-		*		*		*
+overheat		overheat		(AM-MOD*)		(V*)		*
+him		-		*		(A0*)		*
+and		-		*		*		*
+his		-		*		*		*
+sweaty		-		*		*		*
+armpits		-		*		*		*
+cooled		cool		*		*		(V*)
+at		-		*		*		*
+the		-		*		*		*
+touch		-		*		*		*
+of		-		*		*		*
+the		-		*		*		*
+night		-		*		*		*
+air		-		*		*		*
+.		-		*		*		*
+
+Although		-		*		(AM-ADV*
+the		-		*		*
+armored		-		*		*
+vest		-		*		*
+fitted		fit		(V*)		*
+the		-		*		*
+upper		-		*		*)
+part		-		*		(AM-ADV*
+of		-		*		*
+his		-		*		*
+body		-		*		*)
+snugly		-		(AM-MNR*)		(AM-MNR*)
+,		-		*		*
+he		-		(A1*)		(A0*)
+felt		feel		*		(V*)
+no		-		*		(A1*
+security		-		*		*)
+.		-		*		*
+
+Figures		-		*		*		*		*		*		*
+seemed		seem		(V*)		*		*		*		*		*
+to		-		*		*		*		*		*		*
+crouch		crouch		*		(V*)		*		*		*		*
+in		-		*		*		*		*		*		*
+the		-		*		*		*		*		*		*
+surrounding		surround		*		(AM-DIR*)		(V*)		*		*		*
+dark		-		*		*		*		*		*		*
+;		-		*		*		*		*		*		*
+;		-		*		*		*		*		*		*
+in		-		*		*		*		*		*		*
+the		-		*		*		*		*		*		*
+distance		-		*		*		*		*		*		*
+he		-		*		*		(A1*)		*		(A0*)		*
+saw		see		*		*		*		(V*)		*		*
+a		-		(C-A1*)		*		*		(A1*)		*		*
+band		-		*		*		*		*		*		*
+of		-		*		*		*		*		*		*
+men		-		(A1*)		*		*		*		*		*
+who		-		(R-A1*)		(R-A1*)		*		(R-A1*)		*		(R-A1*)
+seemed		-		*		*		*		*		*		*
+to		-		*		*		*		*		*		*
+advance		advance		*		*		*		*		(V*)		*
+and		-		*		*		*		*		*		*
+retreat		-		*		*		*		*		*		*
+even		-		*		*		*		*		*		*
+as		-		(A1*)		*		*		*		*		*
+he		-		*		*		*		*		(A0*)		*
+watched		watch		*		*		*		*		*		(V*)
+.		-		*		*		*		*		*		*
+
+Certain		-		*
+this		-		*
+menace		-		*
+was		-		*
+only		-		(AM-ADV*)
+imaginary		-		*
+,		-		*
+he		-		(A0*)
+yet		-		*
+stared		stare		(V*)
+in		-		*
+fascinated		-		*
+horror		-		*
+,		-		*
+his		-		*
+hand		-		*
+sticky		-		*
+against		-		(A1*)
+the		-		*
+stock		-		*
+of		-		*
+his		-		*
+weapon		-		*
+.		-		*
+
+He		-		*
+was		-		*
+aware		-		*
+of		-		*
+insistent		-		*
+inner		-		*
+beatings		-		(A1*)
+,		-		*
+as		-		*
+if		-		*
+prisoners		-		*
+within		-		*
+sought		seek		(V*)
+release		-		*
+from		-		*
+his		-		*
+rigid		-		*
+body		-		*
+.		-		*
+
+Above		-		(A1*)		(A2*)		*
+,		-		*		*		*
+the		-		*		*		*
+glowing		glow		(V*		*		*
+ivory		-		*		*		*
+baton		-		*		*		*
+of		-		*		*		*
+their		-		*)		*		(A1*)
+searchlight		-		(A0*		*		*
+pointed		point		*		(V*		*
+at		-		*		*		*
+the		-		*		*		*
+clouds		-		*)		*)		*
+,		-		*		*		*
+diluting		dilute		(AM-ADV*		(AM-ADV*		(V*)
+the		-		*		*		*
+valley		-		*		*		*
+'s		-		*		*		*
+dark		-		*)		*		*
+to		-		(A2*		*		*
+a		-		*)		*)		*
+pallid		-		(AM-ADV*		(AM-MNR*		*
+light		-		*)		*)		*
+.		-		*		*		*
+
+Then		-		(AM-TMP*)		(AM-DIS*)		*		*
+the		-		*		(A1*)		*		*
+figures		-		*		*		*		*
+which		-		(R-A2*)		*		*		*
+held		hold		(V*		*		*		*
+his		-		*		(A1*)		*		*
+attention		-		*)		*		*		*
+became		become		*		(V*)		*		*
+a		-		(A1*)		(A2*		*		*
+group		-		*		*)		*		*
+of		-		*		*		*		*
+shattered		shatter		(A2*)		(A2*		(V*)		*
+trees		-		*		*)		*		*
+,		-		*		*		*		*
+standing		stand		*		*		*		(V*)
+like		-		*		*		*		*
+the		-		*		*		*		*
+grotesques		-		*		*		*		*
+of		-		*		*		*		*
+a		-		(A1*		(A2*		*		*
+medieval		-		*		*		*		*
+damnation		-		*		*		*		(A2*)
+scene		-		*)		*)		*		*
+.		-		*		*		*		*
+
+Even		-		*		*		*
+so		-		*		*		*
+,		-		*		*		*
+he		-		(A0*)		*		(A0*)
+could		-		*		(AM-MOD*)		*
+not		-		*		*		*
+ease		ease		(V*)		*		*
+the		-		*		*		*
+tension		-		*		*		*
+of		-		*		*		*
+his		-		*		*		*
+body		-		*		*		*
+;		-		*		*		*
+;		-		*		*		*
+the		-		*		*		*
+rough		-		*		*		*
+surface		-		*		*		*
+of		-		*		*		*
+the		-		*		*		*
+earth		-		*		*		*
+itself		-		*		*		*
+seemed		seem		*		(V*)		*
+to		-		*		*		*
+resist		resist		*		*		(V*)
+every		-		(A0*)		(A1*)		*
+attempt		-		*		*		*
+on		-		*		*		*
+his		-		*		(A1*)		*
+part		-		*		*		*
+to		-		*		*		*
+relax		-		*		*		*
+.		-		*		*		*
+
+Sensing		sense		(V*)		*		*		*
+the		-		*		*		*		*
+unseen		-		*		*		*		*
+presence		-		*		*		*		*
+of		-		*		*		*		*
+the		-		*		*		*		*
+other		-		*		*		*		*
+men		-		*		*		*		*
+in		-		*		*		*		*
+the		-		*		*		*		*
+patrol		-		*		*		*		*
+,		-		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		(A0*)
+felt		feel		*		(V*)		*		*
+mutely		-		*		(AM-MNR*)		*		*
+united		unite		*		*		(V*)		*
+to		-		*		*		*		*
+these		-		*		*		*		*
+nine		-		*		*		*		*
+near-strangers		-		*		*		*		*
+sharing		share		*		*		*		(V*)
+this		-		*		*		*		*
+pinpoint		-		*		*		*		*
+of		-		*		*		*		*
+being		-		*		*		*		*
+with		-		*		*		*		*
+him		-		*		*		*		*
+.		-		*		*		*		*
+
+He		-		(A0*)		(A0*)		(A0*)
+sensed		sense		(V*)		*		*
+something		-		*		*		*
+precious		-		*		*		*
+in		-		*		*		*
+the		-		*		*		*
+perilous		-		*		*		*
+moment		-		*		*		*
+,		-		*		*		*
+something		-		*		*		*
+akin		-		*		*		*
+to		-		*		*		*
+the		-		*		*		*
+knowledge		-		*		*		*
+gained		gain		*		(V*)		*
+on		-		*		*		*
+his		-		*		*		*
+bicycle		-		*		*		*
+trip		-		*		*		*
+through		-		*		*		*
+the		-		*		*		*
+French		-		*		*		*
+countryside		-		*		*		*
+,		-		*		*		*
+a		-		*		*		*
+knowledge		-		*		*		*
+imprisoned		imprison		*		*		(V*)
+in		-		*		*		*
+speechlessness		-		*		*		*
+.		-		*		*		*
+
+--		-		*		*		*		*
+In		-		*		*		*		*
+France		-		*		*		*		*
+he		-		*		(A1*)		(A0*)		(A0*)
+had		-		*		*		*		*
+puzzled		puzzle		(V*)		*		*		*
+the		-		*		*		*		*
+meaning		-		*		*		*		*
+of		-		*		*		*		*
+the		-		*		*		*		*
+great		-		*		*		*		*
+stone		-		*		*		*		*
+monuments		-		*		*		*		*
+men		-		*		*		*		*
+had		-		*		*		*		*
+thrown		throw		*		(V*		*		*
+up		-		*		*)		*		*
+to		-		*		*		*		*
+the		-		*		*		*		*
+sky		-		*		*		*		*
+,		-		*		*		*		*
+and		-		*		*		*		*
+always		-		*		*		*		*
+as		-		*		*		*		*
+he		-		*		(A1*)		(A0*)		(A0*)
+wandered		wander		*		*		(V*)		*
+,		-		*		*		*		*
+he		-		*		(A1*)		(A0*)		(A0*)
+felt		feel		*		*		*		(V*)
+a		-		*		*		*		*
+stranger		-		*		*		*		*
+to		-		*		*		*		*
+their		-		*		*		*		*
+exultation		-		*		*		*		*
+.		-		*		*		*		*
+
+They		-		(A0*)		(A0*)		(A0*)		*
+were		-		*		*		*		*
+poems		-		*		*		*		*
+in		-		*		*		*		*
+a		-		*		*		*		*
+strange		-		*		(A2*)		*		*
+language		-		*		*		*		*
+,		-		*		*		*		*
+of		-		*		*		*		*
+which		-		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		*
+could		-		*		*		*		*
+barely		-		*		*		(AM-ADV*)		*
+touch		touch		(V*)		*		*		*
+a		-		*		*		*		*
+meaning		-		*		*		*		*
+--		-		*		*		*		*
+enough		-		*		*		*		*
+to		-		*		*		*		*
+make		make		*		(V*)		*		*
+his		-		*		*		*		*
+being		-		*		*		*		*
+ache		ache		*		*		(V*)		*
+with		-		*		*		*		*
+the		-		*		*		*		*
+desire		-		*		*		*		*
+for		-		*		*		*		*
+the		-		*		*		*		*
+fullness		-		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		*
+sensed		sense		*		*		*		(V*)
+there		-		*		*		*		*
+.		-		*		*		*		*
+
+Brittany		-		*		*		*		*		*
+,		-		*		*		*		*		*
+that		-		*		*		*		*		*
+stone-gray		-		*		*		*		*		*
+mystery		-		*		*		*		*		*
+through		-		*		*		*		*		*
+which		-		*		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)
+traveled		travel		(V*)		*		*		*		*
+for		-		*		*		*		*		*
+thirty		-		*		*		*		*		*
+days		-		*		*		*		*		*
+,		-		*		*		*		*		*
+sleeping		sleep		*		(V*)		*		*		*
+in		-		*		*		*		*		*
+the		-		*		*		*		*		*
+barns		-		*		*		*		*		*
+of		-		*		*		*		*		*
+farmers		-		*		*		*		*		*
+or		-		*		*		*		*		*
+alongside		-		*		(AM-MNR*)		*		*		*
+roads		-		*		*		*		*		*
+,		-		*		*		*		*		*
+had		-		*		*		*		*		*
+worked		work		*		*		(V*)		*		*
+some		-		*		*		*		*		*
+subtle		-		*		*		*		*		*
+change		-		*		*		*		*		*
+in		-		*		*		*		*		*
+him		-		*		*		*		*		*
+,		-		*		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)
+knew		know		*		*		*		(V*)		*
+,		-		*		*		*		*		*
+and		-		*		*		*		*		*
+it		-		*		*		*		*		*
+was		-		*		*		*		*		*
+in		-		*		*		*		*		*
+Brittany		-		*		*		*		*		*
+that		-		*		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)
+had		-		*		*		*		*		*
+met		meet		*		*		*		*		(V*)
+Pierre		-		*		*		*		*		*
+.		-		*		*		*		*		*
+
+Pierre		-		*		(A1*)
+had		have		(V*)		*
+no		-		*		*
+hands		-		*		(A1*)
+;		-		*		*
+;		-		*		*
+they		-		(A0*)		(A1*)
+had		-		*		*
+been		-		*		*
+severed		sever		*		(V*)
+at		-		*		*
+the		-		*		*
+wrists		-		*		*
+.		-		*		*
+
+With		-		(AM-MNR*
+leather		-		*
+cups		-		*)
+fitted		fit		(V*
+in		-		*
+his		-		*
+handlebars		-		*)
+,		-		*
+he		-		(A0*)
+steered		-		(AM-MNR*
+his		-		*
+bicycle		-		*)
+.		-		*
+
+He		-		(A0*)
+and		-		*
+Warren		-		*
+had		-		*
+traveled		travel		(V*
+together		-		*)
+for		-		(AM-TMP*)
+four		-		(AM-TMP*
+days		-		*)
+.		-		*
+
+They		-		(A0*)		(A0*)		(A0*)		(A0*)
+visited		visit		(V*)		*		*		*
+the		-		*		*		(A1*		*
+shipyards		-		*		*		*)		*
+at		-		*		*		*		*
+Brest		-		*		*		*		*
+and		-		*		*		*		*
+Pierre		-		*		*		*		*
+had		-		*		*		*		*
+to		-		*		*		*		*
+sign		sign		*		(V*)		*		*
+the		-		*		*		(A1*)		*
+register		-		*		*		*		*
+,		-		*		*		*		*
+vouching		vouch		*		(A1*)		(V*)		*
+for		-		*		*		*		*
+the		-		*		*		(A1*)		*
+integrity		-		(A1*)		*		*		*
+of		-		(A1*)		*		*		*
+the		-		*		*		(A1*)		*
+visiting		visit		*		*		*		(V*)
+foreigner		-		*		*		*		*
+.		-		*		*		*		*
+
+He		-		(A0*)		(A0*)		(A0*)
+took		take		(V*)		*		*
+the		-		*		*		*
+pen		-		*		*		*
+in		-		*		*		*
+his		-		*		*		*
+stumps		-		*		*		*
+and		-		*		*		*
+began		begin		*		(V*)		*
+to		-		*		(A1*)		*
+write		write		*		*		(V*)
+.		-		*		*		*
+
+``		-		*		*		*		*		*		*
+Wait		wait		(V*)		*		*		*		*		*
+!		-		*		*		*		*		*		*
+!		-		*		*		*		*		*		*
+Wait		wait		*		(V*)		*		*		*		*
+''		-		*		*		*		*		*		*
+!		-		*		*		*		*		*		*
+!		-		*		*		*		*		*		*
+Cried		cry		*		*		(V*)		*		*		*
+the		-		*		*		*		*		*		*
+guard		-		*		*		*		*		*		*
+who		-		(R-A1*)		(R-A1*)		(R-A0*)		(R-A0*)		(R-A0*)		*
+ran		run		*		*		*		(V*)		*		*
+from		-		*		*		*		(AM-DIR*)		*		*
+the		-		*		*		*		*		*		*
+hut		-		*		*		*		*		*		*
+to		-		*		*		*		*		*		*
+shout		shout		*		*		*		*		(V*)		*
+to		-		*		*		*		*		*		*
+other		-		*		*		*		*		*		*
+men		-		(A1*)		(A1*)		(A0*)		(A0*)		(A0*)		(A1*)
+standing		stand		*		*		(A0*)		*		*		(V*)
+about		-		*		*		*		*		*		*
+outside		-		*		*		*		(AM-DIR*)		*		*
+.		-		*		*		*		*		*		*
+
+They		-		(A0*)		(A0*)		(A0*)		(A0*)
+crowded		crowd		(V*)		*		*		*
+the		-		*		*		*		*
+small		-		*		*		*		*
+room		-		*		*		*		*
+and		-		*		*		*		*
+peered		peer		*		(V*)		*		*
+over		-		*		(AM-DIR*)		*		*
+one		-		*		*		*		*
+another		-		*		*		*		*
+'s		-		*		*		*		*
+shoulders		-		*		*		*		*
+to		-		*		*		*		*
+watch		watch		*		*		(V*)		*
+the		-		*		*		*		*
+handless		-		*		*		*		*
+man		-		*		*		*		*
+write		write		*		*		*		(V*)
+his		-		*		*		*		*
+name		-		*		*		*		*
+in		-		*		*		*		*
+the		-		*		*		*		*
+book		-		*		*		*		*
+.		-		*		*		*		*
+
+``		-		*
+C'est		-		*
+formidable		-		(AM-MNR*)
+''		-		*
+,		-		*
+they		-		(A1*)
+exclaimed		exclaim		(V*)
+.		-		*
+
+``		-
+Mais		-
+,		-
+oui		-
+.		-
+
+C'est		-
+merveilleux		-
+''		-
+.		-
+
+And		-		*		*
+then		-		*		*
+the		-		*		(A1*
+questions		-		*		*)
+came		come		(V*)		*
+,		-		*		*
+eager		-		*		(AM-ADV*)
+,		-		*		*
+interested		-		*		*
+questions		-		*		*
+,		-		*		*
+and		-		*		*
+many		-		*		*
+compliments		-		*		*
+on		-		*		*
+his		-		*		(A1*)
+having		-		(A1*		*
+overcome		overcome		*		(V*)
+his		-		*		(A1*)
+infirmity		-		*)		*
+.		-		*		*
+
+``		-		*		*		*
+Does		-		(AM-NEG*)		(V*)		*
+n't		-		(AM-NEG*)		(AM-NEG*)		*
+it		-		(A1*)		(A1*)		(A1*)
+ever		-		(AM-TMP*		*		*
+bother		-		*		*		*
+you		-		*)		*		*
+''		-		*		*		*
+,		-		*		*		*
+Warren		-		(A2*)		*		*
+had		-		*		*		*
+asked		ask		(V*)		*		*
+,		-		*		*		*
+``		-		*		*		*
+to		-		(A2*)		*		*
+have		have		*		(V*)		*
+people		-		(A0*)		(A0*)		(A0*)
+always		-		(AM-TMP*)		*		*
+asking		ask		*		*		(V*)
+you		-		*		*		*
+about		-		(A1*)		*		*
+your		-		(A1*)		(A1*)		(A1*)
+hands		-		*		*		*
+''		-		*		*		*
+?		-		*		*		*
+?		-		*		*		*
+
+``		-		*
+Oh		-		*
+,		-		*
+the		-		(A0*
+French		-		*)
+are		-		*
+a		-		(A0*)
+very		-		(AM-DIS*)
+curious		-		*
+people		-		*
+''		-		*
+,		-		*
+Pierre		-		(A0*)
+had		-		*
+laughed		laugh		(V*)
+.		-		*
+
+``		-
+They		-
+are		-
+also		-
+honest		-
+seekers		-
+after		-
+truth		-
+.		-
+
+Now		-		*
+the		-		*
+English		-		*
+are		-		*
+painfully		-		(AM-MNR*)
+silent		-		*
+about		-		(AM-ADV*)
+my		-		(A1*)
+missing		miss		(V*
+hands		-		*)
+.		-		*
+
+They		-		(A0*)		(A0*)		(A0*)
+refuse		refuse		(V*)		*		*
+to		-		*		*		(A2*)
+mention		mention		*		(V*)		*
+or		-		*		*		*
+to		-		*		*		*
+notice		notice		*		*		(V*)
+that		-		*		(A1*)		*
+they		-		(A0*)		(A0*)		(A0*)
+are		-		*		*		*
+not		-		(AM-NEG*)		(AM-NEG*)		(AM-NEG*)
+there		-		*		*		*
+.		-		*		*		*
+
+The		-		(A1*)		*		*		(A1*)
+Americans		-		(A0*)		*		(A0*)		(A2*)
+,		-		*		*		*		*
+like		-		*		*		*		*
+yourself		-		*		*		*		*
+,		-		*		*		*		*
+take		take		(V*)		*		*		*
+the		-		*		*		*		(A1*)
+fact		-		*		*		*		*
+for		-		*		*		*		*
+granted		grant		*		(V*)		*		*
+,		-		*		*		*		*
+try		try		*		*		(V*)		*
+to		-		*		*		*		*
+be		-		*		*		*		*
+helpful		-		(A1*)		*		*		*
+,		-		*		*		*		*
+but		-		*		*		*		*
+do		-		*		*		*		*
+n't		-		(AM-NEG*)		*		*		(AM-NEG*)
+ask		ask		*		*		*		(V*)
+questions		-		(A1*)		*		*		*
+.		-		*		*		*		*
+
+I		-		(A0*)		(A0*)
+'m		-		*		*
+used		-		*		*
+to		-		*		*
+all		-		*		*
+three		-		*		*
+,		-		*		*
+but		-		*		*
+I		-		(A0*)		(A0*)
+think		think		(V*)		*
+the		-		*		(A1*)
+French		-		*		*
+have		have		*		(V*)
+the		-		*		(A1*)
+healthiest		-		*		*
+attitude		-		*		*
+''		-		*		*
+.		-		*		*
+
+That		-		*
+was		-		*
+the		-		*
+day		-		*
+that		-		*
+Pierre		-		(A2*)
+had		-		*
+told		tell		(V*
+Warren		-		*)
+about		-		(A1*
+the		-		*
+Abbey		-		*)
+of		-		(A1*
+Solesmes		-		*)
+.		-		*
+
+``		-		*		*
+You		-		(A0*)		(A1*)
+are		-		*		*
+looking		look		(V*)		*
+tired		-		(AM-MNR*)		(AM-MNR*)
+and		-		*		*
+there		-		(AM-LOC*)		*
+you		-		(A0*)		(A1*)
+can		-		(AM-MOD*)		*
+rest		rest		(AM-DIR*)		(V*)
+.		-		*		*
+
+It		-
+will		-
+be		-
+good		-
+for		-
+you		-
+.		-
+
+I		-		(A0*)		(A0*)		*
+think		think		(V*)		*		*
+,		-		*		*		*
+too		-		*		*		*
+''		-		*		*		*
+,		-		*		*		*
+he		-		(A0*)		(A0*)		*
+said		-		*		*		*
+,		-		*		*		*
+his		-		*		*		*
+dark		-		*		*		*
+eyes		-		*		*		*
+mischievous		-		*		*		*
+,		-		*		*		*
+``		-		*		*		*
+that		-		(A1*)		*		*
+you		-		(A0*)		(A0*)		*
+will		-		(AM-MOD*)		*		*
+find		find		(V*)		(V*)		*
+there		-		*		*		*
+some		-		*		*		(A1*)
+clue		-		*		*		*
+to		-		*		*		*
+the		-		*		*		*
+secret		-		*		*		*
+of		-		*		*		*
+the		-		*		*		*
+cathedrals		-		*		*		*
+about		-		*		*		*
+which		-		(R-A1*)		(R-A1*)		(R-A1*)
+you		-		(A0*)		*		*
+have		-		*		*		*
+spoken		speak		*		*		(V*)
+''		-		*		*		*
+.		-		*		*		*
+
+Within		-		*
+two		-		(A1*)
+weeks		-		*
+Warren		-		*
+was		-		*
+ringing		ring		(V*)
+the		-		(A1*
+bell		-		*)
+at		-		(AM-LOC*)
+the		-		(A1*
+abbey		-		*
+gate		-		*)
+.		-		*
+
+The		-		*		*		*		*
+monk		-		*		*		*		*
+who		-		*		*		(R-A0*)		(R-A0*)
+opened		open		(V*)		*		*		*
+the		-		*		*		*		*
+door		-		*		*		*		*
+immediately		-		*		*		*		*
+calmed		calm		*		(V*)		*		*
+his		-		*		*		*		*
+worries		-		*		*		*		*
+about		-		*		*		*		*
+his		-		*		*		*		*
+reception		-		*		*		*		*
+:		-		*		*		*		*
+``		-		*		*		*		*
+I		-		*		*		*		*
+speak		speak		*		*		(V*)		(V*)
+English		-		*		*		*		*
+''		-		*		*		*		*
+,		-		*		*		*		*
+the		-		*		*		*		*
+old		-		*		*		*		*
+man		-		*		*		*		*
+said		-		*		*		*		*
+,		-		*		*		*		*
+``		-		*		*		*		*
+but		-		*		*		*		*
+I		-		*		*		*		*
+do		-		*		*		(V*)		(V*)
+not		-		*		*		*		(AM-NEG*)
+hear		hear		*		*		*		(V*)
+it		-		*		*		*		*
+very		-		*		*		*		*
+well		-		*		*		*		*
+''		-		*		*		*		*
+.		-		*		*		*		*
+
+He		-		(A0*)		(A1*)		(A0*)		(A0*)
+smiled		smile		(V*)		*		*		*
+and		-		*		*		*		*
+stuck		stick		*		(V*)		*		*
+a		-		*		*		*		*
+large		-		*		*		*		*
+finger		-		*		*		*		*
+with		-		(AM-ADV*		*		*		*
+white		-		*)		*		*		*
+hairs		-		*		*		*		*
+sprouting		sprout		(AM-DIR*)		*		(V*)		(A1*)
+on		-		(AM-MNR*		*		*		*
+it		-		*)		*		*		*
+into		-		(AM-DIR*		*		*		*
+his		-		*		*		*		*
+ear		-		*)		*		*		*
+as		-		(AM-ADV*)		*		*		*
+though		-		(AM-ADV*)		*		*		*
+that		-		(A1*)		*		*		*
+might		-		(AM-MOD*)		*		*		*
+help		help		*		*		*		(V*)
+.		-		*		*		*		*
+
+Smiling		smile		(V*)		*		*
+at		-		*		*		*
+Warren		-		*		*		*
+'s		-		*		*		*
+protestations		-		*		*		*
+,		-		*		*		*
+the		-		*		*		*
+old		-		*		*		*
+monk		-		*		*		*
+took		take		*		(V*)		*
+his		-		*		*		*
+grip		-		*		*		*
+from		-		*		*		*
+him		-		*		*		*
+and		-		*		*		*
+led		lead		*		*		(V*)
+him		-		*		*		*
+down		-		*		*		(A5*)
+a		-		*		(A1*)		(A0*
+corridor		-		*		*		*)
+to		-		*		*		*
+a		-		(A0*)		(A1*)		(A0*)
+small		-		*		(A1*)		*
+parlor		-		*		*		*
+.		-		*		*		*
+
+``		-		*
+Will		-		(AM-MOD*)
+you		-		(A1*)
+please		-		*
+wait		wait		(V*)
+in		-		(AM-LOC*)
+here		-		(AM-LOC*)
+.		-		*
+
+Mickie		-		(A1*)
+sat		sit		(V*)
+over		-		(AM-LOC*
+his		-		*
+second		-		*
+whisky-on-the-rocks		-		*)
+in		-		(AM-LOC*)
+a		-		(A2*)
+little		-		(AM-LOC*
+bar		-		*)
+next		-		(AM-LOC*)
+to		-		(AM-LOC*
+the		-		*
+funeral		-		*
+parlor		-		*)
+on		-		(AM-LOC*
+Pennsylvania		-		*
+Avenue		-		*)
+.		-		*
+
+Al		-		*
+'s		-		*
+Little		-		(A1*
+Cafe		-		*)
+was		-		*
+small		-		*
+,		-		*
+dark		-		(A1*)
+,		-		*
+narrow		-		*
+,		-		*
+and		-		*
+filled		fill		(V*)
+with		-		(A2*
+the		-		*
+mingled		-		*
+scent		-		*
+of		-		*
+beer		-		*)
+,		-		*
+tobacco		-		*
+smoke		-		*
+,		-		*
+and		-		*
+Italian		-		*
+cooking		-		*
+.		-		*
+
+Hanging		hang		(V*)		*
+over		-		*		*
+the		-		*		*
+bar		-		*		*
+was		-		*		*
+an		-		*		*
+oil		-		(A1*)		*
+painting		-		*		*
+of		-		*		*
+a		-		*		*
+nude		-		*		*
+Al		-		*		*
+had		-		*		*
+accepted		-		*		*
+from		-		*		*
+a		-		*		*
+student		-		*		*
+at		-		*		*
+the		-		*		*
+Corcoran		-		*		*
+Gallery		-		*		*
+who		-		(R-A1*)		(R-A1*)
+needed		need		*		(V*)
+to		-		*		*
+eat		-		*		*
+and		-		*		*
+drink		-		*		*
+and		-		*		*
+was		-		*		*
+broke		-		*		*
+.		-		*		*
+
+The		-		(A1*)
+nude		-		(A2*)
+was		-		*
+small		-		(A2*)
+and		-		*
+black-haired		-		(A2*)
+and		-		*
+elfin		-		*
+,		-		*
+and		-		*
+was		-		*
+called		call		(V*)
+``		-		*
+Eloise		-		*
+''		-		*
+.		-		*
+
+This		-		*		*		*		*		*		*
+was		-		*		*		*		*		*		*
+one		-		*		*		*		*		*		*
+place		-		*		*		*		*		(AM-DIR*)		*
+where		-		*		*		*		*		*		*
+Moonan		-		*		*		*		*		*		*
+could		-		*		*		*		*		*		*
+go		go		(V*)		*		*		*		*		*
+for		-		*		*		*		*		*		*
+a		-		*		(A1*)		*		*		*		*
+drink		-		*		*		*		*		*		*
+in		-		*		*		*		*		*		*
+a		-		*		(A1*)		*		*		*		*
+back		-		*		*		*		*		*		*
+booth		-		*		*		*		*		*		*
+without		-		*		*		*		*		*		*
+anyone		-		(A1*)		(A0*)		(A1*)		(A1*)		(A0*)		(A0*)
+noticing		notice		*		(V*)		*		*		*		*
+him		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+or		-		*		*		*		*		*		*
+at		-		*		*		*		*		*		*
+least		-		*		*		*		*		*		*
+coming		come		*		*		(V*)		*		*		*
+up		-		*		*		*		*		*		*
+and		-		*		*		*		*		*		*
+hanging		hang		*		*		*		(V*)		*		*
+around		-		*		(AM-DIR*)		*		*		(AM-DIR*)		*
+and		-		*		*		*		*		*		*
+wanting		want		*		*		*		*		(V*)		*
+to		-		*		*		*		*		*		*
+know		know		*		*		*		*		*		(V*)
+all		-		*		*		*		*		*		*
+the		-		*		*		*		*		*		*
+low-down		-		*		*		*		*		*		*
+.		-		*		*		*		*		*		*
+
+The		-
+other		-
+patrons		-
+were		-
+taxi		-
+drivers		-
+and		-
+art		-
+students		-
+and		-
+small		-
+shopkeepers		-
+.		-
+
+The		-		*
+reporters		-		*
+had		-		*
+not		-		(AM-NEG*)
+yet		-		(AM-TMP*)
+discovered		discover		(V*)
+that		-		(A1*
+this		-		*)
+was		-		*
+his		-		*
+hideaway		-		*
+.		-		*
+
+His		-
+friend		-
+Jane		-
+was		-
+with		-
+him		-
+.		-
+
+She		-		(A0*)		(A1*)		(A0*)
+was		-		*		*		*
+wise		-		*		*		*
+enough		-		*		*		*
+to		-		*		*		*
+realize		realize		(V*)		*		*
+a		-		*		*		*
+man		-		*		*		*
+could		-		*		*		*
+be		-		*		*		*
+good		-		(A1*)		*		*
+company		-		*		*		*
+even		-		*		*		*
+if		-		*		*		*
+he		-		(A0*)		(A1*)		(A0*)
+did		-		*		*		*
+weigh		weigh		*		(V*)		*
+too		-		*		*		*
+much		-		*		*		*
+and		-		*		*		*
+did		-		*		*		*
+n't		-		*		*		*
+own		own		*		*		(V*)
+the		-		*		*		*
+mint		-		*		*		*
+.		-		*		*		*
+
+She		-		(A1*)		*
+was		-		*		*
+the		-		*		*
+widow		-		*		*
+of		-		*		*
+a		-		*		(A1*
+writer		-		*		*)
+who		-		*		(R-A1*)
+had		-		*		*
+died		die		(V*)		*
+in		-		*		*
+an		-		*		*
+airplane		-		*		*
+crash		-		*		*
+,		-		*		*
+and		-		*		*
+Mickie		-		*		*
+had		-		*		*
+found		find		*		(V*)
+her		-		*		*
+a		-		*		(A1*)
+job		-		*		*
+as		-		*		*
+head		-		*		*
+of		-		*		*
+the		-		*		*
+historical		-		*		*
+section		-		*		*
+of		-		*		*
+the		-		*		*
+Treasury		-		*		*
+.		-		*		*
+
+This		-		*
+meant		mean		(V*)
+sorting		-		(A1*
+out		-		*
+press		-		*
+clippings		-		*
+and		-		*
+the		-		*)
+like		-		(AM-MNR*)
+.		-		*
+
+Jane		-		(A2*)
+sat		sit		(V*)
+receptive		-		(A2*)
+and		-		*
+interested		-		(AM-ADV*)
+.		-		*
+
+Mickie		-		*		*		*		*
+had		have		(V*)		*		*		*
+a		-		(A1*)		*		(A1*)		(A1*
+pleasant		-		*		*		*		*)
+glow		-		*		*		*		*
+as		-		*		*		*		(A1*)
+he		-		(A0*)		*		(A0*)		*
+said		say		*		(V*)		*		*
+,		-		*		*		*		*
+``		-		*		*		*		*
+You		-		*		*		(A0*)		*
+see		see		*		*		(V*)		*
+,		-		*		*		*		*
+both		-		*		*		*		*
+of		-		*		*		*		*
+them		-		*		*		*		*
+,		-		*		*		*		*
+I		-		*		*		(A0*)		*
+mean		mean		*		*		*		(V*)
+the		-		*		*		*		(A1*)
+President		-		*		*		*		*
+and		-		*		*		*		*
+Jeff		-		*		*		*		*
+Lawrence		-		*		*		*		*
+,		-		*		*		*		*
+are		-		*		*		*		*
+romantics		-		*		*		*		*
+.		-		*		*		*		*
+
+A		-		*		*		(A1*		(A1*
+romantic		-		*		*		*)		*)
+is		-		*		*		*		*
+one		-		*		(A1*)		*		(A1*)
+who		-		(R-A1*)		(R-A1*)		(R-A1*)		*
+thinks		think		(V*)		*		*		*
+the		-		*		(A1*)		(A1*)		(A1*)
+world		-		*		*		*		*
+is		-		*		*		*		*
+divinely		-		(AM-MNR*)		*		*		*
+inspired		-		*		*		*		*
+and		-		*		*		*		*
+all		-		*		*		*		*
+he		-		*		*		*		*
+has		-		*		*		*		*
+to		-		*		*		*		*
+do		do		*		(V*)		*		*
+is		-		*		*		*		*
+find		find		*		*		(V*)		*
+the		-		*		(A1*)		(A1*)		(A1*)
+right		-		*		*		*		*
+key		-		*		*		*		*
+,		-		*		*		*		*
+and		-		*		*		*		*
+then		-		*		*		*		*
+divine		-		*		*		*		*
+justice		-		*		*		*		*
+and		-		*		*		*		*
+altruism		-		*		*		*		*
+will		-		*		*		*		*
+appear		appear		*		*		*		(V*)
+.		-		*		*		*		*
+
+It		-		(A2*)		*
+'s		-		*		*
+like		-		*		*
+focusing		focus		(V*)		*
+a		-		*		*
+camera		-		*		*
+;		-		*		*
+;		-		*		*
+the		-		*		*
+distant		-		*		*
+ship		-		*		*
+is		-		*		*
+n't		-		*		*
+there		-		*		*
+until		-		*		*
+you		-		(A0*)		(A0*)
+get		get		(V*)		(V*)
+the		-		*		*
+focus		-		*		*
+.		-		*		*
+
+You		-		*		*
+know		know		(V*)		*
+what		-		(A1*		(R-A1*
+I		-		*		*)
+'m		-		*)		*
+talking		talk		(C-A1*)		(V*)
+about		-		(C-A1*)		(A1*)
+.		-		*		*
+
+I		-		(A0*)		*
+'m		-		*		*
+sure		-		*		*
+all		-		(AM-ADV*		*
+girls		-		*)		*
+feel		feel		(V*		*
+this		-		*		*
+way		-		*)		*
+about		-		(A1*		*
+men		-		*)		*
+until		-		(A1*)		*
+they		-		(A0*		(A0*)
+live		live		*		(V*)
+with		-		*		*
+them		-		*)		*
+.		-		*		*
+
+``		-		*		*
+But		-		*		*
+when		-		*		*
+it		-		*		*
+comes		come		(V*)		*
+to		-		*		*
+war		-		(A1*)		*
+,		-		*		*
+the		-		*		*
+Colonel		-		*		*
+knows		know		*		(V*)
+what		-		(R-A1*)		(R-A1*)
+it		-		*		*
+is		-		*		*
+and		-		*		*
+Jeff		-		*		*
+does		-		*		*
+n't		-		*		*
+.		-		*		*
+
+Mr.		-		*		*
+Christiansen		-		*		*
+knows		know		(V*)		*
+that		-		(A1*)		*
+a		-		(A1*		*
+soldier		-		*)		*
+will		-		(AM-MOD*)		*
+get		get		*		(V*)
+the		-		(A1*		*
+Distinguished		-		*		*
+Service		-		*		*
+Medal		-		*)		*
+for		-		(A2*		*
+conduct		-		*)		(A2*)
+that		-		(A1*)		(R-A1*)
+would		-		(AM-MOD*		*
+land		-		*		*
+him		-		*		*
+in		-		*		*
+prison		-		*)		*
+for		-		(A2*		*
+life		-		*		*
+or		-		*)		*
+the		-		(A1*		*
+electric		-		*		*
+chair		-		*		*
+as		-		*)		*
+a		-		(A1*		*
+civilian		-		*)		(A1*)
+.		-		*		*
+
+He		-		*		(A0*)
+had		have		(V*)		*
+a		-		(A1*)		(A1*)
+mean		-		*		*
+,		-		*		*
+unbroken		-		*		*
+sheer		-		*		*
+bastard		-		*		*
+in		-		(AM-MNR*		*
+his		-		*)		(A1*)
+outfit		-		*		*
+,		-		*		*
+and		-		*		*
+someone		-		(A0*)		(A0*)
+invented		invent		*		(V*)
+the		-		(A1*		(A1*
+name		-		*)		*)
+Trig		-		*		*
+for		-		(AM-MNR*)		(AM-MNR*)
+him		-		*		*
+.		-		*		*
+
+That		-		(A1*)
+'s		-		*
+to		-		*
+say		say		(V*)
+,		-		*
+he		-		*
+was		-		(A1*
+trigger		-		*)
+happy		-		*
+.		-		*
+
+He		-		(A0*)
+'d		-		*
+shoot		shoot		(V*)
+at		-		*
+anything		-		*
+if		-		*
+it		-		*
+was		-		*
+the		-		*
+rear		-		*
+end		-		*
+of		-		*
+a		-		*
+horse		-		*
+or		-		*
+his		-		*
+own		-		*
+sentry		-		*
+.		-		*
+
+He		-		(A0*)		(A0*)
+was		-		*		*
+a		-		*		(A1*)
+wiry		-		*		*
+,		-		*		*
+inscrutable		-		*		(A2*)
+,		-		*		*
+silent		-		*		(A2*)
+country		-		*		*
+boy		-		*		*
+from		-		*		*
+the		-		*		*
+red		-		*		*
+clay		-		*		*
+of		-		*		*
+rural		-		*		*
+Alabama		-		*		*
+,		-		*		*
+and		-		*		*
+he		-		(A0*)		(A0*)
+spoke		speak		(V*)		*
+with		-		*		*
+the		-		*		*
+broad		-		*		*
+drawl		-		*		*
+that		-		*		*
+others		-		*		*
+normally		-		*		*
+make		make		*		(V*)
+fun		-		*		*
+of		-		*		*
+.		-		*		*
+
+But		-
+not		-
+in		-
+front		-
+of		-
+Trig		-
+.		-
+
+I		-		(A0*)		(A0*)		(A0*)
+heard		hear		(V*)		*		*
+of		-		*		*		*
+some		-		*		*		*
+that		-		*		*		*
+tried		try		*		(V*)		*
+it		-		*		*		*
+back		-		*		*		*
+in		-		*		*		*
+the		-		*		*		*
+States		-		*		*		*
+,		-		*		*		*
+and		-		*		*		*
+he		-		(A0*)		(A0*)		(A0*)
+'d		-		*		*		*
+knock		knock		*		*		(V*)
+them		-		*		*		*
+clear		-		*		*		*
+across		-		*		*		(AM-DIR*)
+the		-		*		*		*
+room		-		*		*		*
+.		-		*		*		*
+
+There		-
+'d		-
+been		-
+a		-
+pretty		-
+bad		-
+incident		-
+back		-
+at		-
+the		-
+Marine		-
+base		-
+.		-
+
+A		-		(A1*		(A1*
+New		-		*)		*
+York		-		*		*
+kid		-		*		*)
+,		-		*		*
+a		-		(A1*		(A1*
+refugee		-		*)		*)
+from		-		*		(A2*)
+one		-		*		(A1*
+of		-		*		*
+the		-		*		*
+Harlem		-		*		*
+gangs		-		*		*)
+,		-		*		*
+made		make		(V*		*
+fun		-		*		*
+of		-		*		*
+Trig		-		*		*
+'s		-		*		*
+accent		-		*)		*
+,		-		*		*
+and		-		*		*
+drew		draw		*		(V*)
+a		-		(A1*		(A1*
+knife		-		*)		*)
+.		-		*		*
+
+Before		-		*		*
+the		-		*		*
+fight		-		*		*
+was		-		*		*
+over		-		*		*
+,		-		*		*
+the		-		*		*
+Harlem		-		*		*
+boy		-		*		*
+had		have		(V*)		*
+a		-		(A1*)		*
+concussion		-		*		*
+and		-		*		*
+Trig		-		*		*
+was		-		*		*
+cut		cut		*		(V*)
+up		-		*		*
+badly		-		*		(AM-MNR*)
+.		-		*		*
+
+They		-		(A1*)		(A0*)		(A1*)
+caught		catch		(V*)		*		*
+Trig		-		*		*		*
+stealing		steal		*		(V*)		*
+liquor		-		*		*		*
+from		-		(A2*)		*		*
+the		-		*		*		*
+officers		-		*		*		*
+'		-		*		*		*
+mess		-		*		*		*
+,		-		*		*		*
+and		-		*		*		*
+he		-		(A1*)		(A0*)		(A1*)
+got		get		*		*		(V*)
+a		-		*		(A1*)		*
+couple		-		*		*		*
+of		-		*		*		*
+girls		-		*		*		*
+in		-		*		*		*
+trouble		-		*		*		*
+.		-		*		*		*
+
+The		-		(A1*)
+fear		-		(A1*)
+of		-		(A0*
+punishment		-		*)
+just		-		(AM-ADV*)
+did		-		*
+n't		-		(AM-NEG*)
+bother		bother		(V*)
+him		-		(A0*)
+.		-		*
+
+It		-
+was		-
+n't		-
+there		-
+.		-
+
+It		-		(A1*)
+was		-		*
+left		leave		(V*)
+out		-		(A2*)
+of		-		(A0*
+him		-		*)
+at		-		(AM-TMP*)
+birth		-		(A1*)
+.		-		*
+
+This		-		*
+is		-		*
+why		-		(R-AM-MNR*)
+he		-		*
+made		make		(V*
+such		-		*)
+a		-		(A1*
+magnificent		-		*
+soldier		-		*)
+.		-		*
+
+He		-		*		(A0*)		*		(A1*)		*
+was		-		*		*		*		*		*
+n't		-		*		*		*		*		*
+troubled		trouble		(V*)		(A2*)		*		(A2*)		*
+with		-		*		*		*		*		*
+the		-		*		*		*		*		*
+ordinary		-		(A1*)		(A1*)		(A1*)		(A1*)		(A1*)
+,		-		*		*		*		*		*
+rank-and-file		-		*		*		*		*		(A0*)
+fear		-		*		*		*		*		*
+that		-		*		*		*		*		*
+overcomes		overcome		*		(V*)		*		*		*
+and		-		*		*		*		*		*
+paralyzes		paralyze		*		*		(V*)		*		*
+and		-		*		*		*		*		*
+sends		send		*		*		*		(V*)		*
+individual		-		*		(A1*)		*		(A1*)		(A1*)
+soldiers		-		*		*		*		*		*
+and		-		*		*		*		*		*
+whole		-		*		*		*		*		*
+companies		-		*		*		*		*		*
+under		-		*		(A2*)		*		(A2*)		*
+fire		-		*		*		*		*		*
+running		run		*		*		*		*		(V*)
+in		-		*		*		*		*		*
+panic		-		*		*		*		*		*
+.		-		*		*		*		*		*
+
+It		-		*		(A1*)
+just		-		*		*
+did		-		*		*
+n't		-		(AM-NEG*)		(AM-NEG*
+occur		occur		(V*)		*
+to		-		(A2*)		*)
+Trig		-		*		*
+that		-		*		*
+anything		-		(A1*)		(A1*
+serious		-		*		*)
+would		-		(AM-MOD*)		(AM-MOD*)
+happen		happen		*		(V*
+to		-		(A2*)		*)
+him		-		*		*
+.		-		*		*
+
+Do		-		*
+you		-		(A0*)
+get		get		(V*)
+the		-		(A1*)
+picture		-		*
+of		-		*
+the		-		*
+kind		-		*
+of		-		*
+fellow		-		(A1*)
+he		-		(A0*)
+was		-		*
+''		-		*
+?		-		*
+?		-		*
+
+Jane		-		*
+nodded		nod		(V*)
+with		-		(A1*)
+a		-		(A2*
+pleasant		-		*
+smile		-		*)
+.		-		*
+
+``		-
+All		-
+right		-
+.		-
+
+There		-		*
+was		-		*
+a		-		(A1*
+sniper		-		*)
+'s		-		*
+nest		-		*
+in		-		*
+a		-		(A1*)
+mountain		-		*
+cave		-		*
+,		-		*
+and		-		*
+it		-		(A1*)
+was		-		*
+picking		pick		(V*
+off		-		*)
+our		-		*
+men		-		(A0*)
+with		-		(AM-MNR*
+devilish		-		*)
+accuracy		-		*
+.		-		*
+
+The		-		(A1*)		(A1*)		(A1*)		*		*
+Colonel		-		*		*		*		*		*
+ordered		order		(V*)		*		*		*		*
+that		-		*		*		*		*		(A2*)
+it		-		*		*		*		*		(A1*)
+be		-		*		*		*		*		*
+wiped		wipe		*		(V*)		*		*		*
+out		-		*		*		*		*		*
+,		-		*		*		*		*		*
+and		-		*		*		*		*		*
+I		-		*		*		*		(A0*)		(A0*)
+suggested		suggest		*		*		(V*)		*		*
+,		-		*		*		*		*		*
+'		-		*		*		*		*		*
+You		-		*		*		*		*		(A0*)
+ask		ask		*		*		*		(V*)		*
+for		-		*		*		*		*		*
+volunteers		-		*		*		*		*		*
+,		-		*		*		*		*		*
+and		-		*		*		*		*		*
+promise		promise		*		*		*		*		(V*)
+each		-		*		*		*		*		*
+man		-		*		*		*		*		*
+on		-		*		*		*		*		*
+the		-		*		(A1*)		*		*		*
+patrol		-		*		*		*		*		*
+a		-		*		(A1*)		(A1*)		(A1*)		*
+quart		-		*		*		*		*		*
+of		-		*		*		*		*		*
+whisky		-		*		*		*		*		*
+,		-		*		*		*		*		*
+ten		-		*		*		*		*		*
+dollars		-		*		*		*		*		*
+and		-		*		*		*		*		*
+a		-		*		(A1*)		(A1*)		(A1*)		*
+week-end		-		*		*		*		*		*
+pass		-		*		*		*		*		*
+to		-		*		*		*		*		*
+Davao		-		*		*		*		*		*
+.		-		*		*		*		*		*
+
+Trig		-
+was		-
+one		-
+of		-
+the		-
+five		-
+volunteers		-
+.		-
+
+The		-		*		*		*
+patrol		-		*		*		*
+snaked		snake		(V*)		(AM-DIR*)		*
+around		-		(AM-DIR*)		(AM-DIR*)		*
+in		-		(AM-DIR*)		*		*
+back		-		(AM-DIR*)		*		*
+of		-		*		*		*
+the		-		*		*		*
+cave		-		*		*		*
+,		-		*		*		*
+approached		approach		*		(V*)		*
+it		-		*		*		*
+from		-		(AM-DIR*)		*		*
+above		-		(AM-DIR*)		(AM-DIR*)		(A2*)
+and		-		*		*		*
+dropped		drop		*		*		(V*)
+in		-		*		*		*
+suddenly		-		*		*		*
+with		-		*		*		*
+wild		-		*		*		*
+howls		-		*		*		(A1*)
+.		-		*		*		*
+
+You		-		(A0*)
+could		-		(AM-MOD*)
+hear		hear		(V*
+them		-		*)
+from		-		(A2*
+our		-		*
+outpost		-		*)
+.		-		*
+
+There		-
+was		-
+a		-
+lot		-
+of		-
+shooting		-
+.		-
+
+We		-		*		(A1*)		*
+knew		know		(V*)		*		*
+the		-		*		(A1*		(A1*)
+enemy		-		*		*)		*
+was		-		*		*		*
+subdued		subdue		(AM-MNR*)		(V*)		*
+,		-		*		*		*
+because		-		*		(AM-CAU*)		*
+a		-		(A1*		*		*
+flare		-		*)		*		(A1*)
+was		-		*		*		*
+fired		fire		*		(A3*)		(V*)
+as		-		*		(AM-CAU*)		*
+the		-		*		(A1*		*
+signal		-		(A1*)		*)		(A1*)
+.		-		*		*		*
+
+So		-		(AM-MNR*)
+we		-		(A1*)
+hurried		hurry		(V*
+over		-		*)
+.		-		*
+
+Two		-		*		*
+of		-		*		*
+our		-		(A1*		(A1*)
+men		-		*)		*
+were		-		*		*
+killed		kill		(V*)		*
+,		-		*		*
+a		-		(A1*)		(A1*)
+third		-		*		*
+was		-		*		*
+wounded		wound		(A2*)		(V*)
+.		-		*		*
+
+Trig		-		*		*
+and		-		*		*
+a		-		(A1*)		(A1*)
+very		-		(AM-MNR*)		(A1*)
+black		-		*		*
+colored		-		*		*
+boy		-		*		*
+from		-		*		*
+Detroit		-		*		*
+had		-		*		*
+killed		kill		(V*)		*
+or		-		*		*
+put		put		*		(V*)
+out		-		*		*
+of		-		*		*
+action		-		*		*
+ten		-		*		*
+guerrillas		-		*		*
+by		-		(A0*		(A0*
+grenades		-		*)		*)
+and		-		*		*
+hand-to-hand		-		*		*
+fighting		-		*		*
+.		-		*		*
+
+When		-		*		*
+we		-		(A1*)		(A0*)
+got		get		(V*)		*
+there		-		*		*
+,		-		*		*
+Trig		-		*		*
+and		-		*		*
+the		-		*		*
+Negro		-		*		*
+were		-		*		*
+quarreling		quarrel		*		(V*)
+over		-		*		*
+possession		-		*		*
+of		-		*		*
+a		-		*		*
+gold		-		*		*
+crucifix		-		*		*
+around		-		*		*
+the		-		*		*
+neck		-		*		*
+of		-		*		*
+a		-		*		*
+wounded		-		(A2*)		*
+Filipino		-		*		*
+.		-		*		*
+
+The		-		*		*		*		*
+colored		-		*		*		*		*
+boy		-		*		*		*		*
+had		have		(V*)		*		*		*
+it		-		*		*		*		*
+,		-		*		*		*		*
+and		-		*		*		*		*
+Trig		-		*		*		*		*
+lunged		lunge		*		(V*)		*		*
+at		-		*		*		*		*
+him		-		*		*		*		*
+with		-		*		*		*		*
+a		-		*		*		*		(A1*)
+knife		-		*		*		*		*
+and		-		*		*		*		*
+said		say		*		*		(V*)		*
+,		-		*		*		*		*
+'		-		*		*		*		*
+Give		give		*		*		*		(V*)
+that		-		*		(A1*)		(A1*)		(A1*)
+to		-		*		*		*		*
+me		-		*		*		*		*
+,		-		*		*		*		*
+you		-		(A0*)		(A0*)		*		(A0*)
+black		-		*		*		*		*
+bastard		-		*		*		(A1*)		*
+.		-		*		*		*		*
+
+We		-		(A1*)		(A0*)		(A1*)
+do		-		*		*		*
+n't		-		(AM-NEG*)		(AM-NEG*		(AM-NEG*)
+'low		allow		(V*		*		*
+nigras		-		*)		*		*
+to		-		*		*)		*
+walk		walk		*		(V*)		*
+on		-		(AM-MNR*		(AM-DIR*		*
+the		-		*		*		*
+same		-		*		*		*
+sidewalk		-		*)		*)		*
+with		-		(AM-MNR*		(AM-MNR*		(AM-MNR*)
+white		-		*		*		*
+men		-		*)		*		*
+where		-		(R-AM-LOC*		*)		(R-AM-LOC*)
+I		-		*		(A0*		(A1*)
+come		come		*)		*)		(V*)
+from		-		(AM-LOC*)		(AM-DIR*)		(AM-LOC*)
+.		-		*		*		*
+
+``		-		*
+The		-		*
+Negro		-		*
+got		get		(V*
+a		-		*
+bad		-		*
+slice		-		*
+on		-		*)
+his		-		(A1*)
+chest		-		*
+from		-		(A2*
+the		-		*
+knife		-		*)
+wound		-		(A2*)
+''		-		*
+.		-		*
+
+``		-		*		*
+What		-		(R-A1*)		(R-A1*
+did		-		*		*
+the		-		*		*)
+Colonel		-		(A0*)		(A0*
+do		do		(V*)		*
+about		-		*		*)
+the		-		*		(A1*
+men		-		(A0*)		*)
+''		-		*		*
+?		-		*		*
+?		-		*		*
+Jane		-		*		(A0*)
+asked		ask		*		(V*)
+in		-		(AM-LOC*)		*
+her		-		*		*
+placid		-		*		*
+,		-		*		*
+interested		-		(AM-ADV*)		*
+way		-		*		*
+.		-		*		*
+
+Mickie		-		(A2*)
+laughed		laugh		(V*)
+.		-		*
+
+``		-		*
+He		-		(A0*)
+recommended		recommend		(V*)
+both		-		(AM-ADV*
+of		-		*)
+them		-		*
+for		-		*
+the		-		(A1*
+DSM		-		*)
+and		-		*
+the		-		(A1*)
+Detroit		-		*
+fellow		-		*
+for		-		*
+the		-		(A1*
+Purple		-		*
+Heart		-		*)
+,		-		*
+too		-		*
+,		-		*
+for		-		*
+a		-		(A1*)
+combat-inflicted		-		*
+wound		-		*
+.		-		*
+
+So		-		*		*
+you		-		(A0*)		*
+see		see		(V*)		*
+Mr.		-		*		*
+Christiansen		-		*		*
+knows		know		*		(V*)
+what		-		(A1*)		(A1*)
+it		-		*		(A1*)
+'s		-		*		*
+all		-		*		*
+about		-		(C-A1*)		*
+.		-		*		*
+
+But		-
+not		-
+Jeff		-
+Lawrence		-
+.		-
+
+When		-		*		*		*		*		*
+he		-		(A0*)		*		(A0*)		*		*
+was		-		*		*		*		*		*
+in		-		*		*		*		*		*
+the		-		*		*		*		*		*
+war		-		*		*		*		*		*
+,		-		*		*		*		*		*
+he		-		*		*		(A0*)		*		*
+was		-		*		*		*		*		*
+in		-		*		*		*		*		*
+Law		-		*		*		*		*		*
+or		-		*		*		*		*		*
+Supplies		-		*		*		*		*		*
+or		-		*		*		*		*		*
+something		-		(A1*)		*		(A1*)		(A1*)		*
+like		-		*		*		*		*		*
+that		-		*		*		*		*		*
+,		-		*		*		*		*		*
+and		-		*		*		*		*		*
+an		-		*		*		*		*		*
+old		-		*		*		*		*		*
+buddy		-		*		*		*		*		*
+of		-		*		*		*		*		*
+his		-		*		*		*		*		*
+told		tell		(V*)		*		*		*		*
+me		-		*		*		*		*		*
+he		-		*		(A1*)		(A0*)		*		*
+would		-		(AM-MOD*)		*		*		*		*
+come		come		*		(V*)		*		*		*
+down		-		*		*		*		*		*
+on		-		*		*		*		*		*
+Sundays		-		*		*		*		*		*
+to		-		*		*		*		*		*
+the		-		*		*		*		*		*
+Pentagon		-		*		*		*		*		*
+and		-		*		*		*		*		*
+read		read		*		*		(V*)		*		*
+the		-		*		*		*		*		*
+citations		-		*		*		*		*		*
+for		-		*		*		*		*		*
+medals		-		*		*		*		*		*
+--		-		*		*		*		*		*
+just		-		*		*		*		*		*
+like		-		*		*		*		*		*
+the		-		*		*		*		*		*
+one		-		*		*		*		*		*
+we		-		(A0*)		*		(A0*)		(A1*)		*
+sent		send		*		*		*		(V*)		*
+in		-		*		*		*		*		*
+for		-		*		*		*		*		*
+Trig		-		*		*		*		*		*
+--		-		*		*		*		*		*
+and		-		*		*		*		*		*
+go		go		*		*		*		*		(V*)
+away		-		*		*		*		*		*
+with		-		*		*		*		*		*
+a		-		*		*		*		*		*
+real		-		(A1*)		*		*		*		*
+glow		-		*		*		*		*		*
+.		-		*		*		*		*		*
+
+These		-
+were		-
+heroes		-
+nine		-
+feet		-
+tall		-
+to		-
+him		-
+''		-
+.		-
+
+Jefferson		-		*
+Lawrence		-		*
+was		-		*
+alone		-		*
+at		-		*
+the		-		*
+small		-		*
+,		-		*
+perfectly		-		(AM-MNR*)
+appointed		-		*
+table		-		*
+by		-		(AM-MNR*)
+the		-		*
+window		-		*
+looking		look		(V*)
+out		-		(AM-DIR*)
+over		-		(AM-DIR*)
+the		-		*
+river		-		*
+.		-		*
+
+He		-		(A0*)		(A1*)		(A0*)		(A0*)		(A0*)		(A1*)
+had		have		(V*)		*		*		*		*		*
+dinner		-		*		*		*		*		*		*
+and		-		*		*		*		*		*		*
+sat		sit		*		(V*)		*		*		*		*
+there		-		*		*		*		*		*		*
+over		-		*		*		*		*		*		*
+his		-		*		*		*		*		*		*
+coffee		-		*		*		*		*		*		*
+watching		watch		*		*		(V*)		*		*		*
+the		-		*		*		*		*		*		*
+winding		wind		*		*		*		(V*)		*		*
+pattern		-		*		*		*		*		*		*
+of		-		*		*		*		*		*		*
+traffic		-		*		*		*		*		*		*
+as		-		*		*		*		*		*		*
+it		-		*		*		*		*		*		*
+crossed		cross		*		*		*		*		(V*)		*
+the		-		*		*		*		*		*		*
+bridge		-		*		*		*		*		*		*
+and		-		*		*		*		*		*		*
+spread		spread		*		*		*		*		*		(V*)
+out		-		*		*		*		(AM-DIR*)		*		(AM-DIR*)
+like		-		*		*		*		*		*		*
+a		-		*		*		(A1*)		(A1*)		*		*
+serpent		-		*		*		*		*		*		*
+with		-		*		*		*		*		*		*
+two		-		*		*		*		(A1*)		*		*
+heads		-		*		*		*		*		*		*
+.		-		*		*		*		*		*		*
+
+Beside		-
+him		-
+was		-
+Mrs.		-
+Dalloway		-
+.		-
+
+He		-		(A1*)		(A0*)		(A0*)		(A0*)
+thought		think		(V*)		*		*		*
+how		-		*		*		*		*
+this		-		*		*		*		*
+dainty		-		*		*		*		*
+,		-		*		*		*		*
+fragile		-		*		*		*		*
+older		-		*		*		*		*
+woman		-		*		*		*		*
+threading		thread		*		(V*		*		*
+her		-		*		*)		*		*
+way		-		*		*		*		*
+through		-		*		(AM-MNR*		*		(AM-MNR*
+the		-		*		*)		*		*)
+streets		-		*		*		*		*
+of		-		*		*		*		*
+Westminster		-		*		*		*		*
+on		-		*		*		*		*
+a		-		*		*		*		*
+day		-		*		*		*		*
+in		-		*		*		*		*
+June		-		*		*		*		*
+,		-		*		*		*		*
+enjoying		enjoy		*		*		(V*)		*
+the		-		*		*		*		*
+flowers		-		*		*		*		*
+in		-		*		*		*		*
+the		-		*		*		*		*
+shops		-		*		*		*		*
+,		-		*		*		*		*
+the		-		*		*		*		*
+greetings		-		*		*		*		*
+from		-		*		*		*		*
+old		-		*		*		*		*
+friends		-		*		*		*		*
+,		-		*		*		*		*
+but		-		*		*		*		*
+never		-		*		*		*		*
+really		-		*		*		*		*
+drawing		draw		*		*		*		(V*
+a		-		*		*		*		*)
+deep		-		*		*		*		*
+,		-		*		*		*		*
+passionate		-		*		*		*		*
+breath		-		*		*		*		*
+,		-		*		*		*		*
+was		-		*		*		*		*
+so		-		*		*		*		*
+like		-		*		*		*		*
+himself		-		*		*		*		*
+.		-		*		*		*		*
+
+He		-		(A0*)		(A0*)
+,		-		*		*
+and		-		*		*
+Mrs.		-		*		*
+Dalloway		-		*		*
+,		-		*		*
+too		-		*		(AM-DIS*)
+,		-		*		*
+had		-		*		*
+never		-		(AM-TMP*)		*
+permitted		permit		(V*		*
+themselves		-		*		*
+the		-		*		(A1*
+luxury		-		*)		*)
+of		-		*		*
+joys		-		(A1*		*
+that		-		*)		(A1*)
+dug		dig		*		(V*)
+into		-		*		*
+the		-		*		(A1*)
+bone		-		*		*
+marrow		-		*		*
+of		-		*		*
+the		-		*		(A1*)
+spirit		-		*		*
+.		-		*		*
+
+He		-
+had		-
+not		-
+because		-
+he		-
+was		-
+both		-
+poor		-
+and		-
+ambitious		-
+.		-
+
+Poverty		-		*
+imposes		impose		(V*
+a		-		*
+kind		-		*
+of		-		*
+chastity		-		*)
+on		-		(A2*
+the		-		*
+ambitious		-		*)
+.		-		*
+
+They		-		(A0*)		(A0*)		(A0*)		(A1*)
+can		-		*		*		*		*
+not		-		*		*		*		*
+stop		stop		(V*)		*		*		*
+to		-		*		*		*		*
+grasp		grasp		*		(V*)		*		*
+and		-		*		*		*		*
+embrace		embrace		*		*		(V*)		*
+and		-		*		*		*		*
+sit		sit		*		*		*		(V*)
+in		-		*		*		*		*
+the		-		*		*		*		*
+back		-		*		*		*		*
+seat		-		*		*		*		*
+of		-		*		*		*		*
+cars		-		(A1*)		*		*		*
+along		-		*		*		*		*
+a		-		*		*		*		*
+dark		-		*		*		*		*
+country		-		*		*		*		*
+lane		-		*		*		*		*
+.		-		*		*		*		*
+
+No		-		*		(AM-DIS*)
+,		-		*		*
+they		-		(A0*)		(A0*)
+must		-		(AM-MOD*)		(AM-MOD*)
+look		look		(V*		*
+the		-		*		*
+other		-		*		*
+way		-		*		*
+and		-		*)		*
+climb		climb		(AM-DIR*		(V*
+one		-		*		*
+more		-		*		*
+painful		-		*		*
+step		-		*)		*)
+up		-		(AM-DIR*		(AM-DIR*
+the		-		*		*
+ladder		-		*)		*)
+.		-		*		*
+
+He		-		(A0*)		(A0*)
+made		make		(V*)		*
+the		-		*		*
+decision		-		(A1*)		*
+with		-		*		*
+his		-		(A1*)		(A1*)
+eyes		-		*		*
+open		-		(A2*)		*
+,		-		*		*
+or		-		*		*
+so		-		*		*
+he		-		(A0*)		*
+thought		think		*		(V*)
+.		-		*		*
+
+At		-		(AM-LOC*)
+any		-		(AM-ADV*
+cost		-		*)
+,		-		*
+he		-		(A0*)
+must		-		(AM-MOD*)
+leave		leave		(V*
+the		-		*)
+dreary		-		(A2*
+Pennsylvania		-		*
+mining		-		*)
+town		-		(AM-LOC*)
+where		-		(AM-LOC*
+his		-		*
+father		-		*)
+was		-		*
+a		-		(A1*
+pharmacist		-		*)
+.		-		*
+
+And		-
+so		-
+he		-
+had		-
+,		-
+so		-
+he		-
+had		-
+.		-
+
+At		-		*		(AM-LOC*
+State		-		*		*
+College		-		*		*)
+,		-		*		*
+he		-		(A0*)		(A0*)
+had		have		(V*)		(AM-MOD*)
+no		-		*		(AM-DIS*
+time		-		*		*)
+to		-		*		*
+walk		walk		*		(V*)
+among		-		*		(AM-LOC*
+the		-		*		*)
+violets		-		*		*
+on		-		*		(AM-LOC*
+the		-		*		*
+water		-		*		*
+'s		-		*		*)
+edge		-		*		(AM-DIR*)
+.		-		*		*
+
+From		-		(AM-DIR*)		*		*		(AM-LOC*
+his		-		*		*		*		*)
+room		-		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		(A0*)
+could		-		(AM-MOD*)		(AM-MOD*)		*		(AM-MOD*)
+look		look		(V*)		*		*		*
+out		-		*		*		(AM-DIR*)		*
+in		-		(AM-LOC*)		*		(AM-LOC*)		(AM-LOC*)
+springtime		-		*		*		*		*
+and		-		*		*		*		*
+see		see		*		(V*)		*		*
+the		-		*		*		*		*
+couples		-		*		*		*		*
+hand		-		*		*		*		*
+in		-		(AM-LOC*		*		(AM-LOC*)		(AM-LOC*)
+hand		-		*)		*		*		*
+walking		walk		(AM-ADV*)		*		(V*)		*
+slowly		-		(AM-MNR*)		(AM-MNR*)		*		(AM-MNR*)
+,		-		*		*		*		*
+deliciously		-		(AM-MNR*)		(AM-MNR*)		*		(AM-MNR*)
+,		-		*		*		*		*
+across		-		(AM-DIR*		*		(AM-DIR*)		*
+the		-		*		*		*		*
+campus		-		*)		*		*		*
+,		-		*		*		*		*
+and		-		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		(A0*)
+could		-		(AM-MOD*)		(AM-MOD*)		*		(AM-MOD*)
+smell		smell		(V*		(V*)		*		(V*
+the		-		*)		*		*		*)
+sweet		-		(A1*)		(A1*)		*		*
+vernal		-		*		*		*		*
+winds		-		*		*		*		*
+.		-		*		*		*		*
+
+He		-
+was		-
+not		-
+stone		-
+.		-
+
+He		-
+was		-
+not		-
+unmoved		-
+.		-
+
+He		-		(A0*)
+had		-		(AM-MOD*)
+to		-		*
+teach		teach		(V*)
+himself		-		(A2*)
+patiently		-		(AM-MNR*)
+that		-		(A1*
+these		-		*
+traps		-		*)
+were		-		*
+not		-		(AM-NEG*)
+for		-		(A2*
+him		-		*)
+.		-		*
+
+He		-		(A0*)		(A0*)		*
+must		-		*		(AM-MOD*)		*
+mentally		-		*		*		*
+pull		pull		(V*)		*		*
+the		-		*		(A1*)		*
+blinds		-		*		*		*
+and		-		*		*		*
+close		close		*		(V*)		*
+the		-		*		(A1*		*
+window		-		*		*)		*
+,		-		*		*		*
+so		-		*		*		*
+that		-		*		*		*
+all		-		*		*		*
+that		-		*		(A1*)		*
+existed		exist		*		*		(V*)
+was		-		*		*		*
+in		-		(A2*)		*		*
+the		-		*		(A1*		*
+books		-		*		*)		*
+before		-		*		*		*
+him		-		*		*		*
+.		-		*		*		*
+
+At		-
+law		-
+school		-
+,		-
+the		-
+same		-
+.		-
+
+More		-
+of		-
+this		-
+stamping		-
+down		-
+of		-
+human		-
+emotion		-
+as		-
+a		-
+young		-
+lawyer		-
+in		-
+New		-
+York		-
+.		-
+
+By		-
+the		-
+time		-
+he		-
+was		-
+prosperous		-
+enough		-
+--		-
+his		-
+goals		-
+were		-
+high		-
+--		-
+he		-
+was		-
+bald		-
+and		-
+afraid		-
+of		-
+women		-
+.		-
+
+The		-		*		(A1*)
+only		-		(AM-ADV*)		(AM-ADV*
+one		-		*		*
+who		-		(R-A0*)		*)
+would		-		*		(AM-MOD*)
+have		have		(V*)		*
+him		-		*		*
+was		-		*		*
+his		-		*		(A1*
+cripple		-		*		*)
+,		-		*		*
+the		-		*		(A1*)
+strange		-		*		(A2*)
+unhappy		-		*		(A2*
+woman		-		*		*
+who		-		(R-A0*)		*)
+became		become		*		(V*)
+his		-		*		(A1*
+wife		-		*		*)
+.		-		*		*
+
+Perhaps		-
+it		-
+was		-
+right		-
+;		-
+;		-
+perhaps		-
+it		-
+was		-
+just		-
+.		-
+
+He		-		(A1*)		(A0*)		(A1*)		(A1*)
+had		-		*		(AM-MOD*)		*		*
+dared		dare		(V*)		*		*		*
+to		-		*		*		*		*
+defy		defy		*		(V*)		*		*
+nature		-		*		*		*		*
+,		-		*		*		*		*
+to		-		*		*		*		*
+turn		turn		*		(AM-ADV*)		(V*)		*
+his		-		*		*		*		*
+back		-		*		*		*		*
+to		-		*		*		*		*
+the		-		*		*		*		*
+Lorelei		-		*		*		*		*
+,		-		*		*		*		*
+and		-		*		*		*		*
+he		-		(A1*)		(A0*)		(A1*)		(A0*)
+was		-		*		*		*		*
+punished		punish		*		*		*		(V*)
+.		-		*		*		*		*
+
+Like		-		*		*
+Mrs.		-		*		*
+Dalloway		-		*		*
+,		-		*		*
+with		-		*		*
+her		-		*		*
+regrets		-		*		*
+about		-		*		(A3*)
+Peter		-		*		*
+Walsh		-		*		*
+,		-		*		*
+he		-		(A0*)		(A0*)
+had		have		(V*)		*
+his		-		*		*
+moments		-		*		*
+of		-		*		*
+melancholy		-		*		*
+over		-		*		*
+a		-		(A1*)		(A3*)
+youth		-		*		*
+too		-		*		(AM-DIS*)
+well		-		*		*
+spent		spend		*		(V*)
+.		-		*		*
+
+If		-		*		*		*		*		*
+he		-		*		*		(A0*)		(A0*)		*
+had		-		*		*		*		*		*
+had		have		(V*)		*		*		*		*
+a		-		(A1*)		(A1*)		(A1*)		*		*
+son		-		*		*		*		*		*
+,		-		*		*		*		*		*
+he		-		*		*		(A0*)		(A0*)		*
+would		-		*		(AM-MOD*)		*		(AM-MOD*)		*
+tell		tell		*		(V*		*		*		*
+him		-		*		*)		*		*		*
+,		-		*		*		*		*		*
+``		-		*		*		*		*		*
+Gather		gather		*		*		(V*)		*		*
+ye		-		*		*		*		*		*
+rosebuds		-		*		*		*		*		*
+while		-		*		*		*		*		*
+ye		-		*		*		*		*		*
+may		-		*		(AM-MOD*)		*		*		*
+This		-		*		(AM-TMP*)		*		*		*
+same		-		*		*		*		*		*
+flower		-		*		*		*		*		*
+that		-		*		(A1*)		*		*		*
+smiles		smile		*		*		*		(V*)		*
+today		-		*		*		*		*		*
+tomorrow		-		(AM-TMP*)		*		*		*		*
+will		-		*		(AM-MOD*)		*		(AM-MOD*)		*
+be		-		*		*		*		*		*
+dying		die		*		*		*		*		(V*)
+''		-		*		*		*		*		*
+.		-		*		*		*		*		*
+
+But		-		*
+then		-		(AM-TMP*)
+his		-		(A1*
+son		-		*)
+could		-		(AM-MOD*)
+afford		afford		(V*)
+it		-		(A0*)
+.		-		*
+
+Lawrence		-		(A2*)
+was		-		*
+waiting		wait		(V*
+for		-		*
+Bill		-		*
+Boxell		-		*)
+.		-		*
+
+The		-		*		*		*
+Vice		-		(A2*)		(A2*		*
+President		-		*		*)		*
+had		-		*		*		*
+called		call		(V*)		*		*
+and		-		*		*		*
+asked		ask		*		(V*)		*
+if		-		*		(AM-ADV*)		(AM-ADV*)
+he		-		(A0*)		(A1*)		(A0*)
+could		-		*		(AM-MOD*)		(AM-MOD*)
+see		see		*		(A1*)		(V*)
+the		-		*		*		*
+Secretary		-		*		*		(A1*)
+at		-		*		(A1*		*
+his		-		*		*		*
+home		-		(A1*)		*)		*
+.		-		*		*		*
+
+He		-		*
+said		say		(V*
+the		-		*
+matter		-		*)
+was		-		(A1*
+urgent		-		*)
+.		-		*
+
+The		-
+Secretary		-
+was		-
+uneasy		-
+about		-
+the		-
+visit		-
+.		-
+
+He		-
+did		-
+not		-
+like		-
+Boxell		-
+.		-
+
+He		-		(A0*)
+suspected		suspect		(V*
+something		-		*)
+underhanded		-		(A1*
+and		-		*
+furtive		-		*)
+about		-		(A1*
+him		-		*)
+.		-		*
+
+Lawrence		-		*		(A1*)
+could		-		(AM-MOD*)		(AM-MOD*)
+not		-		(AM-NEG*)		(AM-NEG*
+put		put		(V*)		*)
+his		-		(A1*		(A1*
+finger		-		*)		*)
+on		-		(A2*)		(A1*
+it		-		(A1*		*)
+precisely		-		*)		(A1*)
+,		-		*		*
+and		-		*		*
+this		-		(A1*)		*
+worried		worry		*		(V*
+him		-		*		*)
+.		-		*		*
+
+When		-		(AM-TMP*)		(AM-TMP*)		(R-AM-TMP*)
+you		-		(A0*)		(A0*)		(A0*)
+disliked		dislike		(V*		*		*
+or		-		*)		*		*
+distrusted		distrust		(AM-ADV*)		(V*)		(AM-ADV*)
+a		-		(AM-MNR*		*		(A1*)
+man		-		*)		*		*
+,		-		*		*		*
+you		-		(A0*)		(A0*)		(A0*)
+should		-		(AM-MOD*)		(AM-MOD*)		(AM-MOD*)
+have		have		*		*		(V*)
+a		-		(AM-MNR*		*		(A1*
+reason		-		*)		*		*)
+.		-		*		*		*
+
+Human		-		*
+nature		-		*
+was		-		*
+not		-		(AM-NEG*)
+a		-		(A1*)
+piece		-		*
+of		-		*
+meat		-		*
+you		-		*
+could		-		(AM-MOD*)
+tell		tell		(V*)
+was		-		*
+bad		-		(A1*)
+by		-		*
+its		-		*
+smell		-		*
+.		-		*
+
+Lawrence		-		*		(A1*)		*
+stared		stare		(V*		*		*
+a		-		*		*		(A1*)
+minute		-		*)		*		*
+at		-		(AM-LOC*		*		*
+the		-		*		*		*
+lighted		-		*		*		*
+ribbon		-		*)		*		*
+of		-		(A1*		*		*
+traffic		-		*)		*		*
+,		-		*		*		*
+hoping		hope		(AM-ADV*)		(V*)		*
+that		-		(A1*		*		*
+a		-		*		*		(A1*)
+clue		-		*)		*		*
+to		-		(A2*		*		*
+his		-		*		*		*
+dislike		-		*		*		*
+of		-		*		*		*
+the		-		*		*		*
+Vice		-		*)		*		*
+President		-		(A1*)		*		*
+would		-		(AM-MOD*)		*		*
+appear		appear		*		*		(V*)
+.		-		*		*		*
+
+It		-
+did		-
+not		-
+.		-
+
+Therefore		-		*		*		*		*
+,		-		*		*		*		*
+he		-		(A0*)		(A1*)		(A0*)		(A0*)
+decided		decide		(V*)		*		*		*
+he		-		(A0*)		(A1*)		(A0*)		(A0*)
+was		-		*		*		*		*
+unfair		-		(A1*)		(A2*)		*		*
+to		-		*		*		*		*
+the		-		*		*		*		*
+young		-		*		*		*		*
+man		-		*		*		*		*
+and		-		*		*		*		*
+should		-		*		*		*		*
+make		make		*		(V*)		*		*
+an		-		*		*		*		*
+effort		-		*		*		*		*
+to		-		*		*		*		*
+understand		understand		*		*		(V*)		*
+and		-		*		*		*		*
+sympathize		sympathize		*		*		*		(V*)
+with		-		*		*		*		*
+his		-		*		*		(A1*)		*
+point		-		*		*		*		*
+of		-		*		*		*		*
+view		-		*		*		*		*
+.		-		*		*		*		*
+
+A		-		(AM-TMP*)
+half		-		(AM-TMP*
+hour		-		*
+later		-		*
+the		-		*)
+Vice		-		(A2*)
+President		-		(A2*)
+arrived		arrive		(V*)
+.		-		*
+
+He		-		(A0*)		(A0*)
+looked		look		(V*		*
+very		-		*)		(A3*)
+carefully		-		(AM-MNR*)		*
+at		-		(A1*)		*
+every		-		(AM-ADV*)		*
+piece		-		*		*
+of		-		*		*
+furnishing		-		*		*
+,		-		*		*
+as		-		(AM-ADV*)		*
+though		-		*		*
+hoping		-		(AM-ADV*)		*
+to		-		(A1*)		*
+store		store		*		(V*)
+this		-		*		*
+information		-		*		*
+carefully		-		(AM-MNR*		*
+in		-		*		*
+his		-		*)		*
+mind		-		*		*
+.		-		*		*
+
+He		-		(A0*)
+observed		observe		(V*
+the		-		*
+Florentine		-		*
+vase		-		*
+in		-		*
+the		-		*
+hall		-		*)
+,		-		*
+the		-		*
+Renoir		-		*
+painting		-		*
+in		-		*
+the		-		*
+library		-		*
+,		-		*
+as		-		*
+well		-		*
+as		-		*
+the		-		*
+long		-		*
+shelves		-		*
+of		-		*
+well-bound		-		*
+volumes		-		*
+;		-		*
+;		-		*
+the		-		*
+pattern		-		*
+of		-		*
+the		-		*
+Oriental		-		*
+rug		-		*
+,		-		*
+the		-		*
+delicate		-		*
+cut-glass		-		*
+chandelier		-		*
+.		-		*
+
+He		-		(A0*)		(A0*)		*
+said		say		(V*)		*		*
+to		-		(A2*		*		*
+the		-		*		*		*
+Secretary		-		*)		*		*
+,		-		*		*		*
+``		-		*		*		*
+I		-		(A0*)		(A0*)		*
+understand		understand		*		(V*)		*
+you		-		(A0*		(A0*)		*
+came		come		*)		*		(V*)
+from		-		(A3*)		*		*
+a		-		(A0*)		(A1*)		*
+little		-		*		*		*
+Pennsylvania		-		*		*		*
+town		-		*		*		*
+near		-		*		*		*
+Wilkes-Barre		-		*		*		*
+.		-		*		*		*
+
+How		-		(A1*)
+did		-		*
+you		-		*
+find		find		(V*
+out		-		*
+about		-		*
+this		-		*)
+''		-		*
+?		-		*
+?		-		*
+
+He		-		(A0*)
+waved		wave		(V*
+his		-		*)
+arm		-		(A2*)
+around		-		(AM-DIR*)
+at		-		(AM-LOC*
+the		-		*
+furnishings		-		*)
+.		-		*
+
+It		-		*
+was		-		*
+not		-		(AM-NEG*
+a		-		*)
+discourteous		-		(A3*
+question		-		*)
+,		-		*
+Lawrence		-		(A1*)
+decided		decide		(V*)
+.		-		*
+
+This		-		*		*		*
+young		-		*		*		*
+man		-		*		*		*
+had		have		(V*)		*		*
+so		-		*		*		*
+little		-		*		*		*
+time		-		*		*		*
+to		-		*		*		*
+learn		learn		*		(V*)		*
+he		-		*		(A0*)		(A0*)
+had		-		*		*		*
+to		-		*		*		*
+be		-		*		*		*
+curious		-		*		*		*
+;		-		*		*		*
+;		-		*		*		*
+he		-		*		(A0*)		(A0*)
+had		-		*		*		*
+to		-		*		*		*
+find		find		*		*		(V*)
+out		-		*		*		*
+.		-		*		*		*
+
+The		-		*		*
+Secretary		-		*		(A0*)
+did		-		*		*
+not		-		(AM-NEG*)		(AM-NEG*)
+tell		tell		(V*)		*
+him		-		(A2*)		(A2*)
+at		-		(A1*)		*
+what		-		(R-A1*)		(R-A1*)
+cost		-		*		*
+,		-		*		*
+at		-		(A1*)		*
+what		-		(R-A1*		(R-A1*)
+loneliness		-		*)		*
+,		-		*		*
+he		-		(A0*)		(A0*)
+learned		learn		*		(V*)
+these		-		*		(A1*)
+things		-		*		*
+.		-		*		*
+
+He		-		*		(A0*)
+merely		-		(AM-ADV*)		(AM-ADV*)
+said		say		(V*)		*
+,		-		*		*
+``		-		*		*
+Any		-		*		(AM-TMP*
+good		-		*		*)
+decorator		-		*		(V*)
+these		-		*		(AM-TMP*
+days		-		*		*)
+can		-		(AM-MOD*		(AM-MOD*)
+make		make		*)		(V*)
+you		-		*		(A1*)
+a		-		*		(A1*)
+tasteful		-		(A1*)		(A2*
+home		-		*		*)
+''		-		*		*
+.		-		*		*
+
+The		-		*		*		*		*		*		*		*
+Vice		-		*		*		*		*		(A1*)		(A1*)		*
+President		-		*		*		*		*		*		*		*
+said		say		(V*)		*		*		*		*		*		*
+,		-		*		*		*		*		*		*		*
+``		-		*		*		*		*		*		*		*
+If		-		*		*		*		*		*		*		*
+you		-		*		(A0*)		*		*		*		(A0*)		*
+hear		hear		*		(V*)		*		*		*		(V*)		(V*)
+of		-		*		*		*		*		*		*		*
+any		-		(A1*		*		*		*		*		*		*
+names		-		*)		*		*		*		*		*		*
+that		-		(A1*		*		*		*		*		*		(A1*)
+would		-		*		*		*		*		*		(AM-MOD*)		(AM-MOD*)
+fix		fix		*		*		(V*)		*		*		*		*
+me		-		*		*		*		*		*		*		*
+cheap		-		*		*		*		*		*		*		*
+in		-		*		*		*		*		*		*		*
+return		-		*		*		*		*		*		*		*
+for		-		*)		*		*		*		*		*		*
+advertising		advertise		*		*		(A1*)		(V*)		(A1*)		*		*
+they		-		*		(A0*)		(A0*)		*		*		(A0*)		*
+decorated		decorate		*		*		*		*		(V*)		*		*
+the		-		*		*		*		*		*		*		*
+Vice		-		*		*		*		*		(A1*)		(A1*)		*
+President		-		*		*		*		*		*		*		*
+'s		-		*		*		*		*		*		*		*
+home		-		*		*		*		*		*		*		*
+,		-		*		*		*		*		*		*		*
+let		let		*		*		*		*		*		(V*)		*
+me		-		*		*		*		*		*		*		*
+know		know		*		*		*		*		*		*		(V*)
+.		-		*		*		*		*		*		*		*
+
+I		-		(A0*)
+can		-		(AM-MOD*)
+do		do		(V*)
+business		-		(A1*)
+with		-		(A2*
+that		-		*)
+kind		-		(A1*)
+''		-		*
+.		-		*
+
+Again		-		*
+,		-		*
+Lawrence		-		*
+thought		think		(V*)
+a		-		(A1*
+little		-		*)
+sadly		-		(AM-DIS*)
+,		-		*
+these		-		(A1*)
+were		-		*
+the		-		(A1*
+fees		-		*)
+of		-		*
+poverty		-		*
+and		-		*
+ambition		-		*
+.		-		*
+
+Boxell		-		*		*
+did		-		(AM-NEG*)		*
+not		-		(AM-NEG*)		(AM-NEG*)
+have		have		(V*)		*
+the		-		*		(A1*)
+chance		-		*		*
+to		-		*		*
+grow		grow		*		(V*)
+up		-		*		*
+graciously		-		(AM-MNR*)		*
+.		-		*		*
+
+He		-		(A0*)		(A0*)
+had		-		(AM-MOD*)		*
+to		-		*		*
+acquire		acquire		(V*)		*
+everything		-		(A1*)		(A1*)
+he		-		(A0*)		(A0*)
+was		-		*		*
+going		-		*		(AM-MOD*)
+to		-		*		*
+get		get		*		(V*)
+in		-		*		*
+four		-		(A1*)		*
+years		-		*		*
+.		-		*		*
+
+They		-		(A0*)
+had		have		(V*)
+brandy		-		(A1*)
+in		-		(AM-LOC*
+the		-		*
+library		-		*)
+.		-		*
+
+Boxell		-		*		*		*
+looked		look		(V*)		*		*
+at		-		(A1*		*		*
+Lawrence		-		*		*		*
+with		-		*)		*		*
+a		-		(A0*)		*		(A1*)
+searching		search		(V*		(V*)		(A2*)
+glance		-		*)		*		*
+,		-		*		*		*
+the		-		*		*		*
+kind		-		(A1*)		*		*
+that		-		(A1*)		*		*
+a		-		(A0*)		*		(A1*
+prosecuting		-		(A1*		*		*
+attorney		-		*)		*		*)
+would		-		(AM-MOD*)		*		(AM-MOD*)
+give		give		*		*		(V*)
+a		-		(A0*		*		(A1*
+man		-		*)		*		*
+on		-		(AM-TMP*		*		*
+trial		-		*)		*		*)
+.		-		*		*		*
+
+What		-
+are		-
+your		-
+weaknesses		-
+?		-
+?		-
+
+Where		-		(R-AM-LOC*)
+will		-		(AM-MOD*)
+you		-		(A0*)
+break		break		(V*)
+?		-		*
+?		-		*
+
+How		-		(R-AM-MNR*)
+best		-		(AM-MNR*)
+to		-		*
+destroy		destroy		(V*)
+your		-		(A1*
+peace		-		*)
+?		-		*
+?		-		*
+
+The		-		*		*
+Vice		-		*		*
+President		-		*		*
+said		say		(V*)		*
+with		-		*		*
+a		-		(A0*)		(A1*)
+slight		-		*		*
+bluster		-		*		*
+,		-		*		*
+``		-		*		*
+There		-		*		*
+is		-		*		*
+n't		-		*		*
+anyone		-		*		(A0*)
+who		-		(R-A0*)		(R-A0*)
+loves		love		*		(V*)
+the		-		*		*
+President		-		*		*
+more		-		*		*
+than		-		*		*
+I		-		*		*
+do		-		*		*
+.		-		*		*
+
+Old		-
+Chris		-
+is		-
+my		-
+ideal		-
+.		-
+
+At		-		*		*		*
+the		-		*		*		*
+same		-		*		*		*
+time		-		*		*		*
+,		-		*		*		*
+you		-		(A0*)		(A0*)		(A0*)
+have		-		*		*		*
+to		-		*		*		*
+face		face		(V*)		*		*
+facts		-		*		*		*
+and		-		*		*		*
+realize		realize		*		(V*)		*
+that		-		*		*		(A1*)
+a		-		*		*		*
+man		-		*		*		*
+who		-		(R-A1*)		(R-A0*)		(R-A0*)
+'s		-		*		*		*
+been		-		*		*		*
+in		-		*		*		*
+the		-		*		*		*
+Marine		-		*		*		*
+Corps		-		*		*		*
+all		-		*		*		*
+his		-		*		*		*
+life		-		*		*		*
+does		-		*		*		*
+n't		-		*		*		*
+understand		understand		*		*		(V*)
+much		-		*		*		*
+about		-		*		*		*
+politics		-		*		*		*
+.		-		*		*		*
+
+What		-		(R-A1*)
+does		-		*
+a		-		(A1*)
+monk		-		*
+know		know		(V*)
+about		-		(A2*)
+sex		-		(A1*)
+''		-		*
+?		-		*
+?		-		*
+
+Lawrence		-		*
+listened		listen		(V*)
+with		-		(AM-MNR*
+the		-		*)
+practiced		-		*
+,		-		*
+deceptive		-		*
+calm		-		*
+of		-		(A1*
+the		-		*
+lawyer		-		*)
+,		-		*
+but		-		*
+his		-		*
+face		-		*
+was		-		*
+in		-		*
+the		-		*
+shadow		-		*
+.		-		*
+
+``		-		*
+So		-		(AM-PNC*)
+,		-		*
+we		-		(A0*)
+have		-		(AM-MOD*)
+to		-		*
+protect		protect		(V*)
+the		-		(A1*
+old		-		*
+man		-		*)
+for		-		*
+his		-		(A1*
+own		-		*)
+good		-		(A3*)
+.		-		*
+
+You		-		*
+see		-		*
+what		-		(A1*)
+I		-		(A0*)
+mean		mean		(V*)
+.		-		*
+
+Congress		-		*
+is		-		*
+full		-		(A1*)
+of		-		*
+politicians		-		*
+,		-		*
+and		-		*
+if		-		*
+you		-		*
+want		want		(V*)
+to		-		*
+get		-		*
+along		-		*
+with		-		*
+them		-		*
+,		-		*
+you		-		*
+have		-		*
+to		-		*
+be		-		*
+politic		-		*
+.		-		*
+
+This		-		*		*		*		*
+is		-		*		*		*		*
+why		-		*		*		*		*
+I		-		(A0*)		(A0*)		(A0*)		(A0*)
+say		say		(V*)		*		*		*
+we		-		(A0*)		(A1*)		(A0*)		(A0*)
+just		-		*		*		*		*
+ca		-		(AM-MOD*)		*		*		*
+n't		-		*		*		*		*
+go		go		*		(V*)		*		*
+ahead		-		*		*		*		(A2*)
+and		-		*		*		*		*
+disarm		disarm		*		*		(V*)		*
+the		-		*		*		*		*
+Germans		-		*		*		*		*
+and		-		*		*		*		*
+pull		pull		*		*		*		(V*
+down		-		*		(AM-DIR*)		*		*)
+our		-		*		*		(A1*)		(A1*
+own		-		*		*		*		*
+defenses		-		*		*		*		*)
+.		-		*		*		*		*
+
+Let		let		(V*		*		*
+me		-		*		*		*
+tell		tell		*		(V*		*
+you		-		*)		*)		*
+what		-		(A1*		(A1*		(R-A1*)
+happened		happen		*)		*)		(V*)
+to		-		*		*		(A2*)
+me		-		*		*		*
+today		-		(AM-TMP*)		(AM-TMP*)		*
+.		-		*		*		*
+
+A		-		*		(A1*)		(A1*)		*		*		*
+fellow		-		*		*		*		*		*		*
+came		come		(V*)		*		*		*		*		*
+up		-		*		*		*		*		*		*
+to		-		*		*		*		*		*		*
+me		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+a		-		*		(A1*)		(A1*)		*		*		*
+Senator		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+I		-		*		(A0*)		*		*		(A0*)		(A0*)
+do		-		*		(V*)		*		*		*		*
+n't		-		*		*		*		*		*		*
+have		-		*		*		*		*		*		*
+to		-		*		*		*		*		*		*
+tell		tell		*		(V*)		*		*		*		*
+you		-		*		*		*		*		*		*
+his		-		*		*		*		*		*		(A1*)
+name		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+and		-		*		*		*		*		*		*
+he		-		(A1*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)
+told		tell		*		*		(V*)		*		*		*
+me		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+'		-		*		*		*		*		*		*
+I		-		*		(A0*)		*		*		(A0*)		(A0*)
+love		love		*		(V*)		(V*)		(V*)		*		*
+the		-		*		*		(A1*)		*		*		*
+President		-		*		*		*		*		*		*
+like		-		*		*		*		*		*		*
+a		-		*		(A1*)		*		*		*		*
+brother		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+but		-		*		*		*		*		*		*
+God		-		*		*		*		*		*		*
+damn		damn		*		*		*		*		(V*)		*
+it		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+he		-		(A1*)		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)
+'s		-		*		*		*		*		*		*
+crucifying		crucify		*		*		*		*		*		(V*)
+me		-		*		*		*		*		*		*
+.		-		*		*		*		*		*		*
+
+I		-		(A0*)		(A0*)		*		*		(A0*)		(A0*)
+'ve		-		*		*		*		*		*		*
+got		get		(V*)		*		(V*)		*		*		*
+a		-		*		(A1*)		*		*		*		*
+quarter		-		*		*		*		*		*		*
+of		-		*		*		*		*		*		*
+a		-		*		(A1*)		*		*		*		*
+million		-		*		*		*		*		*		*
+Germans		-		*		*		*		*		*		*
+in		-		*		*		*		*		*		*
+my		-		*		*		*		*		*		*
+state		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+and		-		*		*		*		*		*		*
+those		-		*		*		*		*		*		*
+krautheads		-		*		*		*		*		*		*
+tune		tune		*		(V*)		*		*		*		*
+in		-		*		*		*		*		*		*
+on		-		*		*		*		*		*		*
+Father		-		*		*		*		*		*		*
+Werther		-		*		*		*		*		*		*
+every		-		*		*		*		*		*		*
+night		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+and		-		*		*		*		*		*		*
+if		-		*		*		*		*		*		*
+he		-		(A0*)		(A0*)		*		(A0*)		(A0*)		(A0*)
+tells		tell		*		*		(V*)		*		*		*
+them		-		*		*		*		*		*		*
+to		-		*		*		*		*		*		*
+go		go		*		*		*		(V*)		*		*
+out		-		*		*		*		*		*		*
+and		-		*		*		*		*		*		*
+piss		piss		*		*		*		*		(V*)		*
+in		-		*		*		*		*		*		*
+the		-		*		*		*		*		*		*
+public		-		(A2*)		*		*		(A2*)		*		*
+square		-		*		*		*		*		*		*
+,		-		*		*		*		*		*		*
+that		-		*		*		*		*		*		*
+'s		-		*		*		*		*		*		*
+what		-		*		(R-A1*)		(R-A1*)		*		*		(R-A1*)
+they		-		(A0*)		(A0*)		(A0*)		(A1*)		(A0*)		(A0*)
+do		do		*		*		(V*)		*		*		(V*)
+.		-		*		*		*		*		*		*
+
+He		-		(A0*		(A0*)		(A0*
+'s		-		*)		*		*)
+telling		tell		(V*		*		*
+them		-		*)		*		*
+now		-		*		*		*
+to		-		*		*		*
+write		write		*		(V*)		*
+letters		-		*		*		*
+to		-		*		*		*
+their		-		*		*		(A1*)
+Congressmen		-		*		*		*
+opposing		oppose		*		*		(V*)
+the		-		*		*		(A1*
+disarmament		-		(A1*)		(A1*)		*)
+of		-		(A1*		(A0*)		(A0*)
+Germany		-		*)		*		*
+.		-		*		*		*
+
+And		-		*		*		*		*		*
+another		-		*		*		*		*		*
+one		-		*		*		*		*		*
+comes		come		(V*)		*		*		*		*
+to		-		*		*		*		*		*
+me		-		*		*		*		*		*
+and		-		*		*		*		*		*
+he		-		(A0*)		(A0*)		(A0*)		(A0*)		(A0*)
+says		say		*		(V*)		*		*		*
+,		-		*		*		*		*		*
+'		-		*		*		*		*		*
+Look		look		*		*		(V*)		*		*
+here		-		*		*		(AM-LOC*)		*		*
+,		-		*		*		*		*		*
+there		-		*		*		*		*		*
+'s		-		*		*		*		*		*
+a		-		(A1*)		*		*		(A1*)		(A1*)
+mill		-		*		*		*		*		*
+in		-		*		*		*		*		*
+my		-		*		*		*		*		(A1*)
+state		-		*		*		*		*		*
+employs		employ		*		*		*		(V*)		*
+five		-		*		*		*		*		*
+thousand		-		*		*		*		*		*
+people		-		*		(A0*)		(A0*)		*		*
+making		make		(A1*		(A1*)		*		*		(V*
+uniforms		-		*)		*		*		*		*)
+for		-		*		*		*		*		*
+the		-		(A1*)		(A1*)		*		*		(A1*)
+Navy		-		*		*		*		*		*
+.		-		*		*		*		*		*
+
